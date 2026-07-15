@@ -1,0 +1,603 @@
+sector,date,weight
+Aerospace & Defence,2024-06-01,0.02
+Aerospace & Defence,2024-07-01,0.02
+Aerospace & Defence,2024-08-01,0.01
+Aerospace & Defence,2024-09-01,0.01
+Aerospace & Defence,2024-10-01,0.01
+Aerospace & Defence,2024-11-01,0.01
+Aerospace & Defence,2024-12-01,0.01
+Aerospace & Defence,2025-01-01,0.01
+Aerospace & Defence,2025-02-01,0.01
+Aerospace & Defence,2025-03-01,0.01
+Aerospace & Defence,2025-04-01,0.01
+Aerospace & Defence,2025-05-01,0.02
+Aerospace & Defence,2025-06-01,0.02
+Aerospace & Defence,2025-07-01,0.01
+Aerospace & Defence,2025-08-01,0.01
+Aerospace & Defence,2025-09-01,0.01
+Aerospace & Defence,2025-10-01,0.01
+Aerospace & Defence,2025-11-01,0.01
+Aerospace & Defence,2025-12-01,0.01
+Aerospace & Defence,2026-01-01,0.02
+Aerospace & Defence,2026-02-01,0.01
+Aerospace & Defence,2026-03-01,0.01
+Aerospace & Defence,2026-04-01,0.01
+Aerospace & Defence,2026-05-01,0.02
+Auto & Auto Ancillaries,2024-06-01,0.1
+Auto & Auto Ancillaries,2024-07-01,0.1
+Auto & Auto Ancillaries,2024-08-01,0.09
+Auto & Auto Ancillaries,2024-09-01,0.1
+Auto & Auto Ancillaries,2024-10-01,0.09
+Auto & Auto Ancillaries,2024-11-01,0.09
+Auto & Auto Ancillaries,2024-12-01,0.09
+Auto & Auto Ancillaries,2025-01-01,0.1
+Auto & Auto Ancillaries,2025-02-01,0.1
+Auto & Auto Ancillaries,2025-03-01,0.09
+Auto & Auto Ancillaries,2025-04-01,0.09
+Auto & Auto Ancillaries,2025-05-01,0.09
+Auto & Auto Ancillaries,2025-06-01,0.09
+Auto & Auto Ancillaries,2025-07-01,0.09
+Auto & Auto Ancillaries,2025-08-01,0.1
+Auto & Auto Ancillaries,2025-09-01,0.1
+Auto & Auto Ancillaries,2025-10-01,0.1
+Auto & Auto Ancillaries,2025-11-01,0.1
+Auto & Auto Ancillaries,2025-12-01,0.1
+Auto & Auto Ancillaries,2026-01-01,0.1
+Auto & Auto Ancillaries,2026-02-01,0.1
+Auto & Auto Ancillaries,2026-03-01,0.1
+Auto & Auto Ancillaries,2026-04-01,0.1
+Auto & Auto Ancillaries,2026-05-01,0.1
+Banks,2024-06-01,0.25
+Banks,2024-07-01,0.23
+Banks,2024-08-01,0.22
+Banks,2024-09-01,0.23
+Banks,2024-10-01,0.24
+Banks,2024-11-01,0.24
+Banks,2024-12-01,0.24
+Banks,2025-01-01,0.24
+Banks,2025-02-01,0.26
+Banks,2025-03-01,0.27
+Banks,2025-04-01,0.27
+Banks,2025-05-01,0.26
+Banks,2025-06-01,0.26
+Banks,2025-07-01,0.26
+Banks,2025-08-01,0.25
+Banks,2025-09-01,0.25
+Banks,2025-10-01,0.25
+Banks,2025-11-01,0.26
+Banks,2025-12-01,0.26
+Banks,2026-01-01,0.27
+Banks,2026-02-01,0.27
+Banks,2026-03-01,0.26
+Banks,2026-04-01,0.25
+Banks,2026-05-01,0.25
+Building materials,2024-06-01,0.03
+Building materials,2024-07-01,0.03
+Building materials,2024-08-01,0.03
+Building materials,2024-09-01,0.03
+Building materials,2024-10-01,0.03
+Building materials,2024-11-01,0.03
+Building materials,2024-12-01,0.03
+Building materials,2025-01-01,0.03
+Building materials,2025-02-01,0.03
+Building materials,2025-03-01,0.03
+Building materials,2025-04-01,0.03
+Building materials,2025-05-01,0.03
+Building materials,2025-06-01,0.04
+Building materials,2025-07-01,0.04
+Building materials,2025-08-01,0.04
+Building materials,2025-09-01,0.04
+Building materials,2025-10-01,0.04
+Building materials,2025-11-01,0.03
+Building materials,2025-12-01,0.03
+Building materials,2026-01-01,0.03
+Building materials,2026-02-01,0.03
+Building materials,2026-03-01,0.03
+Building materials,2026-04-01,0.03
+Building materials,2026-05-01,0.03
+Chemicals,2024-06-01,0.01
+Chemicals,2024-07-01,0.01
+Chemicals,2024-08-01,0.01
+Chemicals,2024-09-01,0.01
+Chemicals,2024-10-01,0.01
+Chemicals,2024-11-01,0.01
+Chemicals,2024-12-01,0.01
+Chemicals,2025-01-01,0.01
+Chemicals,2025-02-01,0.01
+Chemicals,2025-03-01,0.01
+Chemicals,2025-04-01,0.01
+Chemicals,2025-05-01,0.01
+Chemicals,2025-06-01,0.01
+Chemicals,2025-07-01,0.01
+Chemicals,2025-08-01,0.01
+Chemicals,2025-09-01,0.01
+Chemicals,2025-10-01,0.01
+Chemicals,2025-11-01,0.01
+Chemicals,2025-12-01,0.01
+Chemicals,2026-01-01,0.01
+Chemicals,2026-02-01,0.01
+Chemicals,2026-03-01,0.01
+Chemicals,2026-04-01,0.01
+Chemicals,2026-05-01,0.01
+Co-Working,2024-06-01,0.0
+Co-Working,2024-07-01,0.0
+Co-Working,2024-08-01,0.0
+Co-Working,2024-09-01,0.0
+Co-Working,2024-10-01,0.0
+Co-Working,2024-11-01,0.0
+Co-Working,2024-12-01,0.0
+Co-Working,2025-01-01,0.0
+Co-Working,2025-02-01,0.0
+Co-Working,2025-03-01,0.0
+Co-Working,2025-04-01,0.0
+Co-Working,2025-05-01,0.0
+Co-Working,2025-06-01,0.0
+Co-Working,2025-07-01,0.0
+Co-Working,2025-08-01,0.0
+Co-Working,2025-09-01,0.0
+Co-Working,2025-10-01,0.0
+Co-Working,2025-11-01,0.0
+Co-Working,2025-12-01,0.0
+Co-Working,2026-01-01,0.0
+Co-Working,2026-02-01,0.0
+Co-Working,2026-03-01,0.0
+Co-Working,2026-04-01,0.0
+Co-Working,2026-05-01,0.0
+Consumer Durables,2024-06-01,0.01
+Consumer Durables,2024-07-01,0.01
+Consumer Durables,2024-08-01,0.01
+Consumer Durables,2024-09-01,0.01
+Consumer Durables,2024-10-01,0.01
+Consumer Durables,2024-11-01,0.01
+Consumer Durables,2024-12-01,0.01
+Consumer Durables,2025-01-01,0.01
+Consumer Durables,2025-02-01,0.01
+Consumer Durables,2025-03-01,0.01
+Consumer Durables,2025-04-01,0.01
+Consumer Durables,2025-05-01,0.01
+Consumer Durables,2025-06-01,0.01
+Consumer Durables,2025-07-01,0.01
+Consumer Durables,2025-08-01,0.01
+Consumer Durables,2025-09-01,0.01
+Consumer Durables,2025-10-01,0.01
+Consumer Durables,2025-11-01,0.01
+Consumer Durables,2025-12-01,0.01
+Consumer Durables,2026-01-01,0.01
+Consumer Durables,2026-02-01,0.01
+Consumer Durables,2026-03-01,0.01
+Consumer Durables,2026-04-01,0.01
+Consumer Durables,2026-05-01,0.01
+Consumer Goods,2024-06-01,0.09
+Consumer Goods,2024-07-01,0.09
+Consumer Goods,2024-08-01,0.09
+Consumer Goods,2024-09-01,0.09
+Consumer Goods,2024-10-01,0.09
+Consumer Goods,2024-11-01,0.09
+Consumer Goods,2024-12-01,0.09
+Consumer Goods,2025-01-01,0.08
+Consumer Goods,2025-02-01,0.08
+Consumer Goods,2025-03-01,0.08
+Consumer Goods,2025-04-01,0.08
+Consumer Goods,2025-05-01,0.08
+Consumer Goods,2025-06-01,0.08
+Consumer Goods,2025-07-01,0.08
+Consumer Goods,2025-08-01,0.08
+Consumer Goods,2025-09-01,0.08
+Consumer Goods,2025-10-01,0.08
+Consumer Goods,2025-11-01,0.08
+Consumer Goods,2025-12-01,0.08
+Consumer Goods,2026-01-01,0.07
+Consumer Goods,2026-02-01,0.07
+Consumer Goods,2026-03-01,0.07
+Consumer Goods,2026-04-01,0.08
+Consumer Goods,2026-05-01,0.08
+Engineering & Capital Goods,2024-06-01,0.02
+Engineering & Capital Goods,2024-07-01,0.02
+Engineering & Capital Goods,2024-08-01,0.02
+Engineering & Capital Goods,2024-09-01,0.02
+Engineering & Capital Goods,2024-10-01,0.02
+Engineering & Capital Goods,2024-11-01,0.02
+Engineering & Capital Goods,2024-12-01,0.02
+Engineering & Capital Goods,2025-01-01,0.02
+Engineering & Capital Goods,2025-02-01,0.02
+Engineering & Capital Goods,2025-03-01,0.02
+Engineering & Capital Goods,2025-04-01,0.02
+Engineering & Capital Goods,2025-05-01,0.02
+Engineering & Capital Goods,2025-06-01,0.02
+Engineering & Capital Goods,2025-07-01,0.02
+Engineering & Capital Goods,2025-08-01,0.02
+Engineering & Capital Goods,2025-09-01,0.02
+Engineering & Capital Goods,2025-10-01,0.02
+Engineering & Capital Goods,2025-11-01,0.02
+Engineering & Capital Goods,2025-12-01,0.02
+Engineering & Capital Goods,2026-01-01,0.02
+Engineering & Capital Goods,2026-02-01,0.02
+Engineering & Capital Goods,2026-03-01,0.02
+Engineering & Capital Goods,2026-04-01,0.02
+Engineering & Capital Goods,2026-05-01,0.03
+Financial Services,2024-06-01,0.01
+Financial Services,2024-07-01,0.01
+Financial Services,2024-08-01,0.01
+Financial Services,2024-09-01,0.01
+Financial Services,2024-10-01,0.01
+Financial Services,2024-11-01,0.01
+Financial Services,2024-12-01,0.01
+Financial Services,2025-01-01,0.01
+Financial Services,2025-02-01,0.0
+Financial Services,2025-03-01,0.0
+Financial Services,2025-04-01,0.01
+Financial Services,2025-05-01,0.01
+Financial Services,2025-06-01,0.01
+Financial Services,2025-07-01,0.0
+Financial Services,2025-08-01,0.01
+Financial Services,2025-09-01,0.01
+Financial Services,2025-10-01,0.01
+Financial Services,2025-11-01,0.01
+Financial Services,2025-12-01,0.01
+Financial Services,2026-01-01,0.0
+Financial Services,2026-02-01,0.01
+Financial Services,2026-03-01,0.01
+Financial Services,2026-04-01,0.01
+Financial Services,2026-05-01,0.01
+Financial services/Insurance,2024-06-01,0.07
+Financial services/Insurance,2024-07-01,0.07
+Financial services/Insurance,2024-08-01,0.08
+Financial services/Insurance,2024-09-01,0.08
+Financial services/Insurance,2024-10-01,0.07
+Financial services/Insurance,2024-11-01,0.07
+Financial services/Insurance,2024-12-01,0.07
+Financial services/Insurance,2025-01-01,0.07
+Financial services/Insurance,2025-02-01,0.08
+Financial services/Insurance,2025-03-01,0.07
+Financial services/Insurance,2025-04-01,0.07
+Financial services/Insurance,2025-05-01,0.07
+Financial services/Insurance,2025-06-01,0.07
+Financial services/Insurance,2025-07-01,0.07
+Financial services/Insurance,2025-08-01,0.07
+Financial services/Insurance,2025-09-01,0.07
+Financial services/Insurance,2025-10-01,0.07
+Financial services/Insurance,2025-11-01,0.07
+Financial services/Insurance,2025-12-01,0.07
+Financial services/Insurance,2026-01-01,0.07
+Financial services/Insurance,2026-02-01,0.07
+Financial services/Insurance,2026-03-01,0.07
+Financial services/Insurance,2026-04-01,0.07
+Financial services/Insurance,2026-05-01,0.07
+IT,2024-06-01,0.1
+IT,2024-07-01,0.11
+IT,2024-08-01,0.12
+IT,2024-09-01,0.12
+IT,2024-10-01,0.12
+IT,2024-11-01,0.13
+IT,2024-12-01,0.12
+IT,2025-01-01,0.12
+IT,2025-02-01,0.12
+IT,2025-03-01,0.1
+IT,2025-04-01,0.1
+IT,2025-05-01,0.1
+IT,2025-06-01,0.1
+IT,2025-07-01,0.1
+IT,2025-08-01,0.11
+IT,2025-09-01,0.1
+IT,2025-10-01,0.1
+IT,2025-11-01,0.11
+IT,2025-12-01,0.11
+IT,2026-01-01,0.11
+IT,2026-02-01,0.1
+IT,2026-03-01,0.11
+IT,2026-04-01,0.1
+IT,2026-05-01,0.1
+IT - Hardware,2024-06-01,0.0
+IT - Hardware,2024-07-01,0.0
+IT - Hardware,2024-08-01,0.0
+IT - Hardware,2024-09-01,0.0
+IT - Hardware,2024-10-01,0.0
+IT - Hardware,2024-11-01,0.0
+IT - Hardware,2024-12-01,0.0
+IT - Hardware,2025-01-01,0.0
+IT - Hardware,2025-02-01,0.0
+IT - Hardware,2025-03-01,0.0
+IT - Hardware,2025-04-01,0.0
+IT - Hardware,2025-05-01,0.0
+IT - Hardware,2025-06-01,0.0
+IT - Hardware,2025-07-01,0.0
+IT - Hardware,2025-08-01,0.0
+IT - Hardware,2025-09-01,0.0
+IT - Hardware,2025-10-01,0.0
+IT - Hardware,2025-11-01,0.0
+IT - Hardware,2025-12-01,0.0
+IT - Hardware,2026-01-01,0.0
+IT - Hardware,2026-02-01,0.0
+IT - Hardware,2026-03-01,0.0
+IT - Hardware,2026-04-01,0.0
+IT - Hardware,2026-05-01,0.0
+Infra/Real estate,2024-06-01,0.06
+Infra/Real estate,2024-07-01,0.06
+Infra/Real estate,2024-08-01,0.06
+Infra/Real estate,2024-09-01,0.06
+Infra/Real estate,2024-10-01,0.05
+Infra/Real estate,2024-11-01,0.06
+Infra/Real estate,2024-12-01,0.06
+Infra/Real estate,2025-01-01,0.05
+Infra/Real estate,2025-02-01,0.05
+Infra/Real estate,2025-03-01,0.06
+Infra/Real estate,2025-04-01,0.05
+Infra/Real estate,2025-05-01,0.06
+Infra/Real estate,2025-06-01,0.06
+Infra/Real estate,2025-07-01,0.05
+Infra/Real estate,2025-08-01,0.05
+Infra/Real estate,2025-09-01,0.05
+Infra/Real estate,2025-10-01,0.06
+Infra/Real estate,2025-11-01,0.05
+Infra/Real estate,2025-12-01,0.05
+Infra/Real estate,2026-01-01,0.05
+Infra/Real estate,2026-02-01,0.05
+Infra/Real estate,2026-03-01,0.05
+Infra/Real estate,2026-04-01,0.05
+Infra/Real estate,2026-05-01,0.06
+Metals & Mining,2024-06-01,0.03
+Metals & Mining,2024-07-01,0.03
+Metals & Mining,2024-08-01,0.03
+Metals & Mining,2024-09-01,0.03
+Metals & Mining,2024-10-01,0.03
+Metals & Mining,2024-11-01,0.03
+Metals & Mining,2024-12-01,0.03
+Metals & Mining,2025-01-01,0.03
+Metals & Mining,2025-02-01,0.03
+Metals & Mining,2025-03-01,0.03
+Metals & Mining,2025-04-01,0.03
+Metals & Mining,2025-05-01,0.03
+Metals & Mining,2025-06-01,0.03
+Metals & Mining,2025-07-01,0.03
+Metals & Mining,2025-08-01,0.03
+Metals & Mining,2025-09-01,0.03
+Metals & Mining,2025-10-01,0.03
+Metals & Mining,2025-11-01,0.03
+Metals & Mining,2025-12-01,0.03
+Metals & Mining,2026-01-01,0.03
+Metals & Mining,2026-02-01,0.03
+Metals & Mining,2026-03-01,0.03
+Metals & Mining,2026-04-01,0.03
+Metals & Mining,2026-05-01,0.03
+Miscellaneous,2024-06-01,0.01
+Miscellaneous,2024-07-01,0.01
+Miscellaneous,2024-08-01,0.01
+Miscellaneous,2024-09-01,0.01
+Miscellaneous,2024-10-01,0.01
+Miscellaneous,2024-11-01,0.01
+Miscellaneous,2024-12-01,0.01
+Miscellaneous,2025-01-01,0.01
+Miscellaneous,2025-02-01,0.01
+Miscellaneous,2025-03-01,0.01
+Miscellaneous,2025-04-01,0.01
+Miscellaneous,2025-05-01,0.01
+Miscellaneous,2025-06-01,0.01
+Miscellaneous,2025-07-01,0.01
+Miscellaneous,2025-08-01,0.01
+Miscellaneous,2025-09-01,0.01
+Miscellaneous,2025-10-01,0.01
+Miscellaneous,2025-11-01,0.01
+Miscellaneous,2025-12-01,0.01
+Miscellaneous,2026-01-01,0.01
+Miscellaneous,2026-02-01,0.01
+Miscellaneous,2026-03-01,0.01
+Miscellaneous,2026-04-01,0.02
+Miscellaneous,2026-05-01,0.02
+Oil/Energy,2024-06-01,0.06
+Oil/Energy,2024-07-01,0.06
+Oil/Energy,2024-08-01,0.05
+Oil/Energy,2024-09-01,0.05
+Oil/Energy,2024-10-01,0.04
+Oil/Energy,2024-11-01,0.04
+Oil/Energy,2024-12-01,0.04
+Oil/Energy,2025-01-01,0.05
+Oil/Energy,2025-02-01,0.05
+Oil/Energy,2025-03-01,0.05
+Oil/Energy,2025-04-01,0.05
+Oil/Energy,2025-05-01,0.05
+Oil/Energy,2025-06-01,0.05
+Oil/Energy,2025-07-01,0.05
+Oil/Energy,2025-08-01,0.05
+Oil/Energy,2025-09-01,0.05
+Oil/Energy,2025-10-01,0.05
+Oil/Energy,2025-11-01,0.05
+Oil/Energy,2025-12-01,0.05
+Oil/Energy,2026-01-01,0.05
+Oil/Energy,2026-02-01,0.05
+Oil/Energy,2026-03-01,0.05
+Oil/Energy,2026-04-01,0.05
+Oil/Energy,2026-05-01,0.05
+Pharma/healthcare,2024-06-01,0.06
+Pharma/healthcare,2024-07-01,0.07
+Pharma/healthcare,2024-08-01,0.07
+Pharma/healthcare,2024-09-01,0.07
+Pharma/healthcare,2024-10-01,0.07
+Pharma/healthcare,2024-11-01,0.07
+Pharma/healthcare,2024-12-01,0.07
+Pharma/healthcare,2025-01-01,0.07
+Pharma/healthcare,2025-02-01,0.07
+Pharma/healthcare,2025-03-01,0.07
+Pharma/healthcare,2025-04-01,0.07
+Pharma/healthcare,2025-05-01,0.06
+Pharma/healthcare,2025-06-01,0.06
+Pharma/healthcare,2025-07-01,0.07
+Pharma/healthcare,2025-08-01,0.07
+Pharma/healthcare,2025-09-01,0.07
+Pharma/healthcare,2025-10-01,0.06
+Pharma/healthcare,2025-11-01,0.06
+Pharma/healthcare,2025-12-01,0.06
+Pharma/healthcare,2026-01-01,0.06
+Pharma/healthcare,2026-02-01,0.06
+Pharma/healthcare,2026-03-01,0.07
+Pharma/healthcare,2026-04-01,0.07
+Pharma/healthcare,2026-05-01,0.07
+Plywood Boards/Laminates,2024-06-01,0.0
+Plywood Boards/Laminates,2024-07-01,0.0
+Plywood Boards/Laminates,2024-08-01,0.0
+Plywood Boards/Laminates,2024-09-01,0.0
+Plywood Boards/Laminates,2024-10-01,0.0
+Plywood Boards/Laminates,2024-11-01,0.0
+Plywood Boards/Laminates,2024-12-01,0.0
+Plywood Boards/Laminates,2025-01-01,0.0
+Plywood Boards/Laminates,2025-02-01,0.0
+Plywood Boards/Laminates,2025-03-01,0.0
+Plywood Boards/Laminates,2025-04-01,0.0
+Plywood Boards/Laminates,2025-05-01,0.0
+Plywood Boards/Laminates,2025-06-01,0.0
+Plywood Boards/Laminates,2025-07-01,0.0
+Plywood Boards/Laminates,2025-08-01,0.0
+Plywood Boards/Laminates,2025-09-01,0.0
+Plywood Boards/Laminates,2025-10-01,0.0
+Plywood Boards/Laminates,2025-11-01,0.0
+Plywood Boards/Laminates,2025-12-01,0.0
+Plywood Boards/Laminates,2026-01-01,0.0
+Plywood Boards/Laminates,2026-02-01,0.0
+Plywood Boards/Laminates,2026-03-01,0.0
+Plywood Boards/Laminates,2026-04-01,0.0
+Plywood Boards/Laminates,2026-05-01,0.0
+Power,2024-06-01,0.03
+Power,2024-07-01,0.03
+Power,2024-08-01,0.03
+Power,2024-09-01,0.03
+Power,2024-10-01,0.03
+Power,2024-11-01,0.03
+Power,2024-12-01,0.03
+Power,2025-01-01,0.03
+Power,2025-02-01,0.03
+Power,2025-03-01,0.03
+Power,2025-04-01,0.03
+Power,2025-05-01,0.03
+Power,2025-06-01,0.03
+Power,2025-07-01,0.03
+Power,2025-08-01,0.03
+Power,2025-09-01,0.03
+Power,2025-10-01,0.03
+Power,2025-11-01,0.03
+Power,2025-12-01,0.03
+Power,2026-01-01,0.03
+Power,2026-02-01,0.03
+Power,2026-03-01,0.04
+Power,2026-04-01,0.04
+Power,2026-05-01,0.04
+Power Infrastructure,2025-09-01,0.0
+Power Infrastructure,2025-10-01,0.0
+Power Infrastructure,2025-11-01,0.0
+Power Infrastructure,2025-12-01,0.0
+Power Infrastructure,2026-01-01,0.0
+Power Infrastructure,2026-02-01,0.0
+Power Infrastructure,2026-03-01,0.0
+Power Infrastructure,2026-04-01,0.0
+Power Infrastructure,2026-05-01,0.0
+Printing & Stationery,2024-06-01,0.0
+Printing & Stationery,2024-07-01,0.0
+Printing & Stationery,2024-08-01,0.0
+Printing & Stationery,2024-09-01,0.0
+Printing & Stationery,2024-10-01,0.0
+Printing & Stationery,2024-11-01,0.0
+Printing & Stationery,2024-12-01,0.0
+Printing & Stationery,2025-01-01,0.0
+Printing & Stationery,2025-02-01,0.0
+Printing & Stationery,2025-03-01,0.0
+Printing & Stationery,2025-04-01,0.0
+Printing & Stationery,2025-05-01,0.0
+Printing & Stationery,2025-06-01,0.0
+Printing & Stationery,2025-07-01,0.0
+Printing & Stationery,2025-08-01,0.0
+Printing & Stationery,2025-09-01,0.0
+Printing & Stationery,2025-10-01,0.0
+Printing & Stationery,2025-11-01,0.0
+Printing & Stationery,2025-12-01,0.0
+Printing & Stationery,2026-01-01,0.0
+Printing & Stationery,2026-02-01,0.0
+Printing & Stationery,2026-03-01,0.0
+Printing & Stationery,2026-04-01,0.0
+Printing & Stationery,2026-05-01,0.0
+Quick Service Restaurant,2024-06-01,0.0
+Quick Service Restaurant,2024-07-01,0.0
+Quick Service Restaurant,2024-08-01,0.0
+Quick Service Restaurant,2024-09-01,0.0
+Quick Service Restaurant,2024-10-01,0.0
+Quick Service Restaurant,2024-11-01,0.0
+Quick Service Restaurant,2024-12-01,0.0
+Quick Service Restaurant,2025-01-01,0.0
+Quick Service Restaurant,2025-02-01,0.0
+Quick Service Restaurant,2025-03-01,0.0
+Quick Service Restaurant,2025-04-01,0.0
+Quick Service Restaurant,2025-05-01,0.0
+Quick Service Restaurant,2025-06-01,0.0
+Quick Service Restaurant,2025-07-01,0.0
+Quick Service Restaurant,2025-08-01,0.0
+Quick Service Restaurant,2025-09-01,0.0
+Quick Service Restaurant,2025-10-01,0.0
+Quick Service Restaurant,2025-11-01,0.0
+Quick Service Restaurant,2025-12-01,0.0
+Quick Service Restaurant,2026-01-01,0.0
+Quick Service Restaurant,2026-02-01,0.0
+Quick Service Restaurant,2026-03-01,0.0
+Quick Service Restaurant,2026-04-01,0.0
+Quick Service Restaurant,2026-05-01,0.0
+Real Estate Investment Trusts,2024-06-01,0.0
+Real Estate Investment Trusts,2024-07-01,0.0
+Real Estate Investment Trusts,2024-08-01,0.0
+Real Estate Investment Trusts,2024-09-01,0.0
+Real Estate Investment Trusts,2024-10-01,0.0
+Real Estate Investment Trusts,2024-11-01,0.0
+Real Estate Investment Trusts,2024-12-01,0.0
+Real Estate Investment Trusts,2025-01-01,0.0
+Real Estate Investment Trusts,2025-02-01,0.0
+Real Estate Investment Trusts,2025-03-01,0.0
+Real Estate Investment Trusts,2025-04-01,0.0
+Real Estate Investment Trusts,2025-05-01,0.0
+Real Estate Investment Trusts,2025-06-01,0.0
+Real Estate Investment Trusts,2025-07-01,0.0
+Real Estate Investment Trusts,2025-08-01,0.0
+Real Estate Investment Trusts,2025-09-01,0.0
+Real Estate Investment Trusts,2025-10-01,0.0
+Real Estate Investment Trusts,2025-11-01,0.0
+Real Estate Investment Trusts,2025-12-01,0.0
+Real Estate Investment Trusts,2026-01-01,0.0
+Real Estate Investment Trusts,2026-02-01,0.01
+Real Estate Investment Trusts,2026-03-01,0.01
+Real Estate Investment Trusts,2026-04-01,0.01
+Real Estate Investment Trusts,2026-05-01,0.01
+Telecom-Handsets/Mobile,2025-01-01,0.0
+Telecom-Handsets/Mobile,2025-02-01,0.0
+Telecom-Handsets/Mobile,2025-03-01,0.0
+Telecom-Handsets/Mobile,2025-04-01,0.0
+Telecom-Handsets/Mobile,2025-05-01,0.0
+Telecom-Handsets/Mobile,2025-06-01,0.0
+Telecom-Handsets/Mobile,2025-07-01,0.0
+Telecom-Handsets/Mobile,2025-08-01,0.0
+Telecom-Handsets/Mobile,2025-09-01,0.0
+Telecom-Handsets/Mobile,2025-10-01,0.0
+Telecom-Handsets/Mobile,2025-11-01,0.0
+Telecom-Handsets/Mobile,2025-12-01,0.0
+Telecom-Handsets/Mobile,2026-01-01,0.0
+Telecom-Handsets/Mobile,2026-02-01,0.0
+Telecom-Handsets/Mobile,2026-03-01,0.0
+Telecom-Handsets/Mobile,2026-04-01,0.0
+Telecom-Handsets/Mobile,2026-05-01,0.0
+Telecom/Media,2024-06-01,0.03
+Telecom/Media,2024-07-01,0.03
+Telecom/Media,2024-08-01,0.04
+Telecom/Media,2024-09-01,0.04
+Telecom/Media,2024-10-01,0.04
+Telecom/Media,2024-11-01,0.04
+Telecom/Media,2024-12-01,0.03
+Telecom/Media,2025-01-01,0.04
+Telecom/Media,2025-02-01,0.04
+Telecom/Media,2025-03-01,0.04
+Telecom/Media,2025-04-01,0.04
+Telecom/Media,2025-05-01,0.04
+Telecom/Media,2025-06-01,0.04
+Telecom/Media,2025-07-01,0.04
+Telecom/Media,2025-08-01,0.04
+Telecom/Media,2025-09-01,0.04
+Telecom/Media,2025-10-01,0.04
+Telecom/Media,2025-11-01,0.04
+Telecom/Media,2025-12-01,0.04
+Telecom/Media,2026-01-01,0.04
+Telecom/Media,2026-02-01,0.04
+Telecom/Media,2026-03-01,0.04
+Telecom/Media,2026-04-01,0.04
+Telecom/Media,2026-05-01,0.03

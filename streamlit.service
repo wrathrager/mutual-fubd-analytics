@@ -1,0 +1,14 @@
+[Unit]
+Description=Streamlit Mutual Fund Analytics App
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/mutual-fund-analysis
+Environment=REQUEST_MIN_INTERVAL_SECONDS=1.5
+ExecStart=/home/ubuntu/mutual-fund-analysis/streamlit_app.sh
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,885 @@
+fund_name,sector,start_weight_pct,end_weight_pct,start_date,end_date
+360 ONE MF,Aerospace & Defence,0.63,0.52,2026-04-01,2026-05-01
+360 ONE MF,Auto & Auto Ancillaries,10.73,9.31,2026-04-01,2026-05-01
+360 ONE MF,Banks,15.81,16.26,2026-04-01,2026-05-01
+360 ONE MF,Building materials,0.54,0.86,2026-04-01,2026-05-01
+360 ONE MF,Chemicals,1.5,1.05,2026-04-01,2026-05-01
+360 ONE MF,Consumer Durables,1.69,1.72,2026-04-01,2026-05-01
+360 ONE MF,Consumer Goods,6.13,5.17,2026-04-01,2026-05-01
+360 ONE MF,Engineering & Capital Goods,9.0,9.96,2026-04-01,2026-05-01
+360 ONE MF,Financial Services,0.7,0.93,2026-04-01,2026-05-01
+360 ONE MF,Financial services/Insurance,13.26,13.64,2026-04-01,2026-05-01
+360 ONE MF,Infra/Real estate,5.77,2.15,2026-04-01,2026-05-01
+360 ONE MF,IT,5.91,6.8,2026-04-01,2026-05-01
+360 ONE MF,Metals & Mining,1.94,3.11,2026-04-01,2026-05-01
+360 ONE MF,Miscellaneous,9.74,10.56,2026-04-01,2026-05-01
+360 ONE MF,Oil/Energy,0.63,1.03,2026-04-01,2026-05-01
+360 ONE MF,Pharma/healthcare,5.58,5.95,2026-04-01,2026-05-01
+360 ONE MF,Power,0.18,0.41,2026-04-01,2026-05-01
+360 ONE MF,Real Estate Investment Trusts,0.34,0.33,2026-04-01,2026-05-01
+360 ONE MF,Telecom/Media,9.9,10.23,2026-04-01,2026-05-01
+Aditya BirlaSunM,Aerospace & Defence,0.73,0.72,2026-04-01,2026-05-01
+Aditya BirlaSunM,Auto & Auto Ancillaries,8.61,8.49,2026-04-01,2026-05-01
+Aditya BirlaSunM,Banks,20.08,19.35,2026-04-01,2026-05-01
+Aditya BirlaSunM,Building materials,2.75,3.05,2026-04-01,2026-05-01
+Aditya BirlaSunM,Chemicals,2.05,2.06,2026-04-01,2026-05-01
+Aditya BirlaSunM,Co-Working,0.08,0.08,2026-04-01,2026-05-01
+Aditya BirlaSunM,Consumer Durables,1.76,1.48,2026-04-01,2026-05-01
+Aditya BirlaSunM,Consumer Goods,9.33,9.3,2026-04-01,2026-05-01
+Aditya BirlaSunM,Engineering & Capital Goods,4.24,4.46,2026-04-01,2026-05-01
+Aditya BirlaSunM,Financial Services,0.53,0.56,2026-04-01,2026-05-01
+Aditya BirlaSunM,Financial services/Insurance,9.06,9.42,2026-04-01,2026-05-01
+Aditya BirlaSunM,Infra/Real estate,5.28,5.05,2026-04-01,2026-05-01
+Aditya BirlaSunM,IT,11.96,11.84,2026-04-01,2026-05-01
+Aditya BirlaSunM,Metals & Mining,3.38,3.55,2026-04-01,2026-05-01
+Aditya BirlaSunM,Miscellaneous,3.1,3.42,2026-04-01,2026-05-01
+Aditya BirlaSunM,Oil/Energy,4.59,4.17,2026-04-01,2026-05-01
+Aditya BirlaSunM,Pharma/healthcare,6.71,7.03,2026-04-01,2026-05-01
+Aditya BirlaSunM,Plywood Boards/Laminates,0.09,0.1,2026-04-01,2026-05-01
+Aditya BirlaSunM,Power,2.34,2.67,2026-04-01,2026-05-01
+Aditya BirlaSunM,Printing & Stationery,0.02,0.02,2026-04-01,2026-05-01
+Aditya BirlaSunM,Quick Service Restaurant,0.23,0.22,2026-04-01,2026-05-01
+Aditya BirlaSunM,Real Estate Investment Trusts,0.4,0.4,2026-04-01,2026-05-01
+Aditya BirlaSunM,Telecom/Media,2.68,2.58,2026-04-01,2026-05-01
+Axis MF,Aerospace & Defence,2.59,2.76,2026-04-01,2026-05-01
+Axis MF,Auto & Auto Ancillaries,9.55,10.41,2026-04-01,2026-05-01
+Axis MF,Banks,16.8,16.28,2026-04-01,2026-05-01
+Axis MF,Building materials,2.93,2.96,2026-04-01,2026-05-01
+Axis MF,Chemicals,4.13,4.14,2026-04-01,2026-05-01
+Axis MF,Co-Working,0.07,0.07,2026-04-01,2026-05-01
+Axis MF,Consumer Durables,2.1,1.78,2026-04-01,2026-05-01
+Axis MF,Consumer Goods,5.81,6.23,2026-04-01,2026-05-01
+Axis MF,Engineering & Capital Goods,7.18,8.15,2026-04-01,2026-05-01
+Axis MF,Financial Services,2.32,2.21,2026-04-01,2026-05-01
+Axis MF,Financial services/Insurance,7.69,7.34,2026-04-01,2026-05-01
+Axis MF,Infra/Real estate,5.51,5.4,2026-04-01,2026-05-01
+Axis MF,IT,9.1,8.58,2026-04-01,2026-05-01
+Axis MF,Metals & Mining,1.76,1.77,2026-04-01,2026-05-01
+Axis MF,Miscellaneous,3.14,3.15,2026-04-01,2026-05-01
+Axis MF,Oil/Energy,3.11,2.97,2026-04-01,2026-05-01
+Axis MF,Pharma/healthcare,10.26,10.66,2026-04-01,2026-05-01
+Axis MF,Power,2.02,1.63,2026-04-01,2026-05-01
+Axis MF,Printing & Stationery,0.25,0.24,2026-04-01,2026-05-01
+Axis MF,Quick Service Restaurant,0.35,0.27,2026-04-01,2026-05-01
+Axis MF,Real Estate Investment Trusts,0.02,0.02,2026-04-01,2026-05-01
+Axis MF,Telecom/Media,3.33,3.0,2026-04-01,2026-05-01
+BajajFinserv MF,Aerospace & Defence,3.34,3.09,2026-04-01,2026-05-01
+BajajFinserv MF,Auto & Auto Ancillaries,9.43,11.73,2026-04-01,2026-05-01
+BajajFinserv MF,Banks,20.19,19.87,2026-04-01,2026-05-01
+BajajFinserv MF,Building materials,6.09,5.95,2026-04-01,2026-05-01
+BajajFinserv MF,Chemicals,0.46,0.46,2026-04-01,2026-05-01
+BajajFinserv MF,Consumer Durables,3.56,3.05,2026-04-01,2026-05-01
+BajajFinserv MF,Consumer Goods,9.45,9.76,2026-04-01,2026-05-01
+BajajFinserv MF,Engineering & Capital Goods,5.38,5.93,2026-04-01,2026-05-01
+BajajFinserv MF,Financial Services,1.33,1.22,2026-04-01,2026-05-01
+BajajFinserv MF,Financial services/Insurance,4.37,4.54,2026-04-01,2026-05-01
+BajajFinserv MF,Infra/Real estate,2.58,1.97,2026-04-01,2026-05-01
+BajajFinserv MF,IT,5.56,4.11,2026-04-01,2026-05-01
+BajajFinserv MF,Metals & Mining,3.43,2.99,2026-04-01,2026-05-01
+BajajFinserv MF,Miscellaneous,1.76,2.91,2026-04-01,2026-05-01
+BajajFinserv MF,Oil/Energy,5.22,5.54,2026-04-01,2026-05-01
+BajajFinserv MF,Pharma/healthcare,12.03,12.33,2026-04-01,2026-05-01
+BajajFinserv MF,Power,2.25,1.76,2026-04-01,2026-05-01
+BajajFinserv MF,Real Estate Investment Trusts,0.46,0.44,2026-04-01,2026-05-01
+BajajFinserv MF,Telecom/Media,3.11,2.36,2026-04-01,2026-05-01
+Bandhan MF,Aerospace & Defence,0.55,0.51,2026-04-01,2026-05-01
+Bandhan MF,Auto & Auto Ancillaries,4.41,4.56,2026-04-01,2026-05-01
+Bandhan MF,Banks,16.14,16.52,2026-04-01,2026-05-01
+Bandhan MF,Building materials,2.72,3.13,2026-04-01,2026-05-01
+Bandhan MF,Chemicals,2.98,2.92,2026-04-01,2026-05-01
+Bandhan MF,Co-Working,0.21,0.2,2026-04-01,2026-05-01
+Bandhan MF,Consumer Durables,1.15,1.19,2026-04-01,2026-05-01
+Bandhan MF,Consumer Goods,10.35,9.52,2026-04-01,2026-05-01
+Bandhan MF,Engineering & Capital Goods,4.43,4.23,2026-04-01,2026-05-01
+Bandhan MF,Financial Services,0.76,0.64,2026-04-01,2026-05-01
+Bandhan MF,Financial services/Insurance,12.52,12.61,2026-04-01,2026-05-01
+Bandhan MF,Infra/Real estate,8.41,8.59,2026-04-01,2026-05-01
+Bandhan MF,IT,8.49,9.41,2026-04-01,2026-05-01
+Bandhan MF,Metals & Mining,4.25,4.1,2026-04-01,2026-05-01
+Bandhan MF,Miscellaneous,2.85,3.03,2026-04-01,2026-05-01
+Bandhan MF,Oil/Energy,5.28,4.82,2026-04-01,2026-05-01
+Bandhan MF,Pharma/healthcare,8.91,8.86,2026-04-01,2026-05-01
+Bandhan MF,Plywood Boards/Laminates,0.34,0.28,2026-04-01,2026-05-01
+Bandhan MF,Power,2.77,2.35,2026-04-01,2026-05-01
+Bandhan MF,Printing & Stationery,0.05,0.05,2026-04-01,2026-05-01
+Bandhan MF,Quick Service Restaurant,0.25,0.28,2026-04-01,2026-05-01
+Bandhan MF,Telecom-Handsets/Mobile,0.02,0.01,2026-04-01,2026-05-01
+Bandhan MF,Telecom/Media,2.17,2.22,2026-04-01,2026-05-01
+Bank of India MF,Aerospace & Defence,3.42,3.05,2026-04-01,2026-05-01
+Bank of India MF,Auto & Auto Ancillaries,8.04,8.07,2026-04-01,2026-05-01
+Bank of India MF,Banks,11.27,10.77,2026-04-01,2026-05-01
+Bank of India MF,Building materials,2.38,2.31,2026-04-01,2026-05-01
+Bank of India MF,Chemicals,1.85,1.57,2026-04-01,2026-05-01
+Bank of India MF,Co-Working,0.38,0.41,2026-04-01,2026-05-01
+Bank of India MF,Consumer Durables,1.26,1.43,2026-04-01,2026-05-01
+Bank of India MF,Consumer Goods,8.9,8.97,2026-04-01,2026-05-01
+Bank of India MF,Engineering & Capital Goods,9.51,8.7,2026-04-01,2026-05-01
+Bank of India MF,Financial Services,0.66,1.2,2026-04-01,2026-05-01
+Bank of India MF,Financial services/Insurance,8.0,7.06,2026-04-01,2026-05-01
+Bank of India MF,Infra/Real estate,5.78,5.78,2026-04-01,2026-05-01
+Bank of India MF,IT,3.54,3.56,2026-04-01,2026-05-01
+Bank of India MF,IT - Hardware,0.06,0.06,2026-04-01,2026-05-01
+Bank of India MF,Metals & Mining,9.54,9.28,2026-04-01,2026-05-01
+Bank of India MF,Miscellaneous,5.6,5.55,2026-04-01,2026-05-01
+Bank of India MF,Oil/Energy,3.46,3.05,2026-04-01,2026-05-01
+Bank of India MF,Pharma/healthcare,8.88,11.66,2026-04-01,2026-05-01
+Bank of India MF,Plywood Boards/Laminates,0.91,1.1,2026-04-01,2026-05-01
+Bank of India MF,Power,3.93,3.94,2026-04-01,2026-05-01
+Bank of India MF,Telecom/Media,2.64,2.47,2026-04-01,2026-05-01
+Baroda BNP MF,Aerospace & Defence,1.96,2.42,2026-04-01,2026-05-01
+Baroda BNP MF,Auto & Auto Ancillaries,9.34,9.79,2026-04-01,2026-05-01
+Baroda BNP MF,Banks,16.5,16.28,2026-04-01,2026-05-01
+Baroda BNP MF,Building materials,2.11,2.44,2026-04-01,2026-05-01
+Baroda BNP MF,Chemicals,2.98,3.04,2026-04-01,2026-05-01
+Baroda BNP MF,Co-Working,0.33,0.31,2026-04-01,2026-05-01
+Baroda BNP MF,Consumer Durables,1.97,1.55,2026-04-01,2026-05-01
+Baroda BNP MF,Consumer Goods,8.51,7.91,2026-04-01,2026-05-01
+Baroda BNP MF,Engineering & Capital Goods,8.4,8.64,2026-04-01,2026-05-01
+Baroda BNP MF,Financial Services,2.61,2.59,2026-04-01,2026-05-01
+Baroda BNP MF,Financial services/Insurance,5.45,5.97,2026-04-01,2026-05-01
+Baroda BNP MF,Infra/Real estate,4.23,4.45,2026-04-01,2026-05-01
+Baroda BNP MF,IT,11.42,10.1,2026-04-01,2026-05-01
+Baroda BNP MF,Metals & Mining,3.34,3.45,2026-04-01,2026-05-01
+Baroda BNP MF,Miscellaneous,2.02,2.1,2026-04-01,2026-05-01
+Baroda BNP MF,Oil/Energy,4.67,4.72,2026-04-01,2026-05-01
+Baroda BNP MF,Pharma/healthcare,7.18,7.53,2026-04-01,2026-05-01
+Baroda BNP MF,Power,3.41,3.34,2026-04-01,2026-05-01
+Baroda BNP MF,Printing & Stationery,0.04,0.03,2026-04-01,2026-05-01
+Baroda BNP MF,Quick Service Restaurant,0.4,0.32,2026-04-01,2026-05-01
+Baroda BNP MF,Telecom/Media,3.13,3.04,2026-04-01,2026-05-01
+Canara Robeco MF,Aerospace & Defence,3.41,3.35,2026-04-01,2026-05-01
+Canara Robeco MF,Auto & Auto Ancillaries,8.49,8.43,2026-04-01,2026-05-01
+Canara Robeco MF,Banks,17.0,17.11,2026-04-01,2026-05-01
+Canara Robeco MF,Building materials,3.92,4.0,2026-04-01,2026-05-01
+Canara Robeco MF,Chemicals,1.69,1.64,2026-04-01,2026-05-01
+Canara Robeco MF,Co-Working,0.27,0.29,2026-04-01,2026-05-01
+Canara Robeco MF,Consumer Durables,2.03,1.89,2026-04-01,2026-05-01
+Canara Robeco MF,Consumer Goods,8.94,8.85,2026-04-01,2026-05-01
+Canara Robeco MF,Engineering & Capital Goods,4.97,4.84,2026-04-01,2026-05-01
+Canara Robeco MF,Financial Services,2.3,2.1,2026-04-01,2026-05-01
+Canara Robeco MF,Financial services/Insurance,7.53,8.06,2026-04-01,2026-05-01
+Canara Robeco MF,Infra/Real estate,5.44,5.32,2026-04-01,2026-05-01
+Canara Robeco MF,IT,11.12,11.2,2026-04-01,2026-05-01
+Canara Robeco MF,Metals & Mining,1.05,1.06,2026-04-01,2026-05-01
+Canara Robeco MF,Miscellaneous,5.16,5.38,2026-04-01,2026-05-01
+Canara Robeco MF,Oil/Energy,2.75,2.63,2026-04-01,2026-05-01
+Canara Robeco MF,Pharma/healthcare,7.15,7.49,2026-04-01,2026-05-01
+Canara Robeco MF,Plywood Boards/Laminates,0.09,0.08,2026-04-01,2026-05-01
+Canara Robeco MF,Power,2.73,2.44,2026-04-01,2026-05-01
+Canara Robeco MF,Printing & Stationery,0.22,0.21,2026-04-01,2026-05-01
+Canara Robeco MF,Quick Service Restaurant,0.48,0.41,2026-04-01,2026-05-01
+Canara Robeco MF,Telecom/Media,3.25,3.23,2026-04-01,2026-05-01
+DSP MF,Aerospace & Defence,0.35,0.46,2026-04-01,2026-05-01
+DSP MF,Auto & Auto Ancillaries,10.32,10.0,2026-04-01,2026-05-01
+DSP MF,Banks,20.31,20.97,2026-04-01,2026-05-01
+DSP MF,Building materials,3.98,4.32,2026-04-01,2026-05-01
+DSP MF,Chemicals,4.47,4.27,2026-04-01,2026-05-01
+DSP MF,Consumer Durables,1.74,1.57,2026-04-01,2026-05-01
+DSP MF,Consumer Goods,5.89,5.49,2026-04-01,2026-05-01
+DSP MF,Engineering & Capital Goods,5.01,5.04,2026-04-01,2026-05-01
+DSP MF,Financial Services,0.79,0.7,2026-04-01,2026-05-01
+DSP MF,Financial services/Insurance,10.19,9.52,2026-04-01,2026-05-01
+DSP MF,Infra/Real estate,3.73,3.9,2026-04-01,2026-05-01
+DSP MF,IT,6.45,6.9,2026-04-01,2026-05-01
+DSP MF,Metals & Mining,2.3,2.24,2026-04-01,2026-05-01
+DSP MF,Miscellaneous,2.31,2.35,2026-04-01,2026-05-01
+DSP MF,Oil/Energy,4.46,4.98,2026-04-01,2026-05-01
+DSP MF,Pharma/healthcare,11.08,10.74,2026-04-01,2026-05-01
+DSP MF,Plywood Boards/Laminates,0.9,0.78,2026-04-01,2026-05-01
+DSP MF,Power,1.47,1.4,2026-04-01,2026-05-01
+DSP MF,Quick Service Restaurant,0.22,0.2,2026-04-01,2026-05-01
+DSP MF,Real Estate Investment Trusts,0.29,0.29,2026-04-01,2026-05-01
+DSP MF,Telecom/Media,3.74,3.87,2026-04-01,2026-05-01
+Edelweiss MF,Aerospace & Defence,2.48,2.55,2026-04-01,2026-05-01
+Edelweiss MF,Auto & Auto Ancillaries,9.8,9.6,2026-04-01,2026-05-01
+Edelweiss MF,Banks,16.0,14.92,2026-04-01,2026-05-01
+Edelweiss MF,Building materials,3.83,4.04,2026-04-01,2026-05-01
+Edelweiss MF,Chemicals,2.73,2.62,2026-04-01,2026-05-01
+Edelweiss MF,Co-Working,0.06,0.06,2026-04-01,2026-05-01
+Edelweiss MF,Consumer Durables,1.55,1.44,2026-04-01,2026-05-01
+Edelweiss MF,Consumer Goods,7.64,7.46,2026-04-01,2026-05-01
+Edelweiss MF,Engineering & Capital Goods,6.06,7.17,2026-04-01,2026-05-01
+Edelweiss MF,Financial Services,3.81,3.88,2026-04-01,2026-05-01
+Edelweiss MF,Financial services/Insurance,9.86,9.26,2026-04-01,2026-05-01
+Edelweiss MF,Infra/Real estate,4.26,4.06,2026-04-01,2026-05-01
+Edelweiss MF,IT,7.06,7.01,2026-04-01,2026-05-01
+Edelweiss MF,IT - Hardware,0.05,0.16,2026-04-01,2026-05-01
+Edelweiss MF,Metals & Mining,3.98,4.03,2026-04-01,2026-05-01
+Edelweiss MF,Miscellaneous,1.92,2.21,2026-04-01,2026-05-01
+Edelweiss MF,Oil/Energy,3.71,3.29,2026-04-01,2026-05-01
+Edelweiss MF,Pharma/healthcare,8.42,9.01,2026-04-01,2026-05-01
+Edelweiss MF,Plywood Boards/Laminates,0.35,0.33,2026-04-01,2026-05-01
+Edelweiss MF,Power,2.35,2.67,2026-04-01,2026-05-01
+Edelweiss MF,Quick Service Restaurant,0.47,0.4,2026-04-01,2026-05-01
+Edelweiss MF,Real Estate Investment Trusts,0.13,0.24,2026-04-01,2026-05-01
+Edelweiss MF,Telecom/Media,3.48,3.6,2026-04-01,2026-05-01
+Fr.Templeton MF,Aerospace & Defence,2.85,3.43,2026-04-01,2026-05-01
+Fr.Templeton MF,Auto & Auto Ancillaries,6.63,6.7,2026-04-01,2026-05-01
+Fr.Templeton MF,Banks,20.48,19.88,2026-04-01,2026-05-01
+Fr.Templeton MF,Building materials,3.84,4.57,2026-04-01,2026-05-01
+Fr.Templeton MF,Chemicals,2.29,2.23,2026-04-01,2026-05-01
+Fr.Templeton MF,Consumer Durables,2.46,2.25,2026-04-01,2026-05-01
+Fr.Templeton MF,Consumer Goods,7.07,6.75,2026-04-01,2026-05-01
+Fr.Templeton MF,Engineering & Capital Goods,4.44,4.62,2026-04-01,2026-05-01
+Fr.Templeton MF,Financial services/Insurance,5.62,5.82,2026-04-01,2026-05-01
+Fr.Templeton MF,Infra/Real estate,6.71,6.8,2026-04-01,2026-05-01
+Fr.Templeton MF,IT,11.74,11.57,2026-04-01,2026-05-01
+Fr.Templeton MF,Metals & Mining,2.47,2.49,2026-04-01,2026-05-01
+Fr.Templeton MF,Miscellaneous,2.59,2.57,2026-04-01,2026-05-01
+Fr.Templeton MF,Oil/Energy,4.77,4.47,2026-04-01,2026-05-01
+Fr.Templeton MF,Pharma/healthcare,7.42,7.27,2026-04-01,2026-05-01
+Fr.Templeton MF,Plywood Boards/Laminates,0.09,0.07,2026-04-01,2026-05-01
+Fr.Templeton MF,Power,4.23,4.2,2026-04-01,2026-05-01
+Fr.Templeton MF,Quick Service Restaurant,0.74,0.59,2026-04-01,2026-05-01
+Fr.Templeton MF,Real Estate Investment Trusts,0.3,0.3,2026-04-01,2026-05-01
+Fr.Templeton MF,Telecom/Media,3.29,3.44,2026-04-01,2026-05-01
+Groww MF,Aerospace & Defence,1.17,1.04,2026-04-01,2026-05-01
+Groww MF,Auto & Auto Ancillaries,7.91,8.63,2026-04-01,2026-05-01
+Groww MF,Banks,29.52,30.73,2026-04-01,2026-05-01
+Groww MF,Building materials,2.46,2.21,2026-04-01,2026-05-01
+Groww MF,Chemicals,0.98,1.06,2026-04-01,2026-05-01
+Groww MF,Co-Working,0.65,0.3,2026-04-01,2026-05-01
+Groww MF,Consumer Durables,0.45,0.69,2026-04-01,2026-05-01
+Groww MF,Consumer Goods,3.66,4.03,2026-04-01,2026-05-01
+Groww MF,Engineering & Capital Goods,1.99,2.16,2026-04-01,2026-05-01
+Groww MF,Financial Services,2.61,3.35,2026-04-01,2026-05-01
+Groww MF,Financial services/Insurance,15.78,13.45,2026-04-01,2026-05-01
+Groww MF,Infra/Real estate,7.95,7.2,2026-04-01,2026-05-01
+Groww MF,IT,7.14,7.42,2026-04-01,2026-05-01
+Groww MF,Metals & Mining,2.63,3.38,2026-04-01,2026-05-01
+Groww MF,Miscellaneous,2.02,1.61,2026-04-01,2026-05-01
+Groww MF,Oil/Energy,2.24,2.31,2026-04-01,2026-05-01
+Groww MF,Pharma/healthcare,6.13,5.57,2026-04-01,2026-05-01
+Groww MF,Power,1.26,1.17,2026-04-01,2026-05-01
+Groww MF,Telecom/Media,3.46,3.69,2026-04-01,2026-05-01
+HDFC Mutual Fund,Aerospace & Defence,1.95,2.03,2026-04-01,2026-05-01
+HDFC Mutual Fund,Auto & Auto Ancillaries,11.89,12.06,2026-04-01,2026-05-01
+HDFC Mutual Fund,Banks,24.26,23.7,2026-04-01,2026-05-01
+HDFC Mutual Fund,Building materials,1.74,1.8,2026-04-01,2026-05-01
+HDFC Mutual Fund,Chemicals,1.19,1.16,2026-04-01,2026-05-01
+HDFC Mutual Fund,Co-Working,0.13,0.13,2026-04-01,2026-05-01
+HDFC Mutual Fund,Consumer Durables,1.78,1.68,2026-04-01,2026-05-01
+HDFC Mutual Fund,Consumer Goods,6.15,6.18,2026-04-01,2026-05-01
+HDFC Mutual Fund,Engineering & Capital Goods,2.04,2.14,2026-04-01,2026-05-01
+HDFC Mutual Fund,Financial Services,0.2,0.16,2026-04-01,2026-05-01
+HDFC Mutual Fund,Financial services/Insurance,5.86,5.91,2026-04-01,2026-05-01
+HDFC Mutual Fund,Infra/Real estate,6.23,6.3,2026-04-01,2026-05-01
+HDFC Mutual Fund,IT,9.16,9.35,2026-04-01,2026-05-01
+HDFC Mutual Fund,Metals & Mining,2.88,2.79,2026-04-01,2026-05-01
+HDFC Mutual Fund,Miscellaneous,2.23,2.32,2026-04-01,2026-05-01
+HDFC Mutual Fund,Oil/Energy,4.53,4.36,2026-04-01,2026-05-01
+HDFC Mutual Fund,Pharma/healthcare,10.51,10.87,2026-04-01,2026-05-01
+HDFC Mutual Fund,Plywood Boards/Laminates,0.12,0.09,2026-04-01,2026-05-01
+HDFC Mutual Fund,Power,2.36,2.19,2026-04-01,2026-05-01
+HDFC Mutual Fund,Printing & Stationery,0.07,0.07,2026-04-01,2026-05-01
+HDFC Mutual Fund,Quick Service Restaurant,0.35,0.35,2026-04-01,2026-05-01
+HDFC Mutual Fund,Real Estate Investment Trusts,0.97,0.96,2026-04-01,2026-05-01
+HDFC Mutual Fund,Telecom/Media,3.39,3.4,2026-04-01,2026-05-01
+Helios MF,Aerospace & Defence,3.81,4.01,2026-04-01,2026-05-01
+Helios MF,Auto & Auto Ancillaries,6.05,3.94,2026-04-01,2026-05-01
+Helios MF,Banks,15.56,13.83,2026-04-01,2026-05-01
+Helios MF,Building materials,0.01,0.01,2026-04-01,2026-05-01
+Helios MF,Consumer Durables,0.0,1.95,2026-04-01,2026-05-01
+Helios MF,Consumer Goods,6.7,5.58,2026-04-01,2026-05-01
+Helios MF,Engineering & Capital Goods,4.56,4.54,2026-04-01,2026-05-01
+Helios MF,Financial Services,4.27,5.01,2026-04-01,2026-05-01
+Helios MF,Financial services/Insurance,14.79,14.54,2026-04-01,2026-05-01
+Helios MF,Infra/Real estate,10.78,10.72,2026-04-01,2026-05-01
+Helios MF,IT,8.69,8.44,2026-04-01,2026-05-01
+Helios MF,Metals & Mining,1.01,0.81,2026-04-01,2026-05-01
+Helios MF,Miscellaneous,6.87,9.74,2026-04-01,2026-05-01
+Helios MF,Oil/Energy,3.79,3.37,2026-04-01,2026-05-01
+Helios MF,Pharma/healthcare,5.04,5.12,2026-04-01,2026-05-01
+Helios MF,Power,4.25,4.72,2026-04-01,2026-05-01
+Helios MF,Quick Service Restaurant,0.56,0.53,2026-04-01,2026-05-01
+Helios MF,Real Estate Investment Trusts,0.08,0.08,2026-04-01,2026-05-01
+Helios MF,Telecom/Media,3.19,3.06,2026-04-01,2026-05-01
+HSBC Mutual Fund,Aerospace & Defence,3.05,2.71,2026-04-01,2026-05-01
+HSBC Mutual Fund,Auto & Auto Ancillaries,5.64,5.83,2026-04-01,2026-05-01
+HSBC Mutual Fund,Banks,14.01,13.42,2026-04-01,2026-05-01
+HSBC Mutual Fund,Building materials,5.17,5.06,2026-04-01,2026-05-01
+HSBC Mutual Fund,Chemicals,1.56,1.76,2026-04-01,2026-05-01
+HSBC Mutual Fund,Co-Working,0.07,0.07,2026-04-01,2026-05-01
+HSBC Mutual Fund,Consumer Durables,2.22,1.79,2026-04-01,2026-05-01
+HSBC Mutual Fund,Consumer Goods,8.5,8.76,2026-04-01,2026-05-01
+HSBC Mutual Fund,Engineering & Capital Goods,11.2,12.13,2026-04-01,2026-05-01
+HSBC Mutual Fund,Financial Services,3.7,3.49,2026-04-01,2026-05-01
+HSBC Mutual Fund,Financial services/Insurance,10.81,10.74,2026-04-01,2026-05-01
+HSBC Mutual Fund,Infra/Real estate,5.23,4.79,2026-04-01,2026-05-01
+HSBC Mutual Fund,IT,6.72,6.97,2026-04-01,2026-05-01
+HSBC Mutual Fund,IT - Hardware,0.31,0.4,2026-04-01,2026-05-01
+HSBC Mutual Fund,Metals & Mining,4.16,4.23,2026-04-01,2026-05-01
+HSBC Mutual Fund,Miscellaneous,3.13,3.05,2026-04-01,2026-05-01
+HSBC Mutual Fund,Oil/Energy,4.01,3.37,2026-04-01,2026-05-01
+HSBC Mutual Fund,Pharma/healthcare,6.09,7.32,2026-04-01,2026-05-01
+HSBC Mutual Fund,Plywood Boards/Laminates,0.14,0.13,2026-04-01,2026-05-01
+HSBC Mutual Fund,Power,2.33,2.34,2026-04-01,2026-05-01
+HSBC Mutual Fund,Printing & Stationery,0.03,0.03,2026-04-01,2026-05-01
+HSBC Mutual Fund,Quick Service Restaurant,0.62,0.51,2026-04-01,2026-05-01
+HSBC Mutual Fund,Telecom/Media,1.29,1.1,2026-04-01,2026-05-01
+ICICI Prud'l MF,Aerospace & Defence,0.85,0.85,2026-04-01,2026-05-01
+ICICI Prud'l MF,Auto & Auto Ancillaries,11.21,11.4,2026-04-01,2026-05-01
+ICICI Prud'l MF,Banks,18.22,19.0,2026-04-01,2026-05-01
+ICICI Prud'l MF,Building materials,3.7,3.81,2026-04-01,2026-05-01
+ICICI Prud'l MF,Chemicals,2.28,2.26,2026-04-01,2026-05-01
+ICICI Prud'l MF,Co-Working,0.03,0.04,2026-04-01,2026-05-01
+ICICI Prud'l MF,Consumer Durables,0.8,0.77,2026-04-01,2026-05-01
+ICICI Prud'l MF,Consumer Goods,8.49,8.65,2026-04-01,2026-05-01
+ICICI Prud'l MF,Engineering & Capital Goods,2.68,2.71,2026-04-01,2026-05-01
+ICICI Prud'l MF,Financial Services,0.63,0.64,2026-04-01,2026-05-01
+ICICI Prud'l MF,Financial services/Insurance,8.53,8.7,2026-04-01,2026-05-01
+ICICI Prud'l MF,Infra/Real estate,8.26,8.09,2026-04-01,2026-05-01
+ICICI Prud'l MF,IT,10.47,10.06,2026-04-01,2026-05-01
+ICICI Prud'l MF,IT - Hardware,0.14,0.16,2026-04-01,2026-05-01
+ICICI Prud'l MF,Metals & Mining,1.78,1.83,2026-04-01,2026-05-01
+ICICI Prud'l MF,Miscellaneous,1.23,1.23,2026-04-01,2026-05-01
+ICICI Prud'l MF,Oil/Energy,6.18,5.88,2026-04-01,2026-05-01
+ICICI Prud'l MF,Pharma/healthcare,6.88,6.68,2026-04-01,2026-05-01
+ICICI Prud'l MF,Plywood Boards/Laminates,0.03,0.03,2026-04-01,2026-05-01
+ICICI Prud'l MF,Power,3.49,3.18,2026-04-01,2026-05-01
+ICICI Prud'l MF,Quick Service Restaurant,0.36,0.33,2026-04-01,2026-05-01
+ICICI Prud'l MF,Real Estate Investment Trusts,0.99,0.98,2026-04-01,2026-05-01
+ICICI Prud'l MF,Telecom/Media,2.75,2.71,2026-04-01,2026-05-01
+Invesco MF,Aerospace & Defence,2.28,2.12,2026-04-01,2026-05-01
+Invesco MF,Auto & Auto Ancillaries,6.51,6.15,2026-04-01,2026-05-01
+Invesco MF,Banks,16.36,16.0,2026-04-01,2026-05-01
+Invesco MF,Building materials,3.54,3.51,2026-04-01,2026-05-01
+Invesco MF,Chemicals,1.12,1.47,2026-04-01,2026-05-01
+Invesco MF,Co-Working,0.47,0.47,2026-04-01,2026-05-01
+Invesco MF,Consumer Durables,2.88,2.79,2026-04-01,2026-05-01
+Invesco MF,Consumer Goods,4.44,4.41,2026-04-01,2026-05-01
+Invesco MF,Engineering & Capital Goods,3.68,4.17,2026-04-01,2026-05-01
+Invesco MF,Financial Services,3.91,3.99,2026-04-01,2026-05-01
+Invesco MF,Financial services/Insurance,8.69,8.28,2026-04-01,2026-05-01
+Invesco MF,Infra/Real estate,12.38,12.41,2026-04-01,2026-05-01
+Invesco MF,IT,11.33,11.16,2026-04-01,2026-05-01
+Invesco MF,Metals & Mining,1.18,1.35,2026-04-01,2026-05-01
+Invesco MF,Miscellaneous,3.26,3.69,2026-04-01,2026-05-01
+Invesco MF,Oil/Energy,1.7,1.6,2026-04-01,2026-05-01
+Invesco MF,Pharma/healthcare,13.7,13.92,2026-04-01,2026-05-01
+Invesco MF,Power,0.76,0.82,2026-04-01,2026-05-01
+Invesco MF,Printing & Stationery,0.01,0.01,2026-04-01,2026-05-01
+Invesco MF,Quick Service Restaurant,0.48,0.44,2026-04-01,2026-05-01
+Invesco MF,Telecom/Media,1.31,1.24,2026-04-01,2026-05-01
+ITI MF,Aerospace & Defence,2.79,2.89,2026-04-01,2026-05-01
+ITI MF,Auto & Auto Ancillaries,8.46,8.18,2026-04-01,2026-05-01
+ITI MF,Banks,16.03,15.67,2026-04-01,2026-05-01
+ITI MF,Building materials,2.9,2.92,2026-04-01,2026-05-01
+ITI MF,Chemicals,2.77,3.02,2026-04-01,2026-05-01
+ITI MF,Consumer Durables,2.94,2.73,2026-04-01,2026-05-01
+ITI MF,Consumer Goods,5.64,5.71,2026-04-01,2026-05-01
+ITI MF,Engineering & Capital Goods,9.88,9.81,2026-04-01,2026-05-01
+ITI MF,Financial Services,3.66,3.68,2026-04-01,2026-05-01
+ITI MF,Financial services/Insurance,6.99,6.86,2026-04-01,2026-05-01
+ITI MF,Infra/Real estate,6.13,5.74,2026-04-01,2026-05-01
+ITI MF,IT,5.68,4.86,2026-04-01,2026-05-01
+ITI MF,Metals & Mining,3.28,3.53,2026-04-01,2026-05-01
+ITI MF,Miscellaneous,3.64,4.06,2026-04-01,2026-05-01
+ITI MF,Oil/Energy,3.3,2.78,2026-04-01,2026-05-01
+ITI MF,Pharma/healthcare,11.69,13.38,2026-04-01,2026-05-01
+ITI MF,Power,2.52,2.65,2026-04-01,2026-05-01
+ITI MF,Telecom/Media,1.69,1.53,2026-04-01,2026-05-01
+JM Fin. MF,Aerospace & Defence,0.48,0.64,2026-04-01,2026-05-01
+JM Fin. MF,Auto & Auto Ancillaries,9.83,10.26,2026-04-01,2026-05-01
+JM Fin. MF,Banks,15.93,16.42,2026-04-01,2026-05-01
+JM Fin. MF,Building materials,3.16,2.81,2026-04-01,2026-05-01
+JM Fin. MF,Chemicals,2.14,2.24,2026-04-01,2026-05-01
+JM Fin. MF,Co-Working,0.29,0.32,2026-04-01,2026-05-01
+JM Fin. MF,Consumer Durables,3.64,3.43,2026-04-01,2026-05-01
+JM Fin. MF,Consumer Goods,8.16,8.17,2026-04-01,2026-05-01
+JM Fin. MF,Engineering & Capital Goods,5.4,5.82,2026-04-01,2026-05-01
+JM Fin. MF,Financial Services,1.66,1.74,2026-04-01,2026-05-01
+JM Fin. MF,Financial services/Insurance,9.41,9.27,2026-04-01,2026-05-01
+JM Fin. MF,Infra/Real estate,5.71,5.74,2026-04-01,2026-05-01
+JM Fin. MF,IT,7.77,7.79,2026-04-01,2026-05-01
+JM Fin. MF,Metals & Mining,4.11,3.68,2026-04-01,2026-05-01
+JM Fin. MF,Miscellaneous,2.35,3.26,2026-04-01,2026-05-01
+JM Fin. MF,Oil/Energy,3.7,3.25,2026-04-01,2026-05-01
+JM Fin. MF,Pharma/healthcare,8.58,8.2,2026-04-01,2026-05-01
+JM Fin. MF,Plywood Boards/Laminates,0.05,0.04,2026-04-01,2026-05-01
+JM Fin. MF,Power,3.6,2.55,2026-04-01,2026-05-01
+JM Fin. MF,Quick Service Restaurant,1.76,1.76,2026-04-01,2026-05-01
+JM Fin. MF,Real Estate Investment Trusts,0.0,0.18,2026-04-01,2026-05-01
+JM Fin. MF,Telecom-Handsets/Mobile,0.3,0.29,2026-04-01,2026-05-01
+JM Fin. MF,Telecom/Media,1.97,2.16,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Aerospace & Defence,4.51,4.6,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Auto & Auto Ancillaries,9.14,9.09,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Banks,15.7,15.51,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Building materials,4.92,4.76,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Chemicals,3.69,3.61,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Consumer Durables,2.22,2.2,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Consumer Goods,5.4,5.53,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Engineering & Capital Goods,3.99,3.93,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Financial Services,1.39,1.32,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Financial services/Insurance,10.47,10.39,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Infra/Real estate,5.62,5.69,2026-04-01,2026-05-01
+Kotak Mah.Mutual,IT,9.24,8.9,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Metals & Mining,2.78,2.88,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Miscellaneous,1.22,1.32,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Oil/Energy,3.85,3.72,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Pharma/healthcare,8.08,8.77,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Plywood Boards/Laminates,0.31,0.29,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Power,2.71,2.65,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Printing & Stationery,0.05,0.05,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Quick Service Restaurant,0.21,0.22,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Real Estate Investment Trusts,0.23,0.23,2026-04-01,2026-05-01
+Kotak Mah.Mutual,Telecom/Media,4.25,4.35,2026-04-01,2026-05-01
+LIC MF,Aerospace & Defence,2.37,2.83,2026-04-01,2026-05-01
+LIC MF,Auto & Auto Ancillaries,12.55,11.8,2026-04-01,2026-05-01
+LIC MF,Banks,15.56,14.97,2026-04-01,2026-05-01
+LIC MF,Building materials,1.85,1.86,2026-04-01,2026-05-01
+LIC MF,Chemicals,3.08,3.17,2026-04-01,2026-05-01
+LIC MF,Consumer Durables,1.93,1.93,2026-04-01,2026-05-01
+LIC MF,Consumer Goods,9.8,9.39,2026-04-01,2026-05-01
+LIC MF,Engineering & Capital Goods,7.21,7.75,2026-04-01,2026-05-01
+LIC MF,Financial Services,1.47,1.43,2026-04-01,2026-05-01
+LIC MF,Financial services/Insurance,7.88,7.5,2026-04-01,2026-05-01
+LIC MF,Infra/Real estate,8.19,8.82,2026-04-01,2026-05-01
+LIC MF,IT,6.19,5.28,2026-04-01,2026-05-01
+LIC MF,Metals & Mining,2.34,3.33,2026-04-01,2026-05-01
+LIC MF,Miscellaneous,4.07,4.42,2026-04-01,2026-05-01
+LIC MF,Oil/Energy,2.25,1.47,2026-04-01,2026-05-01
+LIC MF,Pharma/healthcare,7.38,8.21,2026-04-01,2026-05-01
+LIC MF,Plywood Boards/Laminates,0.05,0.04,2026-04-01,2026-05-01
+LIC MF,Power,1.81,2.14,2026-04-01,2026-05-01
+LIC MF,Quick Service Restaurant,0.45,0.03,2026-04-01,2026-05-01
+LIC MF,Telecom/Media,3.54,3.63,2026-04-01,2026-05-01
+Mahindra Manulif,Aerospace & Defence,1.38,1.59,2026-04-01,2026-05-01
+Mahindra Manulif,Auto & Auto Ancillaries,8.44,8.53,2026-04-01,2026-05-01
+Mahindra Manulif,Banks,15.21,15.26,2026-04-01,2026-05-01
+Mahindra Manulif,Building materials,5.97,5.8,2026-04-01,2026-05-01
+Mahindra Manulif,Chemicals,2.23,2.32,2026-04-01,2026-05-01
+Mahindra Manulif,Consumer Durables,1.92,1.84,2026-04-01,2026-05-01
+Mahindra Manulif,Consumer Goods,9.12,8.57,2026-04-01,2026-05-01
+Mahindra Manulif,Engineering & Capital Goods,6.68,6.35,2026-04-01,2026-05-01
+Mahindra Manulif,Financial Services,1.12,0.97,2026-04-01,2026-05-01
+Mahindra Manulif,Financial services/Insurance,8.06,8.68,2026-04-01,2026-05-01
+Mahindra Manulif,Infra/Real estate,4.98,4.99,2026-04-01,2026-05-01
+Mahindra Manulif,IT,6.73,7.72,2026-04-01,2026-05-01
+Mahindra Manulif,Metals & Mining,3.35,3.14,2026-04-01,2026-05-01
+Mahindra Manulif,Miscellaneous,2.01,2.7,2026-04-01,2026-05-01
+Mahindra Manulif,Oil/Energy,3.85,3.47,2026-04-01,2026-05-01
+Mahindra Manulif,Pharma/healthcare,10.98,10.45,2026-04-01,2026-05-01
+Mahindra Manulif,Plywood Boards/Laminates,0.11,0.13,2026-04-01,2026-05-01
+Mahindra Manulif,Power,3.07,2.51,2026-04-01,2026-05-01
+Mahindra Manulif,Printing & Stationery,0.4,0.43,2026-04-01,2026-05-01
+Mahindra Manulif,Quick Service Restaurant,0.17,0.1,2026-04-01,2026-05-01
+Mahindra Manulif,Real Estate Investment Trusts,0.3,0.37,2026-04-01,2026-05-01
+Mahindra Manulif,Telecom/Media,3.94,4.08,2026-04-01,2026-05-01
+Mirae Asset,Aerospace & Defence,0.55,0.6,2026-04-01,2026-05-01
+Mirae Asset,Auto & Auto Ancillaries,8.55,8.78,2026-04-01,2026-05-01
+Mirae Asset,Banks,21.2,20.83,2026-04-01,2026-05-01
+Mirae Asset,Building materials,2.65,2.6,2026-04-01,2026-05-01
+Mirae Asset,Chemicals,2.54,2.41,2026-04-01,2026-05-01
+Mirae Asset,Co-Working,0.01,0.0,2026-04-01,2026-05-01
+Mirae Asset,Consumer Durables,2.17,2.11,2026-04-01,2026-05-01
+Mirae Asset,Consumer Goods,7.45,6.87,2026-04-01,2026-05-01
+Mirae Asset,Engineering & Capital Goods,1.56,1.34,2026-04-01,2026-05-01
+Mirae Asset,Financial Services,0.9,1.05,2026-04-01,2026-05-01
+Mirae Asset,Financial services/Insurance,6.85,7.58,2026-04-01,2026-05-01
+Mirae Asset,Infra/Real estate,7.63,7.09,2026-04-01,2026-05-01
+Mirae Asset,IT,11.17,11.14,2026-04-01,2026-05-01
+Mirae Asset,Metals & Mining,2.27,1.79,2026-04-01,2026-05-01
+Mirae Asset,Miscellaneous,1.42,1.45,2026-04-01,2026-05-01
+Mirae Asset,Oil/Energy,5.26,5.47,2026-04-01,2026-05-01
+Mirae Asset,Pharma/healthcare,10.12,10.56,2026-04-01,2026-05-01
+Mirae Asset,Plywood Boards/Laminates,0.57,0.63,2026-04-01,2026-05-01
+Mirae Asset,Power,2.75,2.82,2026-04-01,2026-05-01
+Mirae Asset,Quick Service Restaurant,0.19,0.24,2026-04-01,2026-05-01
+Mirae Asset,Real Estate Investment Trusts,0.01,0.01,2026-04-01,2026-05-01
+Mirae Asset,Telecom/Media,4.19,4.61,2026-04-01,2026-05-01
+Motilal Oswal MF,Aerospace & Defence,4.61,4.41,2026-04-01,2026-05-01
+Motilal Oswal MF,Auto & Auto Ancillaries,6.97,7.2,2026-04-01,2026-05-01
+Motilal Oswal MF,Banks,5.96,4.34,2026-04-01,2026-05-01
+Motilal Oswal MF,Building materials,3.67,4.55,2026-04-01,2026-05-01
+Motilal Oswal MF,Chemicals,1.59,1.66,2026-04-01,2026-05-01
+Motilal Oswal MF,Co-Working,0.11,0.11,2026-04-01,2026-05-01
+Motilal Oswal MF,Consumer Durables,3.14,3.04,2026-04-01,2026-05-01
+Motilal Oswal MF,Consumer Goods,7.56,6.68,2026-04-01,2026-05-01
+Motilal Oswal MF,Engineering & Capital Goods,9.69,11.82,2026-04-01,2026-05-01
+Motilal Oswal MF,Financial Services,5.85,5.96,2026-04-01,2026-05-01
+Motilal Oswal MF,Financial services/Insurance,15.49,15.71,2026-04-01,2026-05-01
+Motilal Oswal MF,Infra/Real estate,3.07,2.56,2026-04-01,2026-05-01
+Motilal Oswal MF,IT,17.53,18.35,2026-04-01,2026-05-01
+Motilal Oswal MF,IT - Hardware,0.02,0.03,2026-04-01,2026-05-01
+Motilal Oswal MF,Metals & Mining,0.96,1.4,2026-04-01,2026-05-01
+Motilal Oswal MF,Miscellaneous,2.95,3.95,2026-04-01,2026-05-01
+Motilal Oswal MF,Oil/Energy,0.55,0.33,2026-04-01,2026-05-01
+Motilal Oswal MF,Pharma/healthcare,5.08,5.59,2026-04-01,2026-05-01
+Motilal Oswal MF,Plywood Boards/Laminates,0.03,0.03,2026-04-01,2026-05-01
+Motilal Oswal MF,Power,0.35,0.36,2026-04-01,2026-05-01
+Motilal Oswal MF,Power Infrastructure,0.04,0.04,2026-04-01,2026-05-01
+Motilal Oswal MF,Printing & Stationery,0.04,0.03,2026-04-01,2026-05-01
+Motilal Oswal MF,Quick Service Restaurant,0.04,0.04,2026-04-01,2026-05-01
+Motilal Oswal MF,Telecom/Media,4.71,1.81,2026-04-01,2026-05-01
+Navi MF,Aerospace & Defence,0.7,0.69,2026-04-01,2026-05-01
+Navi MF,Auto & Auto Ancillaries,11.9,11.51,2026-04-01,2026-05-01
+Navi MF,Banks,22.04,21.6,2026-04-01,2026-05-01
+Navi MF,Building materials,3.4,3.59,2026-04-01,2026-05-01
+Navi MF,Chemicals,2.99,3.17,2026-04-01,2026-05-01
+Navi MF,Consumer Durables,0.09,0.08,2026-04-01,2026-05-01
+Navi MF,Consumer Goods,6.9,6.78,2026-04-01,2026-05-01
+Navi MF,Engineering & Capital Goods,4.22,4.55,2026-04-01,2026-05-01
+Navi MF,Financial Services,0.99,1.1,2026-04-01,2026-05-01
+Navi MF,Financial services/Insurance,12.16,12.06,2026-04-01,2026-05-01
+Navi MF,Infra/Real estate,4.9,4.99,2026-04-01,2026-05-01
+Navi MF,IT,8.04,7.74,2026-04-01,2026-05-01
+Navi MF,Metals & Mining,3.59,3.92,2026-04-01,2026-05-01
+Navi MF,Miscellaneous,2.87,3.01,2026-04-01,2026-05-01
+Navi MF,Oil/Energy,4.41,4.09,2026-04-01,2026-05-01
+Navi MF,Pharma/healthcare,7.54,7.95,2026-04-01,2026-05-01
+Navi MF,Power,0.62,0.58,2026-04-01,2026-05-01
+Navi MF,Telecom/Media,2.64,2.56,2026-04-01,2026-05-01
+Nippon India MF,Aerospace & Defence,1.43,1.48,2026-04-01,2026-05-01
+Nippon India MF,Auto & Auto Ancillaries,7.12,7.46,2026-04-01,2026-05-01
+Nippon India MF,Banks,15.56,15.39,2026-04-01,2026-05-01
+Nippon India MF,Building materials,2.43,2.5,2026-04-01,2026-05-01
+Nippon India MF,Chemicals,2.28,2.19,2026-04-01,2026-05-01
+Nippon India MF,Co-Working,0.05,0.05,2026-04-01,2026-05-01
+Nippon India MF,Consumer Durables,3.99,3.69,2026-04-01,2026-05-01
+Nippon India MF,Consumer Goods,9.7,9.43,2026-04-01,2026-05-01
+Nippon India MF,Engineering & Capital Goods,8.19,8.38,2026-04-01,2026-05-01
+Nippon India MF,Financial Services,1.75,1.59,2026-04-01,2026-05-01
+Nippon India MF,Financial services/Insurance,8.56,8.48,2026-04-01,2026-05-01
+Nippon India MF,Infra/Real estate,4.45,4.29,2026-04-01,2026-05-01
+Nippon India MF,IT,7.68,8.07,2026-04-01,2026-05-01
+Nippon India MF,Metals & Mining,1.59,1.56,2026-04-01,2026-05-01
+Nippon India MF,Miscellaneous,4.04,4.03,2026-04-01,2026-05-01
+Nippon India MF,Oil/Energy,2.69,2.54,2026-04-01,2026-05-01
+Nippon India MF,Pharma/healthcare,10.34,10.73,2026-04-01,2026-05-01
+Nippon India MF,Plywood Boards/Laminates,0.17,0.16,2026-04-01,2026-05-01
+Nippon India MF,Power,5.54,5.24,2026-04-01,2026-05-01
+Nippon India MF,Printing & Stationery,0.05,0.04,2026-04-01,2026-05-01
+Nippon India MF,Quick Service Restaurant,0.94,1.06,2026-04-01,2026-05-01
+Nippon India MF,Real Estate Investment Trusts,0.13,0.13,2026-04-01,2026-05-01
+Nippon India MF,Telecom/Media,1.31,1.52,2026-04-01,2026-05-01
+NJ MF,Aerospace & Defence,0.82,0.81,2026-04-01,2026-05-01
+NJ MF,Auto & Auto Ancillaries,12.19,12.39,2026-04-01,2026-05-01
+NJ MF,Banks,11.35,11.66,2026-04-01,2026-05-01
+NJ MF,Building materials,2.44,2.5,2026-04-01,2026-05-01
+NJ MF,Chemicals,3.43,3.54,2026-04-01,2026-05-01
+NJ MF,Consumer Durables,2.1,2.02,2026-04-01,2026-05-01
+NJ MF,Consumer Goods,19.91,18.93,2026-04-01,2026-05-01
+NJ MF,Engineering & Capital Goods,0.72,0.99,2026-04-01,2026-05-01
+NJ MF,Financial Services,0.08,0.04,2026-04-01,2026-05-01
+NJ MF,Financial services/Insurance,9.32,8.72,2026-04-01,2026-05-01
+NJ MF,Infra/Real estate,1.71,1.46,2026-04-01,2026-05-01
+NJ MF,IT,7.31,6.94,2026-04-01,2026-05-01
+NJ MF,Metals & Mining,0.17,0.46,2026-04-01,2026-05-01
+NJ MF,Miscellaneous,0.01,0.12,2026-04-01,2026-05-01
+NJ MF,Oil/Energy,5.63,5.45,2026-04-01,2026-05-01
+NJ MF,Pharma/healthcare,21.77,22.52,2026-04-01,2026-05-01
+NJ MF,Power,0.45,0.64,2026-04-01,2026-05-01
+NJ MF,Telecom/Media,0.58,0.78,2026-04-01,2026-05-01
+Old Bridge MF,Auto & Auto Ancillaries,12.84,14.95,2026-04-01,2026-05-01
+Old Bridge MF,Banks,5.24,4.49,2026-04-01,2026-05-01
+Old Bridge MF,Chemicals,4.31,4.37,2026-04-01,2026-05-01
+Old Bridge MF,Consumer Goods,8.67,7.46,2026-04-01,2026-05-01
+Old Bridge MF,Engineering & Capital Goods,0.0,2.44,2026-04-01,2026-05-01
+Old Bridge MF,Financial Services,4.09,3.54,2026-04-01,2026-05-01
+Old Bridge MF,Financial services/Insurance,7.94,7.36,2026-04-01,2026-05-01
+Old Bridge MF,Infra/Real estate,12.15,11.66,2026-04-01,2026-05-01
+Old Bridge MF,Metals & Mining,13.75,12.56,2026-04-01,2026-05-01
+Old Bridge MF,Miscellaneous,7.62,7.8,2026-04-01,2026-05-01
+Old Bridge MF,Pharma/healthcare,16.18,15.42,2026-04-01,2026-05-01
+Old Bridge MF,Quick Service Restaurant,1.96,2.32,2026-04-01,2026-05-01
+Old Bridge MF,Telecom/Media,5.25,5.64,2026-04-01,2026-05-01
+PGIM India MF,Aerospace & Defence,3.07,3.07,2026-04-01,2026-05-01
+PGIM India MF,Auto & Auto Ancillaries,9.1,9.26,2026-04-01,2026-05-01
+PGIM India MF,Banks,12.8,12.55,2026-04-01,2026-05-01
+PGIM India MF,Building materials,4.23,3.79,2026-04-01,2026-05-01
+PGIM India MF,Chemicals,3.1,3.01,2026-04-01,2026-05-01
+PGIM India MF,Co-Working,0.1,0.09,2026-04-01,2026-05-01
+PGIM India MF,Consumer Durables,3.97,3.2,2026-04-01,2026-05-01
+PGIM India MF,Consumer Goods,7.52,7.76,2026-04-01,2026-05-01
+PGIM India MF,Engineering & Capital Goods,6.76,7.75,2026-04-01,2026-05-01
+PGIM India MF,Financial Services,2.14,2.32,2026-04-01,2026-05-01
+PGIM India MF,Financial services/Insurance,9.65,9.43,2026-04-01,2026-05-01
+PGIM India MF,Infra/Real estate,4.63,4.64,2026-04-01,2026-05-01
+PGIM India MF,IT,9.97,9.79,2026-04-01,2026-05-01
+PGIM India MF,Metals & Mining,2.09,2.5,2026-04-01,2026-05-01
+PGIM India MF,Miscellaneous,2.27,2.29,2026-04-01,2026-05-01
+PGIM India MF,Oil/Energy,2.36,2.18,2026-04-01,2026-05-01
+PGIM India MF,Pharma/healthcare,11.07,11.42,2026-04-01,2026-05-01
+PGIM India MF,Power,1.69,1.6,2026-04-01,2026-05-01
+PGIM India MF,Printing & Stationery,0.48,0.43,2026-04-01,2026-05-01
+PGIM India MF,Quick Service Restaurant,0.25,0.23,2026-04-01,2026-05-01
+PGIM India MF,Real Estate Investment Trusts,0.01,0.01,2026-04-01,2026-05-01
+PGIM India MF,Telecom/Media,2.73,2.68,2026-04-01,2026-05-01
+PPFAS MF,Aerospace & Defence,0.0,0.05,2026-04-01,2026-05-01
+PPFAS MF,Auto & Auto Ancillaries,8.59,8.38,2026-04-01,2026-05-01
+PPFAS MF,Banks,26.6,26.64,2026-04-01,2026-05-01
+PPFAS MF,Building materials,0.01,0.02,2026-04-01,2026-05-01
+PPFAS MF,Consumer Goods,8.68,9.12,2026-04-01,2026-05-01
+PPFAS MF,Engineering & Capital Goods,0.08,0.08,2026-04-01,2026-05-01
+PPFAS MF,Financial Services,1.24,1.26,2026-04-01,2026-05-01
+PPFAS MF,Financial services/Insurance,6.54,6.71,2026-04-01,2026-05-01
+PPFAS MF,Infra/Real estate,0.39,0.36,2026-04-01,2026-05-01
+PPFAS MF,IT,12.46,12.35,2026-04-01,2026-05-01
+PPFAS MF,Metals & Mining,8.18,7.76,2026-04-01,2026-05-01
+PPFAS MF,Miscellaneous,1.15,1.09,2026-04-01,2026-05-01
+PPFAS MF,Oil/Energy,1.06,1.85,2026-04-01,2026-05-01
+PPFAS MF,Pharma/healthcare,5.6,5.98,2026-04-01,2026-05-01
+PPFAS MF,Power,9.47,8.61,2026-04-01,2026-05-01
+PPFAS MF,Real Estate Investment Trusts,6.05,6.0,2026-04-01,2026-05-01
+PPFAS MF,Telecom/Media,3.9,3.73,2026-04-01,2026-05-01
+Quant Mutual,Aerospace & Defence,0.54,0.4,2026-04-01,2026-05-01
+Quant Mutual,Auto & Auto Ancillaries,3.96,4.77,2026-04-01,2026-05-01
+Quant Mutual,Banks,10.94,8.84,2026-04-01,2026-05-01
+Quant Mutual,Building materials,0.21,0.18,2026-04-01,2026-05-01
+Quant Mutual,Chemicals,1.72,1.53,2026-04-01,2026-05-01
+Quant Mutual,Consumer Durables,1.53,1.65,2026-04-01,2026-05-01
+Quant Mutual,Consumer Goods,6.27,5.41,2026-04-01,2026-05-01
+Quant Mutual,Engineering & Capital Goods,3.22,3.66,2026-04-01,2026-05-01
+Quant Mutual,Financial services/Insurance,12.51,10.89,2026-04-01,2026-05-01
+Quant Mutual,Infra/Real estate,7.17,6.74,2026-04-01,2026-05-01
+Quant Mutual,IT,3.21,3.61,2026-04-01,2026-05-01
+Quant Mutual,Metals & Mining,3.27,2.73,2026-04-01,2026-05-01
+Quant Mutual,Miscellaneous,8.48,9.71,2026-04-01,2026-05-01
+Quant Mutual,Oil/Energy,8.22,7.34,2026-04-01,2026-05-01
+Quant Mutual,Pharma/healthcare,12.21,11.67,2026-04-01,2026-05-01
+Quant Mutual,Power,12.02,13.33,2026-04-01,2026-05-01
+Quant Mutual,Real Estate Investment Trusts,0.04,0.11,2026-04-01,2026-05-01
+Quant Mutual,Telecom/Media,4.49,7.42,2026-04-01,2026-05-01
+Quantum Mutual,Auto & Auto Ancillaries,10.07,10.26,2026-04-01,2026-05-01
+Quantum Mutual,Banks,25.67,24.88,2026-04-01,2026-05-01
+Quantum Mutual,Building materials,2.91,3.44,2026-04-01,2026-05-01
+Quantum Mutual,Chemicals,0.71,0.7,2026-04-01,2026-05-01
+Quantum Mutual,Consumer Durables,4.64,4.73,2026-04-01,2026-05-01
+Quantum Mutual,Consumer Goods,0.71,0.74,2026-04-01,2026-05-01
+Quantum Mutual,Engineering & Capital Goods,0.8,0.89,2026-04-01,2026-05-01
+Quantum Mutual,Financial Services,0.42,0.43,2026-04-01,2026-05-01
+Quantum Mutual,Financial services/Insurance,15.96,16.31,2026-04-01,2026-05-01
+Quantum Mutual,Infra/Real estate,5.82,5.44,2026-04-01,2026-05-01
+Quantum Mutual,IT,15.16,14.69,2026-04-01,2026-05-01
+Quantum Mutual,Metals & Mining,0.66,0.44,2026-04-01,2026-05-01
+Quantum Mutual,Miscellaneous,3.75,3.92,2026-04-01,2026-05-01
+Quantum Mutual,Oil/Energy,3.81,3.98,2026-04-01,2026-05-01
+Quantum Mutual,Pharma/healthcare,5.84,6.24,2026-04-01,2026-05-01
+Quantum Mutual,Power,0.04,0.04,2026-04-01,2026-05-01
+Quantum Mutual,Telecom/Media,3.03,2.89,2026-04-01,2026-05-01
+Samco MF,Aerospace & Defence,3.41,4.45,2026-04-01,2026-05-01
+Samco MF,Auto & Auto Ancillaries,11.48,10.2,2026-04-01,2026-05-01
+Samco MF,Banks,17.51,15.79,2026-04-01,2026-05-01
+Samco MF,Building materials,5.08,7.42,2026-04-01,2026-05-01
+Samco MF,Chemicals,1.15,1.09,2026-04-01,2026-05-01
+Samco MF,Consumer Durables,0.22,0.31,2026-04-01,2026-05-01
+Samco MF,Consumer Goods,7.22,5.89,2026-04-01,2026-05-01
+Samco MF,Engineering & Capital Goods,11.56,13.6,2026-04-01,2026-05-01
+Samco MF,Financial Services,1.78,1.74,2026-04-01,2026-05-01
+Samco MF,Financial services/Insurance,13.23,13.35,2026-04-01,2026-05-01
+Samco MF,Infra/Real estate,3.37,2.81,2026-04-01,2026-05-01
+Samco MF,IT,0.77,0.21,2026-04-01,2026-05-01
+Samco MF,IT - Hardware,0.05,0.07,2026-04-01,2026-05-01
+Samco MF,Metals & Mining,11.2,10.3,2026-04-01,2026-05-01
+Samco MF,Miscellaneous,1.13,1.12,2026-04-01,2026-05-01
+Samco MF,Oil/Energy,2.56,1.45,2026-04-01,2026-05-01
+Samco MF,Pharma/healthcare,6.09,7.87,2026-04-01,2026-05-01
+Samco MF,Power,1.92,1.98,2026-04-01,2026-05-01
+Samco MF,Telecom/Media,0.28,0.35,2026-04-01,2026-05-01
+SBI Mutual Fund,Aerospace & Defence,1.21,1.36,2026-04-01,2026-05-01
+SBI Mutual Fund,Auto & Auto Ancillaries,9.43,9.32,2026-04-01,2026-05-01
+SBI Mutual Fund,Banks,19.22,18.23,2026-04-01,2026-05-01
+SBI Mutual Fund,Building materials,4.92,5.13,2026-04-01,2026-05-01
+SBI Mutual Fund,Chemicals,1.9,1.97,2026-04-01,2026-05-01
+SBI Mutual Fund,Consumer Durables,0.69,0.64,2026-04-01,2026-05-01
+SBI Mutual Fund,Consumer Goods,7.92,7.66,2026-04-01,2026-05-01
+SBI Mutual Fund,Engineering & Capital Goods,3.54,3.67,2026-04-01,2026-05-01
+SBI Mutual Fund,Financial Services,0.21,0.19,2026-04-01,2026-05-01
+SBI Mutual Fund,Financial services/Insurance,8.54,8.98,2026-04-01,2026-05-01
+SBI Mutual Fund,Infra/Real estate,5.17,5.32,2026-04-01,2026-05-01
+SBI Mutual Fund,IT,7.07,6.73,2026-04-01,2026-05-01
+SBI Mutual Fund,Metals & Mining,3.84,3.57,2026-04-01,2026-05-01
+SBI Mutual Fund,Miscellaneous,1.67,2.0,2026-04-01,2026-05-01
+SBI Mutual Fund,Oil/Energy,6.6,6.3,2026-04-01,2026-05-01
+SBI Mutual Fund,Pharma/healthcare,7.09,7.7,2026-04-01,2026-05-01
+SBI Mutual Fund,Plywood Boards/Laminates,0.01,0.01,2026-04-01,2026-05-01
+SBI Mutual Fund,Power,6.36,6.58,2026-04-01,2026-05-01
+SBI Mutual Fund,Printing & Stationery,0.18,0.17,2026-04-01,2026-05-01
+SBI Mutual Fund,Quick Service Restaurant,0.83,0.75,2026-04-01,2026-05-01
+SBI Mutual Fund,Real Estate Investment Trusts,0.61,0.59,2026-04-01,2026-05-01
+SBI Mutual Fund,Telecom/Media,3.0,3.12,2026-04-01,2026-05-01
+SBI Mutual Fund,Unspecified Sector,0.0,0.0,2026-04-01,2026-05-01
+Shriram MF,Aerospace & Defence,1.81,1.71,2026-04-01,2026-05-01
+Shriram MF,Auto & Auto Ancillaries,7.59,7.48,2026-04-01,2026-05-01
+Shriram MF,Banks,23.62,22.91,2026-04-01,2026-05-01
+Shriram MF,Building materials,1.65,1.91,2026-04-01,2026-05-01
+Shriram MF,Chemicals,0.74,1.12,2026-04-01,2026-05-01
+Shriram MF,Consumer Durables,0.02,0.02,2026-04-01,2026-05-01
+Shriram MF,Consumer Goods,5.92,5.94,2026-04-01,2026-05-01
+Shriram MF,Engineering & Capital Goods,1.87,1.98,2026-04-01,2026-05-01
+Shriram MF,Financial Services,1.01,1.33,2026-04-01,2026-05-01
+Shriram MF,Financial services/Insurance,7.06,6.83,2026-04-01,2026-05-01
+Shriram MF,Infra/Real estate,6.9,6.98,2026-04-01,2026-05-01
+Shriram MF,IT,9.59,9.5,2026-04-01,2026-05-01
+Shriram MF,Metals & Mining,3.38,3.33,2026-04-01,2026-05-01
+Shriram MF,Miscellaneous,2.3,2.74,2026-04-01,2026-05-01
+Shriram MF,Oil/Energy,8.71,8.31,2026-04-01,2026-05-01
+Shriram MF,Pharma/healthcare,9.11,9.56,2026-04-01,2026-05-01
+Shriram MF,Power,3.19,3.01,2026-04-01,2026-05-01
+Shriram MF,Quick Service Restaurant,0.52,0.45,2026-04-01,2026-05-01
+Shriram MF,Telecom/Media,5.01,4.89,2026-04-01,2026-05-01
+Sundaram MF,Aerospace & Defence,1.72,1.96,2026-04-01,2026-05-01
+Sundaram MF,Auto & Auto Ancillaries,6.93,6.86,2026-04-01,2026-05-01
+Sundaram MF,Banks,18.02,16.69,2026-04-01,2026-05-01
+Sundaram MF,Building materials,3.52,3.55,2026-04-01,2026-05-01
+Sundaram MF,Chemicals,1.83,1.67,2026-04-01,2026-05-01
+Sundaram MF,Consumer Durables,1.9,1.71,2026-04-01,2026-05-01
+Sundaram MF,Consumer Goods,6.53,6.25,2026-04-01,2026-05-01
+Sundaram MF,Engineering & Capital Goods,5.89,6.5,2026-04-01,2026-05-01
+Sundaram MF,Financial Services,1.12,1.22,2026-04-01,2026-05-01
+Sundaram MF,Financial services/Insurance,9.04,10.16,2026-04-01,2026-05-01
+Sundaram MF,Infra/Real estate,7.22,7.11,2026-04-01,2026-05-01
+Sundaram MF,IT,11.53,12.26,2026-04-01,2026-05-01
+Sundaram MF,Metals & Mining,2.09,2.43,2026-04-01,2026-05-01
+Sundaram MF,Miscellaneous,2.53,2.79,2026-04-01,2026-05-01
+Sundaram MF,Oil/Energy,4.71,4.36,2026-04-01,2026-05-01
+Sundaram MF,Pharma/healthcare,6.0,6.35,2026-04-01,2026-05-01
+Sundaram MF,Plywood Boards/Laminates,0.11,0.09,2026-04-01,2026-05-01
+Sundaram MF,Power,2.7,2.35,2026-04-01,2026-05-01
+Sundaram MF,Quick Service Restaurant,1.94,1.25,2026-04-01,2026-05-01
+Sundaram MF,Real Estate Investment Trusts,0.45,0.44,2026-04-01,2026-05-01
+Sundaram MF,Telecom/Media,4.21,4.02,2026-04-01,2026-05-01
+Tata Mutual Fund,Aerospace & Defence,0.51,0.77,2026-04-01,2026-05-01
+Tata Mutual Fund,Auto & Auto Ancillaries,5.59,5.57,2026-04-01,2026-05-01
+Tata Mutual Fund,Banks,14.92,13.89,2026-04-01,2026-05-01
+Tata Mutual Fund,Building materials,4.34,4.17,2026-04-01,2026-05-01
+Tata Mutual Fund,Chemicals,4.11,3.85,2026-04-01,2026-05-01
+Tata Mutual Fund,Co-Working,0.15,0.15,2026-04-01,2026-05-01
+Tata Mutual Fund,Consumer Durables,1.5,1.5,2026-04-01,2026-05-01
+Tata Mutual Fund,Consumer Goods,7.7,7.63,2026-04-01,2026-05-01
+Tata Mutual Fund,Engineering & Capital Goods,5.35,5.75,2026-04-01,2026-05-01
+Tata Mutual Fund,Financial Services,0.91,0.96,2026-04-01,2026-05-01
+Tata Mutual Fund,Financial services/Insurance,8.12,8.22,2026-04-01,2026-05-01
+Tata Mutual Fund,Infra/Real estate,6.63,6.22,2026-04-01,2026-05-01
+Tata Mutual Fund,IT,14.13,14.19,2026-04-01,2026-05-01
+Tata Mutual Fund,IT - Hardware,0.08,0.1,2026-04-01,2026-05-01
+Tata Mutual Fund,Metals & Mining,3.98,3.88,2026-04-01,2026-05-01
+Tata Mutual Fund,Miscellaneous,2.79,3.13,2026-04-01,2026-05-01
+Tata Mutual Fund,Oil/Energy,3.85,3.75,2026-04-01,2026-05-01
+Tata Mutual Fund,Pharma/healthcare,6.51,7.1,2026-04-01,2026-05-01
+Tata Mutual Fund,Plywood Boards/Laminates,0.29,0.23,2026-04-01,2026-05-01
+Tata Mutual Fund,Power,3.62,3.9,2026-04-01,2026-05-01
+Tata Mutual Fund,Printing & Stationery,0.17,0.16,2026-04-01,2026-05-01
+Tata Mutual Fund,Quick Service Restaurant,0.21,0.19,2026-04-01,2026-05-01
+Tata Mutual Fund,Real Estate Investment Trusts,0.34,0.33,2026-04-01,2026-05-01
+Tata Mutual Fund,Telecom/Media,4.2,4.35,2026-04-01,2026-05-01
+Taurus Mut.Fund,Aerospace & Defence,0.73,0.64,2026-04-01,2026-05-01
+Taurus Mut.Fund,Auto & Auto Ancillaries,7.3,7.03,2026-04-01,2026-05-01
+Taurus Mut.Fund,Banks,11.62,11.5,2026-04-01,2026-05-01
+Taurus Mut.Fund,Building materials,3.07,3.37,2026-04-01,2026-05-01
+Taurus Mut.Fund,Chemicals,5.86,5.2,2026-04-01,2026-05-01
+Taurus Mut.Fund,Consumer Durables,3.13,3.21,2026-04-01,2026-05-01
+Taurus Mut.Fund,Consumer Goods,9.95,9.48,2026-04-01,2026-05-01
+Taurus Mut.Fund,Engineering & Capital Goods,5.41,6.03,2026-04-01,2026-05-01
+Taurus Mut.Fund,Financial Services,1.45,1.41,2026-04-01,2026-05-01
+Taurus Mut.Fund,Financial services/Insurance,3.54,2.85,2026-04-01,2026-05-01
+Taurus Mut.Fund,Infra/Real estate,1.87,1.68,2026-04-01,2026-05-01
+Taurus Mut.Fund,IT,11.51,13.16,2026-04-01,2026-05-01
+Taurus Mut.Fund,Metals & Mining,2.96,3.79,2026-04-01,2026-05-01
+Taurus Mut.Fund,Miscellaneous,3.46,3.48,2026-04-01,2026-05-01
+Taurus Mut.Fund,Oil/Energy,7.27,6.75,2026-04-01,2026-05-01
+Taurus Mut.Fund,Pharma/healthcare,12.18,12.57,2026-04-01,2026-05-01
+Taurus Mut.Fund,Power,3.91,3.39,2026-04-01,2026-05-01
+Taurus Mut.Fund,Telecom/Media,4.77,4.45,2026-04-01,2026-05-01
+Trust MF,Aerospace & Defence,6.46,5.34,2026-04-01,2026-05-01
+Trust MF,Auto & Auto Ancillaries,8.5,7.02,2026-04-01,2026-05-01
+Trust MF,Banks,20.27,19.95,2026-04-01,2026-05-01
+Trust MF,Building materials,1.27,1.49,2026-04-01,2026-05-01
+Trust MF,Chemicals,2.17,2.2,2026-04-01,2026-05-01
+Trust MF,Consumer Goods,9.6,9.41,2026-04-01,2026-05-01
+Trust MF,Engineering & Capital Goods,6.71,3.67,2026-04-01,2026-05-01
+Trust MF,Financial Services,4.04,4.84,2026-04-01,2026-05-01
+Trust MF,Financial services/Insurance,6.05,8.11,2026-04-01,2026-05-01
+Trust MF,Infra/Real estate,4.98,4.79,2026-04-01,2026-05-01
+Trust MF,IT,7.46,8.77,2026-04-01,2026-05-01
+Trust MF,Metals & Mining,0.31,2.32,2026-04-01,2026-05-01
+Trust MF,Miscellaneous,1.19,3.06,2026-04-01,2026-05-01
+Trust MF,Oil/Energy,5.85,3.3,2026-04-01,2026-05-01
+Trust MF,Pharma/healthcare,8.93,9.74,2026-04-01,2026-05-01
+Trust MF,Power,1.94,1.81,2026-04-01,2026-05-01
+Trust MF,Telecom/Media,4.25,4.19,2026-04-01,2026-05-01
+Union MF,Aerospace & Defence,4.97,5.39,2026-04-01,2026-05-01
+Union MF,Auto & Auto Ancillaries,10.99,10.3,2026-04-01,2026-05-01
+Union MF,Banks,16.62,15.66,2026-04-01,2026-05-01
+Union MF,Building materials,2.27,2.31,2026-04-01,2026-05-01
+Union MF,Chemicals,3.52,3.45,2026-04-01,2026-05-01
+Union MF,Consumer Durables,2.7,2.26,2026-04-01,2026-05-01
+Union MF,Consumer Goods,3.71,4.22,2026-04-01,2026-05-01
+Union MF,Engineering & Capital Goods,8.92,9.8,2026-04-01,2026-05-01
+Union MF,Financial Services,2.43,2.27,2026-04-01,2026-05-01
+Union MF,Financial services/Insurance,7.21,6.32,2026-04-01,2026-05-01
+Union MF,Infra/Real estate,4.69,5.09,2026-04-01,2026-05-01
+Union MF,IT,8.62,8.1,2026-04-01,2026-05-01
+Union MF,Metals & Mining,2.41,2.64,2026-04-01,2026-05-01
+Union MF,Miscellaneous,3.3,3.57,2026-04-01,2026-05-01
+Union MF,Oil/Energy,2.89,2.89,2026-04-01,2026-05-01
+Union MF,Pharma/healthcare,8.67,9.75,2026-04-01,2026-05-01
+Union MF,Plywood Boards/Laminates,0.04,0.04,2026-04-01,2026-05-01
+Union MF,Power,2.69,2.72,2026-04-01,2026-05-01
+Union MF,Printing & Stationery,0.79,0.74,2026-04-01,2026-05-01
+Union MF,Quick Service Restaurant,0.0,0.01,2026-04-01,2026-05-01
+Union MF,Telecom/Media,2.53,2.46,2026-04-01,2026-05-01
+UTI MF,Aerospace & Defence,1.2,1.22,2026-04-01,2026-05-01
+UTI MF,Auto & Auto Ancillaries,10.22,10.12,2026-04-01,2026-05-01
+UTI MF,Banks,18.03,18.02,2026-04-01,2026-05-01
+UTI MF,Building materials,4.38,4.39,2026-04-01,2026-05-01
+UTI MF,Chemicals,1.9,1.95,2026-04-01,2026-05-01
+UTI MF,Co-Working,0.05,0.05,2026-04-01,2026-05-01
+UTI MF,Consumer Durables,2.79,2.73,2026-04-01,2026-05-01
+UTI MF,Consumer Goods,8.5,7.96,2026-04-01,2026-05-01
+UTI MF,Engineering & Capital Goods,2.94,3.06,2026-04-01,2026-05-01
+UTI MF,Financial Services,0.89,0.97,2026-04-01,2026-05-01
+UTI MF,Financial services/Insurance,6.96,6.85,2026-04-01,2026-05-01
+UTI MF,Infra/Real estate,5.53,5.42,2026-04-01,2026-05-01
+UTI MF,IT,13.31,13.43,2026-04-01,2026-05-01
+UTI MF,IT - Hardware,0.03,0.02,2026-04-01,2026-05-01
+UTI MF,Metals & Mining,2.21,2.15,2026-04-01,2026-05-01
+UTI MF,Miscellaneous,1.8,1.76,2026-04-01,2026-05-01
+UTI MF,Oil/Energy,3.64,3.44,2026-04-01,2026-05-01
+UTI MF,Pharma/healthcare,8.89,9.51,2026-04-01,2026-05-01
+UTI MF,Power,1.67,1.67,2026-04-01,2026-05-01
+UTI MF,Quick Service Restaurant,0.71,0.68,2026-04-01,2026-05-01
+UTI MF,Real Estate Investment Trusts,0.62,0.76,2026-04-01,2026-05-01
+UTI MF,Telecom/Media,3.71,3.83,2026-04-01,2026-05-01
+UTI MF,Unspecified Sector,0.0,0.0,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Aerospace & Defence,2.99,2.85,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Auto & Auto Ancillaries,5.5,5.78,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Banks,17.76,16.53,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Building materials,2.45,2.5,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Chemicals,1.97,2.01,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Co-Working,0.43,0.21,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Consumer Durables,0.5,0.49,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Consumer Goods,6.87,6.8,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Engineering & Capital Goods,6.36,6.85,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Financial Services,0.67,0.65,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Financial services/Insurance,9.09,9.74,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Infra/Real estate,5.9,5.79,2026-04-01,2026-05-01
+WhiteOak Cap.MF,IT,8.63,8.09,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Metals & Mining,2.89,2.93,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Miscellaneous,3.61,3.81,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Oil/Energy,3.33,3.51,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Pharma/healthcare,10.97,11.39,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Power,1.07,1.1,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Quick Service Restaurant,0.21,0.2,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Real Estate Investment Trusts,4.68,4.93,2026-04-01,2026-05-01
+WhiteOak Cap.MF,Telecom/Media,4.11,3.82,2026-04-01,2026-05-01
+Zerodha MF,Aerospace & Defence,1.43,1.35,2026-04-01,2026-05-01
+Zerodha MF,Auto & Auto Ancillaries,7.67,7.65,2026-04-01,2026-05-01
+Zerodha MF,Banks,16.47,16.11,2026-04-01,2026-05-01
+Zerodha MF,Building materials,3.38,3.51,2026-04-01,2026-05-01
+Zerodha MF,Chemicals,2.18,2.15,2026-04-01,2026-05-01
+Zerodha MF,Consumer Durables,1.91,1.8,2026-04-01,2026-05-01
+Zerodha MF,Consumer Goods,8.0,7.76,2026-04-01,2026-05-01
+Zerodha MF,Engineering & Capital Goods,5.27,5.7,2026-04-01,2026-05-01
+Zerodha MF,Financial Services,2.92,3.17,2026-04-01,2026-05-01
+Zerodha MF,Financial services/Insurance,8.97,8.85,2026-04-01,2026-05-01
+Zerodha MF,Infra/Real estate,4.86,4.82,2026-04-01,2026-05-01
+Zerodha MF,IT,9.46,9.5,2026-04-01,2026-05-01
+Zerodha MF,Metals & Mining,4.27,4.33,2026-04-01,2026-05-01
+Zerodha MF,Miscellaneous,2.47,2.57,2026-04-01,2026-05-01
+Zerodha MF,Oil/Energy,5.83,5.53,2026-04-01,2026-05-01
+Zerodha MF,Pharma/healthcare,7.23,7.45,2026-04-01,2026-05-01
+Zerodha MF,Power,3.9,3.82,2026-04-01,2026-05-01
+Zerodha MF,Quick Service Restaurant,0.24,0.22,2026-04-01,2026-05-01
+Zerodha MF,Telecom/Media,3.55,3.71,2026-04-01,2026-05-01
