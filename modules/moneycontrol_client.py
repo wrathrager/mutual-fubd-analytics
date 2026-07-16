@@ -14,6 +14,8 @@ GRAPH_DURATIONS = ["10Y", "7Y", "5Y", "3Y", "1Y", "6M", "3M", "1M"]
 ROLLING_DURATIONS = ["5Y", "3Y", "1Y", "6M", "3M"]
 CATEGORY_SERIES_ISIN = "INCA000001"
 SCORING_CUTOFF_DATE = pd.Timestamp("2026-05-31")
+BASE_DIR = Path(__file__).resolve().parent.parent
+PRICES_PATH = BASE_DIR / "PRICES.xlsx"
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
     "Accept": "application/json,text/plain,*/*",
@@ -21,6 +23,12 @@ HEADERS = {
 
 REQUEST_MIN_INTERVAL_SECONDS = float(os.getenv("REQUEST_MIN_INTERVAL_SECONDS", "1.5"))
 _LAST_REQUEST_AT: float | None = None
+
+HEADERS.update({
+    "Referer": "https://www.moneycontrol.com/",
+    "Accept": "application/json",
+    "Accept-Language": "en-US,en;q=0.9",
+})
 
 
 def should_throttle(last_request_at: float | None, now: float, min_interval: float) -> bool:
@@ -236,6 +244,95 @@ def fetch_risk_metrics(isin: str) -> dict[str, Any]:
     return payload.get("data", {})
 
 
+def _load_local_benchmark_series() -> pd.DataFrame:
+    if not PRICES_PATH.exists():
+        return pd.DataFrame(columns=["date", "value"])
+
+    try:
+        frame = pd.read_excel(PRICES_PATH)
+    except Exception:
+        return pd.DataFrame(columns=["date", "value"])
+
+    if frame.empty:
+        return pd.DataFrame(columns=["date", "value"])
+
+    if "DATE" in frame.columns:
+        date_column = "DATE"
+    elif "date" in frame.columns:
+        date_column = "date"
+    else:
+        return pd.DataFrame(columns=["date", "value"])
+
+    benchmark_candidates: list[tuple[str, int, pd.Series]] = []
+    for column in frame.columns:
+        if str(column).strip().lower() == str(date_column).strip().lower():
+            continue
+        series = pd.to_numeric(frame[column], errors="coerce")
+        non_null_count = int(series.notna().sum())
+        if non_null_count >= 30:
+            benchmark_candidates.append((str(column), non_null_count, series))
+
+    if not benchmark_candidates:
+        return pd.DataFrame(columns=["date", "value"])
+
+    preferred_names = ["NIFTY 100", "NIFTY100"]
+    preferred_choice = None
+    for preferred_name in preferred_names:
+        for column_name, _, _ in benchmark_candidates:
+            if column_name.upper() == preferred_name.upper():
+                preferred_choice = column_name
+                break
+        if preferred_choice is not None:
+            break
+
+    if preferred_choice is None:
+        return pd.DataFrame(columns=["date", "value"])
+
+    selected_series = next(series for name, _, series in benchmark_candidates if name == preferred_choice)
+    local_frame = pd.DataFrame(
+        {
+            "date": pd.to_datetime(frame[date_column], errors="coerce"),
+            "value": selected_series,
+        }
+    )
+    return local_frame.dropna(subset=["date", "value"])[["date", "value"]].sort_values("date").reset_index(drop=True)
+
+
+def _fetch_yahoo_nifty100_series() -> pd.DataFrame:
+    try:
+        response = requests.get(
+            "https://query1.finance.yahoo.com/v8/finance/chart/%5ECNX100?range=10y&interval=1d",
+            headers={
+                "User-Agent": "Mozilla/5.0",
+                "Accept": "application/json,text/plain,*/*",
+            },
+            timeout=30,
+        )
+        response.raise_for_status()
+        payload = response.json()
+        result = payload.get("chart", {}).get("result", [])
+        if not result:
+            return pd.DataFrame(columns=["date", "value"])
+        first_result = result[0]
+        timestamps = first_result.get("timestamp", [])
+        closes = (
+            first_result.get("indicators", {})
+            .get("quote", [{}])[0]
+            .get("close", [])
+        )
+        if not timestamps or not closes:
+            return pd.DataFrame(columns=["date", "value"])
+        frame = pd.DataFrame(
+            {
+                "date": pd.to_datetime(timestamps, unit="s", utc=True).tz_convert(None).normalize(),
+                "value": pd.to_numeric(closes, errors="coerce"),
+            }
+        )
+        return frame.dropna(subset=["date", "value"])[["date", "value"]].sort_values("date").reset_index(drop=True)
+    except Exception:
+        return pd.DataFrame(columns=["date", "value"])
+
+
 @st.cache_data(show_spinner=False, ttl=21600)
 def fetch_nifty100_series() -> pd.DataFrame:
     try:
@@ -244,15 +341,27 @@ def fetch_nifty100_series() -> pd.DataFrame:
             "?section=compare_another_index&ind_id=9&another_ind_id=23&range=10yr&classic=true"
         )
     except Exception:
-        return pd.DataFrame(columns=["date", "value"])
+        yahoo_frame = _fetch_yahoo_nifty100_series()
+        if not yahoo_frame.empty:
+            return yahoo_frame
+        return _load_local_benchmark_series()
 
     rows = payload.get("first", [])
     frame = pd.DataFrame(rows).copy()
     if frame.empty:
-        return pd.DataFrame(columns=["date", "value"])
+        yahoo_frame = _fetch_yahoo_nifty100_series()
+        if not yahoo_frame.empty:
+            return yahoo_frame
+        return _load_local_benchmark_series()
     frame["date"] = pd.to_datetime(frame["time"], format="%d %b %Y", errors="coerce")
     frame["value"] = pd.to_numeric(frame["value"], errors="coerce")
-    return frame.dropna(subset=["date", "value"])[["date", "value"]].sort_values("date").reset_index(drop=True)
+    normalized = frame.dropna(subset=["date", "value"])[["date", "value"]].sort_values("date").reset_index(drop=True)
+    if normalized.empty:
+        yahoo_frame = _fetch_yahoo_nifty100_series()
+        if not yahoo_frame.empty:
+            return yahoo_frame
+        return _load_local_benchmark_series()
+    return normalized
 
 
 def read_json_cache(path: Path) -> dict[str, Any] | None:

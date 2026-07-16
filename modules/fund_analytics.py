@@ -413,13 +413,14 @@ def compute_scenario_metrics(
         }
 
     merged = fund_slice.merge(benchmark_slice, on="date", how="inner", suffixes=("_fund", "_benchmark"))
+    if merged.empty:
+        merged = pd.DataFrame(columns=["date", "value_fund", "value_benchmark"])
     correlation = None
     if len(merged) >= 2:
-        correlation = float(
-            merged["value_fund"].pct_change().dropna().corr(
-                merged["value_benchmark"].pct_change().dropna()
-            )
-        )
+        fund_returns = merged["value_fund"].pct_change().dropna()
+        benchmark_returns = merged["value_benchmark"].pct_change().dropna()
+        if len(fund_returns) >= 2 and len(benchmark_returns) >= 2:
+            correlation = float(fund_returns.corr(benchmark_returns))
     fund_return = _scenario_return(fund_slice)
     benchmark_return = _scenario_return(benchmark_slice)
     return {

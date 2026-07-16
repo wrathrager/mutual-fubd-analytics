@@ -725,14 +725,19 @@ def render_comparison_bar(snapshot: pd.DataFrame, metric_column: str, metric_lab
 def render_stress_scenario(fund_name: str, scenario_label: str, scenario_metrics: dict[str, Any]) -> None:
     plot_frame = scenario_metrics["plot_frame"].copy()
     st.markdown(f"**{scenario_label}**")
-    if not plot_frame.empty:
-        plot_frame["fund_indexed"] = plot_frame["value_fund"] / plot_frame["value_fund"].iloc[0] * 100
-        plot_frame["benchmark_indexed"] = plot_frame["value_benchmark"] / plot_frame["value_benchmark"].iloc[0] * 100
-        fig = go.Figure()
-        fig.add_trace(go.Scatter(x=plot_frame["date"], y=plot_frame["fund_indexed"], mode="lines", name=fund_name))
-        fig.add_trace(go.Scatter(x=plot_frame["date"], y=plot_frame["benchmark_indexed"], mode="lines", name="Nifty 100"))
-        fig.update_layout(height=360, yaxis_title="Indexed to 100", title="Scenario Path Comparison")
-        st.plotly_chart(fig, use_container_width=True)
+    if not plot_frame.empty and {"value_fund", "value_benchmark"}.issubset(plot_frame.columns):
+        if plot_frame["value_fund"].notna().any() and plot_frame["value_benchmark"].notna().any():
+            plot_frame["fund_indexed"] = plot_frame["value_fund"] / plot_frame["value_fund"].iloc[0] * 100
+            plot_frame["benchmark_indexed"] = plot_frame["value_benchmark"] / plot_frame["value_benchmark"].iloc[0] * 100
+            fig = go.Figure()
+            fig.add_trace(go.Scatter(x=plot_frame["date"], y=plot_frame["fund_indexed"], mode="lines", name=fund_name))
+            fig.add_trace(go.Scatter(x=plot_frame["date"], y=plot_frame["benchmark_indexed"], mode="lines", name="Nifty 100"))
+            fig.update_layout(height=360, yaxis_title="Indexed to 100", title="Scenario Path Comparison")
+            st.plotly_chart(fig, use_container_width=True)
+        else:
+            st.info("Benchmark data was unavailable for this window, so only the fund series can be shown.")
+    else:
+        st.info("No overlapping benchmark data was available for this scenario window.")
 
     summary = pd.DataFrame(
         [
