@@ -2,12 +2,15 @@ from __future__ import annotations
 
 import os
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
 import pandas as pd
 import requests
 import streamlit as st
+
+from .api_cache import get_cached_payload, store_payload
 
 
 GRAPH_DURATIONS = ["10Y", "7Y", "5Y", "3Y", "1Y", "6M", "3M", "1M"]
@@ -70,14 +73,20 @@ def load_fund_master(path: str) -> pd.DataFrame:
     frame = frame.rename(columns=rename_map)[["fund_name", "isin"]].copy()
     frame["fund_name"] = frame["fund_name"].astype(str).str.strip()
     frame["isin"] = frame["isin"].map(normalize_isin)
+    frame = frame.drop_duplicates(subset=["fund_name"], keep="first")
     frame["fund_key"] = frame["fund_name"].map(normalize_fund_name)
     frame["coarse_fund_key"] = frame["fund_name"].map(coarse_fund_key)
     return frame.sort_values("fund_name").reset_index(drop=True)
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_json(url: str) -> dict[str, Any]:
     global _LAST_REQUEST_AT
+
+    if os.getenv("FORCE_API_REFRESH") != "1":
+        cached_payload = get_cached_payload(url)
+        if cached_payload is not None:
+            return cached_payload
 
     now = time.time()
     if should_throttle(_LAST_REQUEST_AT, now, REQUEST_MIN_INTERVAL_SECONDS):
@@ -90,6 +99,7 @@ def fetch_json(url: str) -> dict[str, Any]:
         raise ValueError(f"API returned success=0 for {url}")
 
     _LAST_REQUEST_AT = time.time()
+    store_payload(url, payload, datetime.now(timezone.utc).isoformat())
     return payload
 
 
@@ -129,7 +139,7 @@ def _coerce_timeseries(
     return frame[["date", "value"]]
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_nav_bundle(isin: str, requested_duration: str | None = None) -> dict[str, Any]:
     isin = normalize_isin(isin)
     def build_url(fund_isin: str, duration: str) -> str:
@@ -159,7 +169,7 @@ def fetch_nav_bundle(isin: str, requested_duration: str | None = None) -> dict[s
     }
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_rolling_returns(isin: str, requested_duration: str | None = None) -> dict[str, Any]:
     isin = normalize_isin(isin)
     def build_url(fund_isin: str, duration: str) -> str:
@@ -192,7 +202,7 @@ def fetch_rolling_returns(isin: str, requested_duration: str | None = None) -> d
     }
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_performance(isin: str) -> dict[str, Any]:
     isin = normalize_isin(isin)
     payload = fetch_json(
@@ -203,7 +213,7 @@ def fetch_performance(isin: str) -> dict[str, Any]:
     return rows[0] if rows else {}
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_portfolio(isin: str) -> dict[str, Any]:
     isin = normalize_isin(isin)
     payload = fetch_json(
@@ -224,7 +234,7 @@ def fetch_portfolio(isin: str) -> dict[str, Any]:
     }
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_fundamentals(isin: str) -> dict[str, Any]:
     isin = normalize_isin(isin)
     payload = fetch_json(
@@ -234,7 +244,7 @@ def fetch_fundamentals(isin: str) -> dict[str, Any]:
     return payload.get("data", {})
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_risk_metrics(isin: str) -> dict[str, Any]:
     isin = normalize_isin(isin)
     payload = fetch_json(
@@ -333,7 +343,7 @@ def _fetch_yahoo_nifty100_series() -> pd.DataFrame:
         return pd.DataFrame(columns=["date", "value"])
 
 
-@st.cache_data(show_spinner=False, ttl=21600)
+@st.cache_data(show_spinner=False, ttl=900)
 def fetch_nifty100_series() -> pd.DataFrame:
     try:
         payload = fetch_json(

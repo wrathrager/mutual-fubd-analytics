@@ -1,0 +1,3325 @@
+{
+  "success": 1,
+  "data": {
+    "INF0QA701862": [
+      {
+        "navDate": "2024-08-20",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": null,
+        "changePercentNAV": null
+      },
+      {
+        "navDate": "2024-08-21",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2024-08-22",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2024-08-23",
+        "navValue": 10.07,
+        "navValueAdjusted": 10.07,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.65
+      },
+      {
+        "navDate": "2024-08-26",
+        "navValue": 10.11,
+        "navValueAdjusted": 10.11,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.44
+      },
+      {
+        "navDate": "2024-08-27",
+        "navValue": 10.09,
+        "navValueAdjusted": 10.09,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.17
+      },
+      {
+        "navDate": "2024-08-28",
+        "navValue": 10.09,
+        "navValueAdjusted": 10.09,
+        "changeNAV": 0,
+        "changePercentNAV": 0.02
+      },
+      {
+        "navDate": "2024-08-29",
+        "navValue": 10.11,
+        "navValueAdjusted": 10.11,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.13
+      },
+      {
+        "navDate": "2024-08-30",
+        "navValue": 10.15,
+        "navValueAdjusted": 10.15,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.38
+      },
+      {
+        "navDate": "2024-09-02",
+        "navValue": 10.12,
+        "navValueAdjusted": 10.12,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.28
+      },
+      {
+        "navDate": "2024-09-03",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.1
+      },
+      {
+        "navDate": "2024-09-04",
+        "navValue": 10.12,
+        "navValueAdjusted": 10.12,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.06
+      },
+      {
+        "navDate": "2024-09-05",
+        "navValue": 10.09,
+        "navValueAdjusted": 10.09,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.27
+      },
+      {
+        "navDate": "2024-09-06",
+        "navValue": 10.02,
+        "navValueAdjusted": 10.02,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.69
+      },
+      {
+        "navDate": "2024-09-09",
+        "navValue": 10.07,
+        "navValueAdjusted": 10.07,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.45
+      },
+      {
+        "navDate": "2024-09-10",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.57
+      },
+      {
+        "navDate": "2024-09-11",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.27
+      },
+      {
+        "navDate": "2024-09-12",
+        "navValue": 10.29,
+        "navValueAdjusted": 10.29,
+        "changeNAV": 0.19,
+        "changePercentNAV": 1.84
+      },
+      {
+        "navDate": "2024-09-13",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.44
+      },
+      {
+        "navDate": "2024-09-16",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": 0,
+        "changePercentNAV": -0.03
+      },
+      {
+        "navDate": "2024-09-17",
+        "navValue": 10.25,
+        "navValueAdjusted": 10.25,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.14
+      },
+      {
+        "navDate": "2024-09-18",
+        "navValue": 10.23,
+        "navValueAdjusted": 10.23,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.23
+      },
+      {
+        "navDate": "2024-09-19",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.11
+      },
+      {
+        "navDate": "2024-09-20",
+        "navValue": 10.38,
+        "navValueAdjusted": 10.38,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.38
+      },
+      {
+        "navDate": "2024-09-23",
+        "navValue": 10.48,
+        "navValueAdjusted": 10.48,
+        "changeNAV": 0.1,
+        "changePercentNAV": 0.99
+      },
+      {
+        "navDate": "2024-09-24",
+        "navValue": 10.46,
+        "navValueAdjusted": 10.46,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.19
+      },
+      {
+        "navDate": "2024-09-25",
+        "navValue": 10.46,
+        "navValueAdjusted": 10.46,
+        "changeNAV": 0,
+        "changePercentNAV": -0.02
+      },
+      {
+        "navDate": "2024-09-26",
+        "navValue": 10.53,
+        "navValueAdjusted": 10.53,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.7
+      },
+      {
+        "navDate": "2024-09-27",
+        "navValue": 10.53,
+        "navValueAdjusted": 10.53,
+        "changeNAV": 0,
+        "changePercentNAV": -0.02
+      },
+      {
+        "navDate": "2024-09-30",
+        "navValue": 10.43,
+        "navValueAdjusted": 10.43,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.99
+      },
+      {
+        "navDate": "2024-10-01",
+        "navValue": 10.43,
+        "navValueAdjusted": 10.43,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.06
+      },
+      {
+        "navDate": "2024-10-03",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": -0.17,
+        "changePercentNAV": -1.68
+      },
+      {
+        "navDate": "2024-10-04",
+        "navValue": 10.16,
+        "navValueAdjusted": 10.16,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.95
+      },
+      {
+        "navDate": "2024-10-07",
+        "navValue": 10.03,
+        "navValueAdjusted": 10.03,
+        "changeNAV": -0.13,
+        "changePercentNAV": -1.26
+      },
+      {
+        "navDate": "2024-10-08",
+        "navValue": 10.18,
+        "navValueAdjusted": 10.18,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.45
+      },
+      {
+        "navDate": "2024-10-09",
+        "navValue": 10.22,
+        "navValueAdjusted": 10.22,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.39
+      },
+      {
+        "navDate": "2024-10-10",
+        "navValue": 10.2,
+        "navValueAdjusted": 10.2,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.14
+      },
+      {
+        "navDate": "2024-10-11",
+        "navValue": 10.2,
+        "navValueAdjusted": 10.2,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2024-10-14",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.56
+      },
+      {
+        "navDate": "2024-10-15",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.19
+      },
+      {
+        "navDate": "2024-10-16",
+        "navValue": 10.23,
+        "navValueAdjusted": 10.23,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.1
+      },
+      {
+        "navDate": "2024-10-17",
+        "navValue": 10.12,
+        "navValueAdjusted": 10.12,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.13
+      },
+      {
+        "navDate": "2024-10-18",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.15
+      },
+      {
+        "navDate": "2024-10-21",
+        "navValue": 10.09,
+        "navValueAdjusted": 10.09,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.43
+      },
+      {
+        "navDate": "2024-10-22",
+        "navValue": 9.91,
+        "navValueAdjusted": 9.91,
+        "changeNAV": -0.18,
+        "changePercentNAV": -1.79
+      },
+      {
+        "navDate": "2024-10-23",
+        "navValue": 9.87,
+        "navValueAdjusted": 9.87,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.35
+      },
+      {
+        "navDate": "2024-10-24",
+        "navValue": 9.83,
+        "navValueAdjusted": 9.83,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.42
+      },
+      {
+        "navDate": "2024-10-25",
+        "navValue": 9.73,
+        "navValueAdjusted": 9.73,
+        "changeNAV": -0.1,
+        "changePercentNAV": -1.01
+      },
+      {
+        "navDate": "2024-10-28",
+        "navValue": 9.77,
+        "navValueAdjusted": 9.77,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.37
+      },
+      {
+        "navDate": "2024-10-29",
+        "navValue": 9.79,
+        "navValueAdjusted": 9.79,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.28
+      },
+      {
+        "navDate": "2024-10-30",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.09
+      },
+      {
+        "navDate": "2024-10-31",
+        "navValue": 9.76,
+        "navValueAdjusted": 9.76,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.41
+      },
+      {
+        "navDate": "2024-11-04",
+        "navValue": 9.7,
+        "navValueAdjusted": 9.7,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.64
+      },
+      {
+        "navDate": "2024-11-05",
+        "navValue": 9.74,
+        "navValueAdjusted": 9.74,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.39
+      },
+      {
+        "navDate": "2024-11-06",
+        "navValue": 9.9,
+        "navValueAdjusted": 9.9,
+        "changeNAV": 0.16,
+        "changePercentNAV": 1.68
+      },
+      {
+        "navDate": "2024-11-07",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.81
+      },
+      {
+        "navDate": "2024-11-08",
+        "navValue": 9.79,
+        "navValueAdjusted": 9.79,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.32
+      },
+      {
+        "navDate": "2024-11-11",
+        "navValue": 9.78,
+        "navValueAdjusted": 9.78,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.13
+      },
+      {
+        "navDate": "2024-11-12",
+        "navValue": 9.63,
+        "navValueAdjusted": 9.63,
+        "changeNAV": -0.15,
+        "changePercentNAV": -1.52
+      },
+      {
+        "navDate": "2024-11-13",
+        "navValue": 9.48,
+        "navValueAdjusted": 9.48,
+        "changeNAV": -0.15,
+        "changePercentNAV": -1.6
+      },
+      {
+        "navDate": "2024-11-14",
+        "navValue": 9.48,
+        "navValueAdjusted": 9.48,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.08
+      },
+      {
+        "navDate": "2024-11-18",
+        "navValue": 9.47,
+        "navValueAdjusted": 9.47,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.19
+      },
+      {
+        "navDate": "2024-11-19",
+        "navValue": 9.51,
+        "navValueAdjusted": 9.51,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.45
+      },
+      {
+        "navDate": "2024-11-21",
+        "navValue": 9.48,
+        "navValueAdjusted": 9.48,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.33
+      },
+      {
+        "navDate": "2024-11-22",
+        "navValue": 9.68,
+        "navValueAdjusted": 9.68,
+        "changeNAV": 0.2,
+        "changePercentNAV": 2.13
+      },
+      {
+        "navDate": "2024-11-25",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.16,
+        "changePercentNAV": 1.69
+      },
+      {
+        "navDate": "2024-11-26",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0,
+        "changePercentNAV": -0.02
+      },
+      {
+        "navDate": "2024-11-27",
+        "navValue": 9.88,
+        "navValueAdjusted": 9.88,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.41
+      },
+      {
+        "navDate": "2024-11-28",
+        "navValue": 9.77,
+        "navValueAdjusted": 9.77,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.17
+      },
+      {
+        "navDate": "2024-11-29",
+        "navValue": 9.85,
+        "navValueAdjusted": 9.85,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.88
+      },
+      {
+        "navDate": "2024-12-02",
+        "navValue": 9.91,
+        "navValueAdjusted": 9.91,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.58
+      },
+      {
+        "navDate": "2024-12-03",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2024-12-04",
+        "navValue": 9.98,
+        "navValueAdjusted": 9.98,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.13
+      },
+      {
+        "navDate": "2024-12-05",
+        "navValue": 10.06,
+        "navValueAdjusted": 10.06,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.8
+      },
+      {
+        "navDate": "2024-12-06",
+        "navValue": 10.05,
+        "navValueAdjusted": 10.05,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.12
+      },
+      {
+        "navDate": "2024-12-09",
+        "navValue": 9.99,
+        "navValueAdjusted": 9.99,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.58
+      },
+      {
+        "navDate": "2024-12-10",
+        "navValue": 9.99,
+        "navValueAdjusted": 9.99,
+        "changeNAV": 0,
+        "changePercentNAV": 0.02
+      },
+      {
+        "navDate": "2024-12-11",
+        "navValue": 10.02,
+        "navValueAdjusted": 10.02,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.24
+      },
+      {
+        "navDate": "2024-12-12",
+        "navValue": 9.96,
+        "navValueAdjusted": 9.96,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.53
+      },
+      {
+        "navDate": "2024-12-13",
+        "navValue": 10.03,
+        "navValueAdjusted": 10.03,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.62
+      },
+      {
+        "navDate": "2024-12-16",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.23
+      },
+      {
+        "navDate": "2024-12-17",
+        "navValue": 9.88,
+        "navValueAdjusted": 9.88,
+        "changeNAV": -0.13,
+        "changePercentNAV": -1.27
+      },
+      {
+        "navDate": "2024-12-18",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.54
+      },
+      {
+        "navDate": "2024-12-19",
+        "navValue": 9.73,
+        "navValueAdjusted": 9.73,
+        "changeNAV": -0.09,
+        "changePercentNAV": -0.93
+      },
+      {
+        "navDate": "2024-12-20",
+        "navValue": 9.56,
+        "navValueAdjusted": 9.56,
+        "changeNAV": -0.17,
+        "changePercentNAV": -1.76
+      },
+      {
+        "navDate": "2024-12-23",
+        "navValue": 9.59,
+        "navValueAdjusted": 9.59,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.33
+      },
+      {
+        "navDate": "2024-12-24",
+        "navValue": 9.59,
+        "navValueAdjusted": 9.59,
+        "changeNAV": 0,
+        "changePercentNAV": -0.05
+      },
+      {
+        "navDate": "2024-12-26",
+        "navValue": 9.61,
+        "navValueAdjusted": 9.61,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.27
+      },
+      {
+        "navDate": "2024-12-27",
+        "navValue": 9.6,
+        "navValueAdjusted": 9.6,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.15
+      },
+      {
+        "navDate": "2024-12-30",
+        "navValue": 9.55,
+        "navValueAdjusted": 9.55,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.48
+      },
+      {
+        "navDate": "2024-12-31",
+        "navValue": 9.56,
+        "navValueAdjusted": 9.56,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.08
+      },
+      {
+        "navDate": "2025-01-01",
+        "navValue": 9.59,
+        "navValueAdjusted": 9.59,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.33
+      },
+      {
+        "navDate": "2025-01-02",
+        "navValue": 9.73,
+        "navValueAdjusted": 9.73,
+        "changeNAV": 0.13,
+        "changePercentNAV": 1.4
+      },
+      {
+        "navDate": "2025-01-03",
+        "navValue": 9.65,
+        "navValueAdjusted": 9.65,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.81
+      },
+      {
+        "navDate": "2025-01-06",
+        "navValue": 9.47,
+        "navValueAdjusted": 9.47,
+        "changeNAV": -0.18,
+        "changePercentNAV": -1.86
+      },
+      {
+        "navDate": "2025-01-07",
+        "navValue": 9.49,
+        "navValueAdjusted": 9.49,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.22
+      },
+      {
+        "navDate": "2025-01-08",
+        "navValue": 9.46,
+        "navValueAdjusted": 9.46,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.31
+      },
+      {
+        "navDate": "2025-01-09",
+        "navValue": 9.38,
+        "navValueAdjusted": 9.38,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.83
+      },
+      {
+        "navDate": "2025-01-10",
+        "navValue": 9.34,
+        "navValueAdjusted": 9.34,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.51
+      },
+      {
+        "navDate": "2025-01-13",
+        "navValue": 9.17,
+        "navValueAdjusted": 9.17,
+        "changeNAV": -0.16,
+        "changePercentNAV": -1.77
+      },
+      {
+        "navDate": "2025-01-14",
+        "navValue": 9.22,
+        "navValueAdjusted": 9.22,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.58
+      },
+      {
+        "navDate": "2025-01-15",
+        "navValue": 9.24,
+        "navValueAdjusted": 9.24,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.17
+      },
+      {
+        "navDate": "2025-01-16",
+        "navValue": 9.29,
+        "navValueAdjusted": 9.29,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2025-01-17",
+        "navValue": 9.3,
+        "navValueAdjusted": 9.3,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.1
+      },
+      {
+        "navDate": "2025-01-20",
+        "navValue": 9.32,
+        "navValueAdjusted": 9.32,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.16
+      },
+      {
+        "navDate": "2025-01-21",
+        "navValue": 9.16,
+        "navValueAdjusted": 9.16,
+        "changeNAV": -0.15,
+        "changePercentNAV": -1.64
+      },
+      {
+        "navDate": "2025-01-22",
+        "navValue": 9.2,
+        "navValueAdjusted": 9.2,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.38
+      },
+      {
+        "navDate": "2025-01-23",
+        "navValue": 9.28,
+        "navValueAdjusted": 9.28,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.87
+      },
+      {
+        "navDate": "2025-01-24",
+        "navValue": 9.2,
+        "navValueAdjusted": 9.2,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.84
+      },
+      {
+        "navDate": "2025-01-27",
+        "navValue": 9.07,
+        "navValueAdjusted": 9.07,
+        "changeNAV": -0.13,
+        "changePercentNAV": -1.43
+      },
+      {
+        "navDate": "2025-01-28",
+        "navValue": 9.06,
+        "navValueAdjusted": 9.06,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.07
+      },
+      {
+        "navDate": "2025-01-29",
+        "navValue": 9.2,
+        "navValueAdjusted": 9.2,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.5
+      },
+      {
+        "navDate": "2025-01-30",
+        "navValue": 9.24,
+        "navValueAdjusted": 9.24,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.47
+      },
+      {
+        "navDate": "2025-01-31",
+        "navValue": 9.35,
+        "navValueAdjusted": 9.35,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.15
+      },
+      {
+        "navDate": "2025-02-03",
+        "navValue": 9.26,
+        "navValueAdjusted": 9.26,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.91
+      },
+      {
+        "navDate": "2025-02-04",
+        "navValue": 9.39,
+        "navValueAdjusted": 9.39,
+        "changeNAV": 0.12,
+        "changePercentNAV": 1.31
+      },
+      {
+        "navDate": "2025-02-05",
+        "navValue": 9.38,
+        "navValueAdjusted": 9.38,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.1
+      },
+      {
+        "navDate": "2025-02-06",
+        "navValue": 9.33,
+        "navValueAdjusted": 9.33,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.45
+      },
+      {
+        "navDate": "2025-02-07",
+        "navValue": 9.34,
+        "navValueAdjusted": 9.34,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.09
+      },
+      {
+        "navDate": "2025-02-10",
+        "navValue": 9.25,
+        "navValueAdjusted": 9.25,
+        "changeNAV": -0.09,
+        "changePercentNAV": -1
+      },
+      {
+        "navDate": "2025-02-11",
+        "navValue": 9.11,
+        "navValueAdjusted": 9.11,
+        "changeNAV": -0.14,
+        "changePercentNAV": -1.52
+      },
+      {
+        "navDate": "2025-02-12",
+        "navValue": 9.11,
+        "navValueAdjusted": 9.11,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2025-02-13",
+        "navValue": 9.12,
+        "navValueAdjusted": 9.12,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.13
+      },
+      {
+        "navDate": "2025-02-14",
+        "navValue": 9.03,
+        "navValueAdjusted": 9.03,
+        "changeNAV": -0.09,
+        "changePercentNAV": -0.99
+      },
+      {
+        "navDate": "2025-02-17",
+        "navValue": 9.05,
+        "navValueAdjusted": 9.05,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.17
+      },
+      {
+        "navDate": "2025-02-18",
+        "navValue": 9.01,
+        "navValueAdjusted": 9.01,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.34
+      },
+      {
+        "navDate": "2025-02-19",
+        "navValue": 9.01,
+        "navValueAdjusted": 9.01,
+        "changeNAV": 0,
+        "changePercentNAV": -0.02
+      },
+      {
+        "navDate": "2025-02-20",
+        "navValue": 9.04,
+        "navValueAdjusted": 9.04,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.33
+      },
+      {
+        "navDate": "2025-02-21",
+        "navValue": 8.98,
+        "navValueAdjusted": 8.98,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.71
+      },
+      {
+        "navDate": "2025-02-24",
+        "navValue": 8.9,
+        "navValueAdjusted": 8.9,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.9
+      },
+      {
+        "navDate": "2025-02-25",
+        "navValue": 8.88,
+        "navValueAdjusted": 8.88,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.19
+      },
+      {
+        "navDate": "2025-02-27",
+        "navValue": 8.85,
+        "navValueAdjusted": 8.85,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.3
+      },
+      {
+        "navDate": "2025-02-28",
+        "navValue": 8.69,
+        "navValueAdjusted": 8.69,
+        "changeNAV": -0.16,
+        "changePercentNAV": -1.81
+      },
+      {
+        "navDate": "2025-03-03",
+        "navValue": 8.71,
+        "navValueAdjusted": 8.71,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.21
+      },
+      {
+        "navDate": "2025-03-04",
+        "navValue": 8.73,
+        "navValueAdjusted": 8.73,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.16
+      },
+      {
+        "navDate": "2025-03-05",
+        "navValue": 8.82,
+        "navValueAdjusted": 8.82,
+        "changeNAV": 0.1,
+        "changePercentNAV": 1.1
+      },
+      {
+        "navDate": "2025-03-06",
+        "navValue": 8.91,
+        "navValueAdjusted": 8.91,
+        "changeNAV": 0.09,
+        "changePercentNAV": 1.02
+      },
+      {
+        "navDate": "2025-03-07",
+        "navValue": 8.91,
+        "navValueAdjusted": 8.91,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2025-03-10",
+        "navValue": 8.86,
+        "navValueAdjusted": 8.86,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.59
+      },
+      {
+        "navDate": "2025-03-11",
+        "navValue": 8.88,
+        "navValueAdjusted": 8.88,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.19
+      },
+      {
+        "navDate": "2025-03-12",
+        "navValue": 8.88,
+        "navValueAdjusted": 8.88,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.09
+      },
+      {
+        "navDate": "2025-03-13",
+        "navValue": 8.85,
+        "navValueAdjusted": 8.85,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.35
+      },
+      {
+        "navDate": "2025-03-17",
+        "navValue": 8.9,
+        "navValueAdjusted": 8.9,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.5
+      },
+      {
+        "navDate": "2025-03-18",
+        "navValue": 9.04,
+        "navValueAdjusted": 9.04,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.6
+      },
+      {
+        "navDate": "2025-03-19",
+        "navValue": 9.11,
+        "navValueAdjusted": 9.11,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.75
+      },
+      {
+        "navDate": "2025-03-20",
+        "navValue": 9.21,
+        "navValueAdjusted": 9.21,
+        "changeNAV": 0.1,
+        "changePercentNAV": 1.12
+      },
+      {
+        "navDate": "2025-03-21",
+        "navValue": 9.26,
+        "navValueAdjusted": 9.26,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.59
+      },
+      {
+        "navDate": "2025-03-24",
+        "navValue": 9.35,
+        "navValueAdjusted": 9.35,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.91
+      },
+      {
+        "navDate": "2025-03-25",
+        "navValue": 9.33,
+        "navValueAdjusted": 9.33,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.17
+      },
+      {
+        "navDate": "2025-03-26",
+        "navValue": 9.27,
+        "navValueAdjusted": 9.27,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.65
+      },
+      {
+        "navDate": "2025-03-27",
+        "navValue": 9.34,
+        "navValueAdjusted": 9.34,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.78
+      },
+      {
+        "navDate": "2025-03-28",
+        "navValue": 9.31,
+        "navValueAdjusted": 9.31,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.39
+      },
+      {
+        "navDate": "2025-03-31",
+        "navValue": 9.3,
+        "navValueAdjusted": 9.3,
+        "changeNAV": 0,
+        "changePercentNAV": -0.01
+      },
+      {
+        "navDate": "2025-04-01",
+        "navValue": 9.17,
+        "navValueAdjusted": 9.17,
+        "changeNAV": -0.13,
+        "changePercentNAV": -1.44
+      },
+      {
+        "navDate": "2025-04-02",
+        "navValue": 9.22,
+        "navValueAdjusted": 9.22,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.51
+      },
+      {
+        "navDate": "2025-04-03",
+        "navValue": 9.22,
+        "navValueAdjusted": 9.22,
+        "changeNAV": 0,
+        "changePercentNAV": 0.02
+      },
+      {
+        "navDate": "2025-04-04",
+        "navValue": 9.06,
+        "navValueAdjusted": 9.06,
+        "changeNAV": -0.16,
+        "changePercentNAV": -1.7
+      },
+      {
+        "navDate": "2025-04-07",
+        "navValue": 8.81,
+        "navValueAdjusted": 8.81,
+        "changeNAV": -0.25,
+        "changePercentNAV": -2.74
+      },
+      {
+        "navDate": "2025-04-08",
+        "navValue": 8.96,
+        "navValueAdjusted": 8.96,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.65
+      },
+      {
+        "navDate": "2025-04-09",
+        "navValue": 8.92,
+        "navValueAdjusted": 8.92,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.47
+      },
+      {
+        "navDate": "2025-04-11",
+        "navValue": 9.06,
+        "navValueAdjusted": 9.06,
+        "changeNAV": 0.15,
+        "changePercentNAV": 1.64
+      },
+      {
+        "navDate": "2025-04-15",
+        "navValue": 9.24,
+        "navValueAdjusted": 9.24,
+        "changeNAV": 0.18,
+        "changePercentNAV": 1.96
+      },
+      {
+        "navDate": "2025-04-16",
+        "navValue": 9.26,
+        "navValueAdjusted": 9.26,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.24
+      },
+      {
+        "navDate": "2025-04-17",
+        "navValue": 9.39,
+        "navValueAdjusted": 9.39,
+        "changeNAV": 0.13,
+        "changePercentNAV": 1.4
+      },
+      {
+        "navDate": "2025-04-21",
+        "navValue": 9.49,
+        "navValueAdjusted": 9.49,
+        "changeNAV": 0.1,
+        "changePercentNAV": 1.08
+      },
+      {
+        "navDate": "2025-04-22",
+        "navValue": 9.52,
+        "navValueAdjusted": 9.52,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.31
+      },
+      {
+        "navDate": "2025-04-23",
+        "navValue": 9.56,
+        "navValueAdjusted": 9.56,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.43
+      },
+      {
+        "navDate": "2025-04-24",
+        "navValue": 9.55,
+        "navValueAdjusted": 9.55,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.14
+      },
+      {
+        "navDate": "2025-04-25",
+        "navValue": 9.45,
+        "navValueAdjusted": 9.45,
+        "changeNAV": -0.1,
+        "changePercentNAV": -1.02
+      },
+      {
+        "navDate": "2025-04-28",
+        "navValue": 9.56,
+        "navValueAdjusted": 9.56,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.14
+      },
+      {
+        "navDate": "2025-04-29",
+        "navValue": 9.57,
+        "navValueAdjusted": 9.57,
+        "changeNAV": 0,
+        "changePercentNAV": 0.04
+      },
+      {
+        "navDate": "2025-04-30",
+        "navValue": 9.55,
+        "navValueAdjusted": 9.55,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.15
+      },
+      {
+        "navDate": "2025-05-02",
+        "navValue": 9.56,
+        "navValueAdjusted": 9.56,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.06
+      },
+      {
+        "navDate": "2025-05-05",
+        "navValue": 9.59,
+        "navValueAdjusted": 9.59,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.33
+      },
+      {
+        "navDate": "2025-05-06",
+        "navValue": 9.54,
+        "navValueAdjusted": 9.54,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.48
+      },
+      {
+        "navDate": "2025-05-07",
+        "navValue": 9.57,
+        "navValueAdjusted": 9.57,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.25
+      },
+      {
+        "navDate": "2025-05-08",
+        "navValue": 9.48,
+        "navValueAdjusted": 9.48,
+        "changeNAV": -0.09,
+        "changePercentNAV": -0.92
+      },
+      {
+        "navDate": "2025-05-09",
+        "navValue": 9.42,
+        "navValueAdjusted": 9.42,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.66
+      },
+      {
+        "navDate": "2025-05-12",
+        "navValue": 9.71,
+        "navValueAdjusted": 9.71,
+        "changeNAV": 0.3,
+        "changePercentNAV": 3.13
+      },
+      {
+        "navDate": "2025-05-13",
+        "navValue": 9.64,
+        "navValueAdjusted": 9.64,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.74
+      },
+      {
+        "navDate": "2025-05-14",
+        "navValue": 9.7,
+        "navValueAdjusted": 9.7,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.63
+      },
+      {
+        "navDate": "2025-05-15",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.09
+      },
+      {
+        "navDate": "2025-05-16",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.1
+      },
+      {
+        "navDate": "2025-05-19",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": 0,
+        "changePercentNAV": -0.03
+      },
+      {
+        "navDate": "2025-05-20",
+        "navValue": 9.71,
+        "navValueAdjusted": 9.71,
+        "changeNAV": -0.1,
+        "changePercentNAV": -1.06
+      },
+      {
+        "navDate": "2025-05-21",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.89
+      },
+      {
+        "navDate": "2025-05-22",
+        "navValue": 9.75,
+        "navValueAdjusted": 9.75,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.47
+      },
+      {
+        "navDate": "2025-05-23",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.74
+      },
+      {
+        "navDate": "2025-05-26",
+        "navValue": 9.85,
+        "navValueAdjusted": 9.85,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.27
+      },
+      {
+        "navDate": "2025-05-27",
+        "navValue": 9.79,
+        "navValueAdjusted": 9.79,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.57
+      },
+      {
+        "navDate": "2025-05-28",
+        "navValue": 9.79,
+        "navValueAdjusted": 9.79,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.06
+      },
+      {
+        "navDate": "2025-05-29",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.32
+      },
+      {
+        "navDate": "2025-05-30",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.06
+      },
+      {
+        "navDate": "2025-06-02",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": 0,
+        "changePercentNAV": -0.01
+      },
+      {
+        "navDate": "2025-06-03",
+        "navValue": 9.75,
+        "navValueAdjusted": 9.75,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.64
+      },
+      {
+        "navDate": "2025-06-04",
+        "navValue": 9.78,
+        "navValueAdjusted": 9.78,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.34
+      },
+      {
+        "navDate": "2025-06-05",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2025-06-06",
+        "navValue": 9.93,
+        "navValueAdjusted": 9.93,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.94
+      },
+      {
+        "navDate": "2025-06-09",
+        "navValue": 9.99,
+        "navValueAdjusted": 9.99,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.53
+      },
+      {
+        "navDate": "2025-06-10",
+        "navValue": 9.99,
+        "navValueAdjusted": 9.99,
+        "changeNAV": 0,
+        "changePercentNAV": 0.01
+      },
+      {
+        "navDate": "2025-06-11",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.18
+      },
+      {
+        "navDate": "2025-06-12",
+        "navValue": 9.86,
+        "navValueAdjusted": 9.86,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.07
+      },
+      {
+        "navDate": "2025-06-13",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.64
+      },
+      {
+        "navDate": "2025-06-16",
+        "navValue": 9.91,
+        "navValueAdjusted": 9.91,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.12
+      },
+      {
+        "navDate": "2025-06-17",
+        "navValue": 9.87,
+        "navValueAdjusted": 9.87,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.35
+      },
+      {
+        "navDate": "2025-06-18",
+        "navValue": 9.85,
+        "navValueAdjusted": 9.85,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.22
+      },
+      {
+        "navDate": "2025-06-19",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.39
+      },
+      {
+        "navDate": "2025-06-20",
+        "navValue": 9.94,
+        "navValueAdjusted": 9.94,
+        "changeNAV": 0.13,
+        "changePercentNAV": 1.28
+      },
+      {
+        "navDate": "2025-06-23",
+        "navValue": 9.91,
+        "navValueAdjusted": 9.91,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.25
+      },
+      {
+        "navDate": "2025-06-24",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.53
+      },
+      {
+        "navDate": "2025-06-25",
+        "navValue": 10.02,
+        "navValueAdjusted": 10.02,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.57
+      },
+      {
+        "navDate": "2025-06-26",
+        "navValue": 10.12,
+        "navValueAdjusted": 10.12,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.94
+      },
+      {
+        "navDate": "2025-06-27",
+        "navValue": 10.15,
+        "navValueAdjusted": 10.15,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.34
+      },
+      {
+        "navDate": "2025-06-30",
+        "navValue": 10.15,
+        "navValueAdjusted": 10.15,
+        "changeNAV": 0,
+        "changePercentNAV": -0.04
+      },
+      {
+        "navDate": "2025-07-01",
+        "navValue": 10.17,
+        "navValueAdjusted": 10.17,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.23
+      },
+      {
+        "navDate": "2025-07-02",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.43
+      },
+      {
+        "navDate": "2025-07-03",
+        "navValue": 10.11,
+        "navValueAdjusted": 10.11,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.21
+      },
+      {
+        "navDate": "2025-07-04",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.28
+      },
+      {
+        "navDate": "2025-07-07",
+        "navValue": 10.11,
+        "navValueAdjusted": 10.11,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.25
+      },
+      {
+        "navDate": "2025-07-08",
+        "navValue": 10.16,
+        "navValueAdjusted": 10.16,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.47
+      },
+      {
+        "navDate": "2025-07-09",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.28
+      },
+      {
+        "navDate": "2025-07-10",
+        "navValue": 10.09,
+        "navValueAdjusted": 10.09,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.35
+      },
+      {
+        "navDate": "2025-07-11",
+        "navValue": 10.02,
+        "navValueAdjusted": 10.02,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.7
+      },
+      {
+        "navDate": "2025-07-14",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.21
+      },
+      {
+        "navDate": "2025-07-15",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.33
+      },
+      {
+        "navDate": "2025-07-16",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.09
+      },
+      {
+        "navDate": "2025-07-17",
+        "navValue": 10.01,
+        "navValueAdjusted": 10.01,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.38
+      },
+      {
+        "navDate": "2025-07-18",
+        "navValue": 9.95,
+        "navValueAdjusted": 9.95,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.6
+      },
+      {
+        "navDate": "2025-07-21",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.58
+      },
+      {
+        "navDate": "2025-07-22",
+        "navValue": 9.98,
+        "navValueAdjusted": 9.98,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.26
+      },
+      {
+        "navDate": "2025-07-23",
+        "navValue": 10.02,
+        "navValueAdjusted": 10.02,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.37
+      },
+      {
+        "navDate": "2025-07-24",
+        "navValue": 9.96,
+        "navValueAdjusted": 9.96,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.57
+      },
+      {
+        "navDate": "2025-07-25",
+        "navValue": 9.86,
+        "navValueAdjusted": 9.86,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.97
+      },
+      {
+        "navDate": "2025-07-28",
+        "navValue": 9.76,
+        "navValueAdjusted": 9.76,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.98
+      },
+      {
+        "navDate": "2025-07-29",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.53
+      },
+      {
+        "navDate": "2025-07-30",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.25
+      },
+      {
+        "navDate": "2025-07-31",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.39
+      },
+      {
+        "navDate": "2025-08-01",
+        "navValue": 9.68,
+        "navValueAdjusted": 9.68,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.21
+      },
+      {
+        "navDate": "2025-08-04",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": 0.12,
+        "changePercentNAV": 1.23
+      },
+      {
+        "navDate": "2025-08-05",
+        "navValue": 9.76,
+        "navValueAdjusted": 9.76,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.47
+      },
+      {
+        "navDate": "2025-08-06",
+        "navValue": 9.69,
+        "navValueAdjusted": 9.69,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.68
+      },
+      {
+        "navDate": "2025-08-07",
+        "navValue": 9.7,
+        "navValueAdjusted": 9.7,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.07
+      },
+      {
+        "navDate": "2025-08-08",
+        "navValue": 9.6,
+        "navValueAdjusted": 9.6,
+        "changeNAV": -0.1,
+        "changePercentNAV": -1.06
+      },
+      {
+        "navDate": "2025-08-11",
+        "navValue": 9.69,
+        "navValueAdjusted": 9.69,
+        "changeNAV": 0.1,
+        "changePercentNAV": 1
+      },
+      {
+        "navDate": "2025-08-12",
+        "navValue": 9.66,
+        "navValueAdjusted": 9.66,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.29
+      },
+      {
+        "navDate": "2025-08-13",
+        "navValue": 9.72,
+        "navValueAdjusted": 9.72,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.57
+      },
+      {
+        "navDate": "2025-08-14",
+        "navValue": 9.72,
+        "navValueAdjusted": 9.72,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2025-08-18",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.96
+      },
+      {
+        "navDate": "2025-08-19",
+        "navValue": 9.86,
+        "navValueAdjusted": 9.86,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.51
+      },
+      {
+        "navDate": "2025-08-20",
+        "navValue": 9.89,
+        "navValueAdjusted": 9.89,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.26
+      },
+      {
+        "navDate": "2025-08-21",
+        "navValue": 9.9,
+        "navValueAdjusted": 9.9,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.16
+      },
+      {
+        "navDate": "2025-08-22",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.6
+      },
+      {
+        "navDate": "2025-08-25",
+        "navValue": 9.87,
+        "navValueAdjusted": 9.87,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.3
+      },
+      {
+        "navDate": "2025-08-26",
+        "navValue": 9.76,
+        "navValueAdjusted": 9.76,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.11
+      },
+      {
+        "navDate": "2025-08-28",
+        "navValue": 9.69,
+        "navValueAdjusted": 9.69,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.73
+      },
+      {
+        "navDate": "2025-08-29",
+        "navValue": 9.68,
+        "navValueAdjusted": 9.68,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.09
+      },
+      {
+        "navDate": "2025-09-01",
+        "navValue": 9.77,
+        "navValueAdjusted": 9.77,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.91
+      },
+      {
+        "navDate": "2025-09-02",
+        "navValue": 9.77,
+        "navValueAdjusted": 9.77,
+        "changeNAV": 0,
+        "changePercentNAV": -0.02
+      },
+      {
+        "navDate": "2025-09-03",
+        "navValue": 9.83,
+        "navValueAdjusted": 9.83,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2025-09-04",
+        "navValue": 9.83,
+        "navValueAdjusted": 9.83,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.05
+      },
+      {
+        "navDate": "2025-09-05",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.06
+      },
+      {
+        "navDate": "2025-09-08",
+        "navValue": 9.88,
+        "navValueAdjusted": 9.88,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.41
+      },
+      {
+        "navDate": "2025-09-09",
+        "navValue": 9.9,
+        "navValueAdjusted": 9.9,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.18
+      },
+      {
+        "navDate": "2025-09-10",
+        "navValue": 9.92,
+        "navValueAdjusted": 9.92,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.23
+      },
+      {
+        "navDate": "2025-09-11",
+        "navValue": 9.94,
+        "navValueAdjusted": 9.94,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.16
+      },
+      {
+        "navDate": "2025-09-12",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.29
+      },
+      {
+        "navDate": "2025-09-15",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0,
+        "changePercentNAV": 0.01
+      },
+      {
+        "navDate": "2025-09-16",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.75
+      },
+      {
+        "navDate": "2025-09-17",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.53
+      },
+      {
+        "navDate": "2025-09-18",
+        "navValue": 10.13,
+        "navValueAdjusted": 10.13,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.3
+      },
+      {
+        "navDate": "2025-09-19",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.27
+      },
+      {
+        "navDate": "2025-09-22",
+        "navValue": 10.06,
+        "navValueAdjusted": 10.06,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.38
+      },
+      {
+        "navDate": "2025-09-23",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.19
+      },
+      {
+        "navDate": "2025-09-24",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.75
+      },
+      {
+        "navDate": "2025-09-25",
+        "navValue": 9.9,
+        "navValueAdjusted": 9.9,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.67
+      },
+      {
+        "navDate": "2025-09-26",
+        "navValue": 9.78,
+        "navValueAdjusted": 9.78,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.25
+      },
+      {
+        "navDate": "2025-09-29",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.29
+      },
+      {
+        "navDate": "2025-09-30",
+        "navValue": 9.79,
+        "navValueAdjusted": 9.79,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.09
+      },
+      {
+        "navDate": "2025-10-01",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.51
+      },
+      {
+        "navDate": "2025-10-03",
+        "navValue": 9.89,
+        "navValueAdjusted": 9.89,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.51
+      },
+      {
+        "navDate": "2025-10-06",
+        "navValue": 9.94,
+        "navValueAdjusted": 9.94,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.5
+      },
+      {
+        "navDate": "2025-10-07",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.28
+      },
+      {
+        "navDate": "2025-10-08",
+        "navValue": 9.93,
+        "navValueAdjusted": 9.93,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.38
+      },
+      {
+        "navDate": "2025-10-09",
+        "navValue": 9.98,
+        "navValueAdjusted": 9.98,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.51
+      },
+      {
+        "navDate": "2025-10-10",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2025-10-13",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": 0,
+        "changePercentNAV": -0.03
+      },
+      {
+        "navDate": "2025-10-14",
+        "navValue": 10,
+        "navValueAdjusted": 10,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.41
+      },
+      {
+        "navDate": "2025-10-15",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": 0.1,
+        "changePercentNAV": 0.96
+      },
+      {
+        "navDate": "2025-10-16",
+        "navValue": 10.17,
+        "navValueAdjusted": 10.17,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.77
+      },
+      {
+        "navDate": "2025-10-17",
+        "navValue": 10.22,
+        "navValueAdjusted": 10.22,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.42
+      },
+      {
+        "navDate": "2025-10-20",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.37
+      },
+      {
+        "navDate": "2025-10-23",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.12
+      },
+      {
+        "navDate": "2025-10-24",
+        "navValue": 10.22,
+        "navValueAdjusted": 10.22,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.22
+      },
+      {
+        "navDate": "2025-10-27",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.45
+      },
+      {
+        "navDate": "2025-10-28",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.07
+      },
+      {
+        "navDate": "2025-10-29",
+        "navValue": 10.31,
+        "navValueAdjusted": 10.31,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.45
+      },
+      {
+        "navDate": "2025-10-30",
+        "navValue": 10.28,
+        "navValueAdjusted": 10.28,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.26
+      },
+      {
+        "navDate": "2025-10-31",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.34
+      },
+      {
+        "navDate": "2025-11-03",
+        "navValue": 10.32,
+        "navValueAdjusted": 10.32,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.75
+      },
+      {
+        "navDate": "2025-11-04",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.5
+      },
+      {
+        "navDate": "2025-11-06",
+        "navValue": 10.23,
+        "navValueAdjusted": 10.23,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.4
+      },
+      {
+        "navDate": "2025-11-07",
+        "navValue": 10.23,
+        "navValueAdjusted": 10.23,
+        "changeNAV": 0,
+        "changePercentNAV": 0.03
+      },
+      {
+        "navDate": "2025-11-10",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.32
+      },
+      {
+        "navDate": "2025-11-11",
+        "navValue": 10.3,
+        "navValueAdjusted": 10.3,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.39
+      },
+      {
+        "navDate": "2025-11-12",
+        "navValue": 10.35,
+        "navValueAdjusted": 10.35,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.5
+      },
+      {
+        "navDate": "2025-11-13",
+        "navValue": 10.35,
+        "navValueAdjusted": 10.35,
+        "changeNAV": 0,
+        "changePercentNAV": -0.01
+      },
+      {
+        "navDate": "2025-11-14",
+        "navValue": 10.37,
+        "navValueAdjusted": 10.37,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.13
+      },
+      {
+        "navDate": "2025-11-17",
+        "navValue": 10.41,
+        "navValueAdjusted": 10.41,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.41
+      },
+      {
+        "navDate": "2025-11-18",
+        "navValue": 10.35,
+        "navValueAdjusted": 10.35,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.59
+      },
+      {
+        "navDate": "2025-11-19",
+        "navValue": 10.39,
+        "navValueAdjusted": 10.39,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.44
+      },
+      {
+        "navDate": "2025-11-20",
+        "navValue": 10.41,
+        "navValueAdjusted": 10.41,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.2
+      },
+      {
+        "navDate": "2025-11-21",
+        "navValue": 10.35,
+        "navValueAdjusted": 10.35,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.6
+      },
+      {
+        "navDate": "2025-11-24",
+        "navValue": 10.3,
+        "navValueAdjusted": 10.3,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.53
+      },
+      {
+        "navDate": "2025-11-25",
+        "navValue": 10.3,
+        "navValueAdjusted": 10.3,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.05
+      },
+      {
+        "navDate": "2025-11-26",
+        "navValue": 10.43,
+        "navValueAdjusted": 10.43,
+        "changeNAV": 0.12,
+        "changePercentNAV": 1.19
+      },
+      {
+        "navDate": "2025-11-27",
+        "navValue": 10.42,
+        "navValueAdjusted": 10.42,
+        "changeNAV": 0,
+        "changePercentNAV": -0.01
+      },
+      {
+        "navDate": "2025-11-28",
+        "navValue": 10.44,
+        "navValueAdjusted": 10.44,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.11
+      },
+      {
+        "navDate": "2025-12-01",
+        "navValue": 10.41,
+        "navValueAdjusted": 10.41,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.21
+      },
+      {
+        "navDate": "2025-12-02",
+        "navValue": 10.38,
+        "navValueAdjusted": 10.38,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.32
+      },
+      {
+        "navDate": "2025-12-05",
+        "navValue": 10.42,
+        "navValueAdjusted": 10.42,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.4
+      },
+      {
+        "navDate": "2025-12-08",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": -0.15,
+        "changePercentNAV": -1.49
+      },
+      {
+        "navDate": "2025-12-09",
+        "navValue": 10.23,
+        "navValueAdjusted": 10.23,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.32
+      },
+      {
+        "navDate": "2025-12-10",
+        "navValue": 10.2,
+        "navValueAdjusted": 10.2,
+        "changeNAV": -0.03,
+        "changePercentNAV": -0.31
+      },
+      {
+        "navDate": "2025-12-11",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.64
+      },
+      {
+        "navDate": "2025-12-12",
+        "navValue": 10.34,
+        "navValueAdjusted": 10.34,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.67
+      },
+      {
+        "navDate": "2025-12-15",
+        "navValue": 10.32,
+        "navValueAdjusted": 10.32,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.15
+      },
+      {
+        "navDate": "2025-12-16",
+        "navValue": 10.28,
+        "navValueAdjusted": 10.28,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.41
+      },
+      {
+        "navDate": "2025-12-17",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.16
+      },
+      {
+        "navDate": "2025-12-18",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.17
+      },
+      {
+        "navDate": "2025-12-19",
+        "navValue": 10.32,
+        "navValueAdjusted": 10.32,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.76
+      },
+      {
+        "navDate": "2025-12-22",
+        "navValue": 10.39,
+        "navValueAdjusted": 10.39,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.67
+      },
+      {
+        "navDate": "2025-12-23",
+        "navValue": 10.39,
+        "navValueAdjusted": 10.39,
+        "changeNAV": 0,
+        "changePercentNAV": -0.05
+      },
+      {
+        "navDate": "2025-12-24",
+        "navValue": 10.38,
+        "navValueAdjusted": 10.38,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.06
+      },
+      {
+        "navDate": "2025-12-26",
+        "navValue": 10.33,
+        "navValueAdjusted": 10.33,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.47
+      },
+      {
+        "navDate": "2025-12-29",
+        "navValue": 10.29,
+        "navValueAdjusted": 10.29,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.45
+      },
+      {
+        "navDate": "2025-12-30",
+        "navValue": 10.3,
+        "navValueAdjusted": 10.3,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.13
+      },
+      {
+        "navDate": "2025-12-31",
+        "navValue": 10.37,
+        "navValueAdjusted": 10.37,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.73
+      },
+      {
+        "navDate": "2026-01-01",
+        "navValue": 10.44,
+        "navValueAdjusted": 10.44,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2026-01-02",
+        "navValue": 10.5,
+        "navValueAdjusted": 10.5,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.58
+      },
+      {
+        "navDate": "2026-01-05",
+        "navValue": 10.45,
+        "navValueAdjusted": 10.45,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.4
+      },
+      {
+        "navDate": "2026-01-06",
+        "navValue": 10.46,
+        "navValueAdjusted": 10.46,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.07
+      },
+      {
+        "navDate": "2026-01-07",
+        "navValue": 10.45,
+        "navValueAdjusted": 10.45,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.07
+      },
+      {
+        "navDate": "2026-01-08",
+        "navValue": 10.35,
+        "navValueAdjusted": 10.35,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.96
+      },
+      {
+        "navDate": "2026-01-09",
+        "navValue": 10.3,
+        "navValueAdjusted": 10.3,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.57
+      },
+      {
+        "navDate": "2026-01-12",
+        "navValue": 10.33,
+        "navValueAdjusted": 10.33,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.32
+      },
+      {
+        "navDate": "2026-01-13",
+        "navValue": 10.33,
+        "navValueAdjusted": 10.33,
+        "changeNAV": 0,
+        "changePercentNAV": -0.03
+      },
+      {
+        "navDate": "2026-01-14",
+        "navValue": 10.33,
+        "navValueAdjusted": 10.33,
+        "changeNAV": 0,
+        "changePercentNAV": 0.01
+      },
+      {
+        "navDate": "2026-01-16",
+        "navValue": 10.34,
+        "navValueAdjusted": 10.34,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.1
+      },
+      {
+        "navDate": "2026-01-19",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": -0.07,
+        "changePercentNAV": -0.68
+      },
+      {
+        "navDate": "2026-01-20",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": -0.17,
+        "changePercentNAV": -1.65
+      },
+      {
+        "navDate": "2026-01-21",
+        "navValue": 10.08,
+        "navValueAdjusted": 10.08,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.21
+      },
+      {
+        "navDate": "2026-01-22",
+        "navValue": 10.12,
+        "navValueAdjusted": 10.12,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.41
+      },
+      {
+        "navDate": "2026-01-23",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.8
+      },
+      {
+        "navDate": "2026-01-27",
+        "navValue": 10.06,
+        "navValueAdjusted": 10.06,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.26
+      },
+      {
+        "navDate": "2026-01-28",
+        "navValue": 10.14,
+        "navValueAdjusted": 10.14,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.75
+      },
+      {
+        "navDate": "2026-01-29",
+        "navValue": 10.17,
+        "navValueAdjusted": 10.17,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.32
+      },
+      {
+        "navDate": "2026-01-30",
+        "navValue": 10.15,
+        "navValueAdjusted": 10.15,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.22
+      },
+      {
+        "navDate": "2026-02-02",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.04
+      },
+      {
+        "navDate": "2026-02-03",
+        "navValue": 10.24,
+        "navValueAdjusted": 10.24,
+        "changeNAV": 0.2,
+        "changePercentNAV": 1.97
+      },
+      {
+        "navDate": "2026-02-04",
+        "navValue": 10.26,
+        "navValueAdjusted": 10.26,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.23
+      },
+      {
+        "navDate": "2026-02-05",
+        "navValue": 10.21,
+        "navValueAdjusted": 10.21,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.48
+      },
+      {
+        "navDate": "2026-02-06",
+        "navValue": 10.21,
+        "navValueAdjusted": 10.21,
+        "changeNAV": 0,
+        "changePercentNAV": 0
+      },
+      {
+        "navDate": "2026-02-09",
+        "navValue": 10.33,
+        "navValueAdjusted": 10.33,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.11
+      },
+      {
+        "navDate": "2026-02-10",
+        "navValue": 10.38,
+        "navValueAdjusted": 10.38,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.54
+      },
+      {
+        "navDate": "2026-02-11",
+        "navValue": 10.43,
+        "navValueAdjusted": 10.43,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.4
+      },
+      {
+        "navDate": "2026-02-12",
+        "navValue": 10.38,
+        "navValueAdjusted": 10.38,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.39
+      },
+      {
+        "navDate": "2026-02-13",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.11
+      },
+      {
+        "navDate": "2026-02-16",
+        "navValue": 10.34,
+        "navValueAdjusted": 10.34,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.68
+      },
+      {
+        "navDate": "2026-02-17",
+        "navValue": 10.36,
+        "navValueAdjusted": 10.36,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.21
+      },
+      {
+        "navDate": "2026-02-18",
+        "navValue": 10.41,
+        "navValueAdjusted": 10.41,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.44
+      },
+      {
+        "navDate": "2026-02-19",
+        "navValue": 10.27,
+        "navValueAdjusted": 10.27,
+        "changeNAV": -0.14,
+        "changePercentNAV": -1.35
+      },
+      {
+        "navDate": "2026-02-20",
+        "navValue": 10.32,
+        "navValueAdjusted": 10.32,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.5
+      },
+      {
+        "navDate": "2026-02-23",
+        "navValue": 10.37,
+        "navValueAdjusted": 10.37,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.54
+      },
+      {
+        "navDate": "2026-02-24",
+        "navValue": 10.33,
+        "navValueAdjusted": 10.33,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.46
+      },
+      {
+        "navDate": "2026-02-25",
+        "navValue": 10.38,
+        "navValueAdjusted": 10.38,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.5
+      },
+      {
+        "navDate": "2026-02-26",
+        "navValue": 10.39,
+        "navValueAdjusted": 10.39,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.13
+      },
+      {
+        "navDate": "2026-02-27",
+        "navValue": 10.28,
+        "navValueAdjusted": 10.28,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.11
+      },
+      {
+        "navDate": "2026-03-02",
+        "navValue": 10.16,
+        "navValueAdjusted": 10.16,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.16
+      },
+      {
+        "navDate": "2026-03-04",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": -0.19,
+        "changePercentNAV": -1.84
+      },
+      {
+        "navDate": "2026-03-05",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": 0.13,
+        "changePercentNAV": 1.33
+      },
+      {
+        "navDate": "2026-03-06",
+        "navValue": 9.99,
+        "navValueAdjusted": 9.99,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.13
+      },
+      {
+        "navDate": "2026-03-09",
+        "navValue": 9.79,
+        "navValueAdjusted": 9.79,
+        "changeNAV": -0.2,
+        "changePercentNAV": -2
+      },
+      {
+        "navDate": "2026-03-10",
+        "navValue": 9.93,
+        "navValueAdjusted": 9.93,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.43
+      },
+      {
+        "navDate": "2026-03-11",
+        "navValue": 9.81,
+        "navValueAdjusted": 9.81,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.25
+      },
+      {
+        "navDate": "2026-03-12",
+        "navValue": 9.71,
+        "navValueAdjusted": 9.71,
+        "changeNAV": -0.09,
+        "changePercentNAV": -0.95
+      },
+      {
+        "navDate": "2026-03-13",
+        "navValue": 9.49,
+        "navValueAdjusted": 9.49,
+        "changeNAV": -0.22,
+        "changePercentNAV": -2.32
+      },
+      {
+        "navDate": "2026-03-16",
+        "navValue": 9.56,
+        "navValueAdjusted": 9.56,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.77
+      },
+      {
+        "navDate": "2026-03-17",
+        "navValue": 9.65,
+        "navValueAdjusted": 9.65,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.89
+      },
+      {
+        "navDate": "2026-03-18",
+        "navValue": 9.7,
+        "navValueAdjusted": 9.7,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.6
+      },
+      {
+        "navDate": "2026-03-19",
+        "navValue": 9.41,
+        "navValueAdjusted": 9.41,
+        "changeNAV": -0.29,
+        "changePercentNAV": -3.04
+      },
+      {
+        "navDate": "2026-03-20",
+        "navValue": 9.49,
+        "navValueAdjusted": 9.49,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.84
+      },
+      {
+        "navDate": "2026-03-23",
+        "navValue": 9.21,
+        "navValueAdjusted": 9.21,
+        "changeNAV": -0.28,
+        "changePercentNAV": -2.95
+      },
+      {
+        "navDate": "2026-03-24",
+        "navValue": 9.37,
+        "navValueAdjusted": 9.37,
+        "changeNAV": 0.16,
+        "changePercentNAV": 1.76
+      },
+      {
+        "navDate": "2026-03-25",
+        "navValue": 9.54,
+        "navValueAdjusted": 9.54,
+        "changeNAV": 0.17,
+        "changePercentNAV": 1.83
+      },
+      {
+        "navDate": "2026-03-27",
+        "navValue": 9.36,
+        "navValueAdjusted": 9.36,
+        "changeNAV": -0.18,
+        "changePercentNAV": -1.88
+      },
+      {
+        "navDate": "2026-03-30",
+        "navValue": 9.16,
+        "navValueAdjusted": 9.16,
+        "changeNAV": -0.2,
+        "changePercentNAV": -2.16
+      },
+      {
+        "navDate": "2026-03-31",
+        "navValue": 9.16,
+        "navValueAdjusted": 9.16,
+        "changeNAV": 0,
+        "changePercentNAV": -0.01
+      },
+      {
+        "navDate": "2026-04-01",
+        "navValue": 9.26,
+        "navValueAdjusted": 9.26,
+        "changeNAV": 0.1,
+        "changePercentNAV": 1.07
+      },
+      {
+        "navDate": "2026-04-02",
+        "navValue": 9.22,
+        "navValueAdjusted": 9.22,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.42
+      },
+      {
+        "navDate": "2026-04-06",
+        "navValue": 9.34,
+        "navValueAdjusted": 9.34,
+        "changeNAV": 0.12,
+        "changePercentNAV": 1.35
+      },
+      {
+        "navDate": "2026-04-07",
+        "navValue": 9.38,
+        "navValueAdjusted": 9.38,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.43
+      },
+      {
+        "navDate": "2026-04-08",
+        "navValue": 9.73,
+        "navValueAdjusted": 9.73,
+        "changeNAV": 0.35,
+        "changePercentNAV": 3.71
+      },
+      {
+        "navDate": "2026-04-09",
+        "navValue": 9.65,
+        "navValueAdjusted": 9.65,
+        "changeNAV": -0.08,
+        "changePercentNAV": -0.82
+      },
+      {
+        "navDate": "2026-04-10",
+        "navValue": 9.77,
+        "navValueAdjusted": 9.77,
+        "changeNAV": 0.12,
+        "changePercentNAV": 1.25
+      },
+      {
+        "navDate": "2026-04-13",
+        "navValue": 9.71,
+        "navValueAdjusted": 9.71,
+        "changeNAV": -0.06,
+        "changePercentNAV": -0.59
+      },
+      {
+        "navDate": "2026-04-15",
+        "navValue": 9.85,
+        "navValueAdjusted": 9.85,
+        "changeNAV": 0.14,
+        "changePercentNAV": 1.41
+      },
+      {
+        "navDate": "2026-04-16",
+        "navValue": 9.85,
+        "navValueAdjusted": 9.85,
+        "changeNAV": 0,
+        "changePercentNAV": 0.04
+      },
+      {
+        "navDate": "2026-04-17",
+        "navValue": 9.92,
+        "navValueAdjusted": 9.92,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.69
+      },
+      {
+        "navDate": "2026-04-20",
+        "navValue": 9.94,
+        "navValueAdjusted": 9.94,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.15
+      },
+      {
+        "navDate": "2026-04-21",
+        "navValue": 10.03,
+        "navValueAdjusted": 10.03,
+        "changeNAV": 0.1,
+        "changePercentNAV": 0.97
+      },
+      {
+        "navDate": "2026-04-22",
+        "navValue": 10.02,
+        "navValueAdjusted": 10.02,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.09
+      },
+      {
+        "navDate": "2026-04-23",
+        "navValue": 9.92,
+        "navValueAdjusted": 9.92,
+        "changeNAV": -0.11,
+        "changePercentNAV": -1.06
+      },
+      {
+        "navDate": "2026-04-24",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": -0.09,
+        "changePercentNAV": -0.96
+      },
+      {
+        "navDate": "2026-04-27",
+        "navValue": 9.91,
+        "navValueAdjusted": 9.91,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.95
+      },
+      {
+        "navDate": "2026-04-28",
+        "navValue": 9.86,
+        "navValueAdjusted": 9.86,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.54
+      },
+      {
+        "navDate": "2026-04-29",
+        "navValue": 9.92,
+        "navValueAdjusted": 9.92,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.61
+      },
+      {
+        "navDate": "2026-04-30",
+        "navValue": 9.82,
+        "navValueAdjusted": 9.82,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.98
+      },
+      {
+        "navDate": "2026-05-04",
+        "navValue": 9.87,
+        "navValueAdjusted": 9.87,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.46
+      },
+      {
+        "navDate": "2026-05-05",
+        "navValue": 9.86,
+        "navValueAdjusted": 9.86,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.08
+      },
+      {
+        "navDate": "2026-05-06",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.15
+      },
+      {
+        "navDate": "2026-05-07",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.06
+      },
+      {
+        "navDate": "2026-05-08",
+        "navValue": 9.92,
+        "navValueAdjusted": 9.92,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.44
+      },
+      {
+        "navDate": "2026-05-11",
+        "navValue": 9.76,
+        "navValueAdjusted": 9.76,
+        "changeNAV": -0.17,
+        "changePercentNAV": -1.68
+      },
+      {
+        "navDate": "2026-05-12",
+        "navValue": 9.59,
+        "navValueAdjusted": 9.59,
+        "changeNAV": -0.16,
+        "changePercentNAV": -1.67
+      },
+      {
+        "navDate": "2026-05-13",
+        "navValue": 9.63,
+        "navValueAdjusted": 9.63,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.36
+      },
+      {
+        "navDate": "2026-05-14",
+        "navValue": 9.74,
+        "navValueAdjusted": 9.74,
+        "changeNAV": 0.11,
+        "changePercentNAV": 1.12
+      },
+      {
+        "navDate": "2026-05-15",
+        "navValue": 9.7,
+        "navValueAdjusted": 9.7,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.37
+      },
+      {
+        "navDate": "2026-05-18",
+        "navValue": 9.65,
+        "navValueAdjusted": 9.65,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.49
+      },
+      {
+        "navDate": "2026-05-19",
+        "navValue": 9.63,
+        "navValueAdjusted": 9.63,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.2
+      },
+      {
+        "navDate": "2026-05-20",
+        "navValue": 9.66,
+        "navValueAdjusted": 9.66,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.29
+      },
+      {
+        "navDate": "2026-05-21",
+        "navValue": 9.67,
+        "navValueAdjusted": 9.67,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.09
+      },
+      {
+        "navDate": "2026-05-22",
+        "navValue": 9.72,
+        "navValueAdjusted": 9.72,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.46
+      },
+      {
+        "navDate": "2026-05-25",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.13,
+        "changePercentNAV": 1.29
+      },
+      {
+        "navDate": "2026-05-26",
+        "navValue": 9.8,
+        "navValueAdjusted": 9.8,
+        "changeNAV": -0.04,
+        "changePercentNAV": -0.44
+      },
+      {
+        "navDate": "2026-05-27",
+        "navValue": 9.84,
+        "navValueAdjusted": 9.84,
+        "changeNAV": 0.05,
+        "changePercentNAV": 0.46
+      },
+      {
+        "navDate": "2026-05-29",
+        "navValue": 9.73,
+        "navValueAdjusted": 9.73,
+        "changeNAV": -0.12,
+        "changePercentNAV": -1.19
+      },
+      {
+        "navDate": "2026-06-01",
+        "navValue": 9.62,
+        "navValueAdjusted": 9.62,
+        "changeNAV": -0.1,
+        "changePercentNAV": -1.04
+      },
+      {
+        "navDate": "2026-06-02",
+        "navValue": 9.64,
+        "navValueAdjusted": 9.64,
+        "changeNAV": 0.02,
+        "changePercentNAV": 0.17
+      },
+      {
+        "navDate": "2026-06-03",
+        "navValue": 9.64,
+        "navValueAdjusted": 9.64,
+        "changeNAV": 0,
+        "changePercentNAV": 0.03
+      },
+      {
+        "navDate": "2026-06-04",
+        "navValue": 9.64,
+        "navValueAdjusted": 9.64,
+        "changeNAV": 0,
+        "changePercentNAV": -0.02
+      },
+      {
+        "navDate": "2026-06-05",
+        "navValue": 9.64,
+        "navValueAdjusted": 9.64,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.06
+      },
+      {
+        "navDate": "2026-06-08",
+        "navValue": 9.54,
+        "navValueAdjusted": 9.54,
+        "changeNAV": -0.09,
+        "changePercentNAV": -0.94
+      },
+      {
+        "navDate": "2026-06-09",
+        "navValue": 9.63,
+        "navValueAdjusted": 9.63,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.93
+      },
+      {
+        "navDate": "2026-06-10",
+        "navValue": 9.61,
+        "navValueAdjusted": 9.61,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.26
+      },
+      {
+        "navDate": "2026-06-11",
+        "navValue": 9.58,
+        "navValueAdjusted": 9.58,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.25
+      },
+      {
+        "navDate": "2026-06-12",
+        "navValue": 9.75,
+        "navValueAdjusted": 9.75,
+        "changeNAV": 0.17,
+        "changePercentNAV": 1.73
+      },
+      {
+        "navDate": "2026-06-15",
+        "navValue": 9.85,
+        "navValueAdjusted": 9.85,
+        "changeNAV": 0.1,
+        "changePercentNAV": 1.06
+      },
+      {
+        "navDate": "2026-06-16",
+        "navValue": 9.89,
+        "navValueAdjusted": 9.89,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.36
+      },
+      {
+        "navDate": "2026-06-17",
+        "navValue": 9.92,
+        "navValueAdjusted": 9.92,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.29
+      },
+      {
+        "navDate": "2026-06-18",
+        "navValue": 9.95,
+        "navValueAdjusted": 9.95,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.3
+      },
+      {
+        "navDate": "2026-06-19",
+        "navValue": 9.93,
+        "navValueAdjusted": 9.93,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.16
+      },
+      {
+        "navDate": "2026-06-22",
+        "navValue": 9.96,
+        "navValueAdjusted": 9.96,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.27
+      },
+      {
+        "navDate": "2026-06-23",
+        "navValue": 9.86,
+        "navValueAdjusted": 9.86,
+        "changeNAV": -0.1,
+        "changePercentNAV": -0.99
+      },
+      {
+        "navDate": "2026-06-24",
+        "navValue": 9.91,
+        "navValueAdjusted": 9.91,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.56
+      },
+      {
+        "navDate": "2026-06-25",
+        "navValue": 9.94,
+        "navValueAdjusted": 9.94,
+        "changeNAV": 0.03,
+        "changePercentNAV": 0.27
+      },
+      {
+        "navDate": "2026-06-29",
+        "navValue": 9.89,
+        "navValueAdjusted": 9.89,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.47
+      },
+      {
+        "navDate": "2026-06-30",
+        "navValue": 9.87,
+        "navValueAdjusted": 9.87,
+        "changeNAV": -0.02,
+        "changePercentNAV": -0.23
+      },
+      {
+        "navDate": "2026-07-01",
+        "navValue": 9.94,
+        "navValueAdjusted": 9.94,
+        "changeNAV": 0.07,
+        "changePercentNAV": 0.71
+      },
+      {
+        "navDate": "2026-07-02",
+        "navValue": 10.03,
+        "navValueAdjusted": 10.03,
+        "changeNAV": 0.08,
+        "changePercentNAV": 0.85
+      },
+      {
+        "navDate": "2026-07-03",
+        "navValue": 10.06,
+        "navValueAdjusted": 10.06,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.37
+      },
+      {
+        "navDate": "2026-07-06",
+        "navValue": 10.15,
+        "navValueAdjusted": 10.15,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.86
+      },
+      {
+        "navDate": "2026-07-07",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.52
+      },
+      {
+        "navDate": "2026-07-08",
+        "navValue": 9.9,
+        "navValueAdjusted": 9.9,
+        "changeNAV": -0.19,
+        "changePercentNAV": -1.89
+      },
+      {
+        "navDate": "2026-07-09",
+        "navValue": 9.97,
+        "navValueAdjusted": 9.97,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.63
+      },
+      {
+        "navDate": "2026-07-10",
+        "navValue": 10.06,
+        "navValueAdjusted": 10.06,
+        "changeNAV": 0.09,
+        "changePercentNAV": 0.93
+      },
+      {
+        "navDate": "2026-07-13",
+        "navValue": 10.05,
+        "navValueAdjusted": 10.05,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.15
+      },
+      {
+        "navDate": "2026-07-14",
+        "navValue": 9.99,
+        "navValueAdjusted": 9.99,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.5
+      },
+      {
+        "navDate": "2026-07-15",
+        "navValue": 10.03,
+        "navValueAdjusted": 10.03,
+        "changeNAV": 0.04,
+        "changePercentNAV": 0.35
+      },
+      {
+        "navDate": "2026-07-16",
+        "navValue": 10.04,
+        "navValueAdjusted": 10.04,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.06
+      },
+      {
+        "navDate": "2026-07-17",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": 0.06,
+        "changePercentNAV": 0.63
+      },
+      {
+        "navDate": "2026-07-20",
+        "navValue": 10.09,
+        "navValueAdjusted": 10.09,
+        "changeNAV": -0.01,
+        "changePercentNAV": -0.11
+      },
+      {
+        "navDate": "2026-07-21",
+        "navValue": 10.1,
+        "navValueAdjusted": 10.1,
+        "changeNAV": 0.01,
+        "changePercentNAV": 0.11
+      },
+      {
+        "navDate": "2026-07-22",
+        "navValue": 10.05,
+        "navValueAdjusted": 10.05,
+        "changeNAV": -0.05,
+        "changePercentNAV": -0.51
+      }
+    ],
+    "availPeriod": [
+      "1M",
+      "3M",
+      "6M",
+      "1Y",
+      "ALL"
+    ]
+  }
+}

@@ -17,6 +17,7 @@ Thumbs.db
 *.log
 *.sqlite3
 *.db
+!data/moneycontrol_cache.sqlite3
 
 # Streamlit / notebooks
 .streamlit/secrets.toml

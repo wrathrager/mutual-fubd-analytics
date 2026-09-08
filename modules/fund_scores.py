@@ -112,26 +112,44 @@ def build_rms_scores(snapshot: pd.DataFrame) -> pd.DataFrame:
 
 
 def merge_score_frames(frames: list[pd.DataFrame]) -> pd.DataFrame:
-    merged = frames[0].copy()
+    if not frames:
+        return pd.DataFrame()
+
+    merged = _deduplicate_score_frame(frames[0])
     for frame in frames[1:]:
-        join_columns = ["coarse_fund_key"] if "coarse_fund_key" in merged.columns and "coarse_fund_key" in frame.columns else ["fund_name"]
-        merged = merged.merge(frame, on=join_columns, how="outer", suffixes=("", "_dup"))
+        frame = _deduplicate_score_frame(frame)
+        join_columns = ["fund_name"] if "fund_name" in merged.columns and "fund_name" in frame.columns else ["coarse_fund_key"]
+        merged = merged.merge(
+            frame,
+            on=join_columns,
+            how="outer",
+            suffixes=("", "_dup"),
+            validate="one_to_one",
+        )
         if "fund_name_dup" in merged.columns:
             merged["fund_name"] = merged["fund_name"].fillna(merged["fund_name_dup"])
             merged = merged.drop(columns=["fund_name_dup"])
     score_columns = [column for column in merged.columns if column not in {"fund_name", "coarse_fund_key"}]
-    if "coarse_fund_key" in merged.columns:
-        aggregated = (
-            merged.groupby("coarse_fund_key", as_index=False)[score_columns]
-            .mean(numeric_only=True)
-        )
-        display_names = (
-            merged.groupby("coarse_fund_key")["fund_name"]
-            .agg(lambda values: sorted([value for value in values.dropna().unique()], key=len, reverse=True)[0] if len(values.dropna()) else None)
-            .reset_index()
-        )
-        merged = display_names.merge(aggregated, on="coarse_fund_key", how="left")
     return merged
+
+
+def _deduplicate_score_frame(frame: pd.DataFrame) -> pd.DataFrame:
+    """Keep score-frame merges one-to-one even when an upstream source repeats a fund."""
+    if frame.empty:
+        return frame.copy()
+    join_column = "fund_name" if "fund_name" in frame.columns else "coarse_fund_key"
+    if join_column not in frame.columns or not frame[join_column].duplicated().any():
+        return frame.copy()
+
+    value_columns = [column for column in frame.columns if column not in {"fund_name", "coarse_fund_key"}]
+    aggregated = frame.groupby(join_column, as_index=False)[value_columns].mean(numeric_only=True)
+    if "fund_name" in frame.columns and join_column != "fund_name":
+        names = frame.groupby(join_column, as_index=False)["fund_name"].first()
+        aggregated = names.merge(aggregated, on=join_column, how="left")
+    if "coarse_fund_key" in frame.columns and join_column != "coarse_fund_key":
+        keys = frame.groupby(join_column, as_index=False)["coarse_fund_key"].first()
+        aggregated = keys.merge(aggregated, on=join_column, how="left")
+    return aggregated
 
 
 def build_final_ranker(

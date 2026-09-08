@@ -897,14 +897,14 @@ def build_comparative_snapshot(fund_master: pd.DataFrame) -> pd.DataFrame:
     rolling_scores = build_rolling_scores(snapshot)
 
     join_keys = ["fund_name", "coarse_fund_key"]
-    snapshot = snapshot.merge(diversification_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(fundamentals_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(risk_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(drawdown_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(stress_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(rms_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(returns_scores, on=join_keys, how="left")
-    snapshot = snapshot.merge(rolling_scores, on=join_keys, how="left")
+    snapshot = snapshot.merge(diversification_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(fundamentals_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(risk_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(drawdown_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(stress_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(rms_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(returns_scores, on=join_keys, how="left", validate="one_to_one")
+    snapshot = snapshot.merge(rolling_scores, on=join_keys, how="left", validate="one_to_one")
 
     snapshot["diversification_score_raw"] = snapshot["diversification_score"]
     snapshot["fundamentals_score_raw"] = snapshot["fundamentals_score"]
