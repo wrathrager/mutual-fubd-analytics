@@ -1,0 +1,202 @@
+{
+  "period": {
+    "1y": "1Y",
+    "3y": "3Y",
+    "5y": "5Y"
+  },
+  "returns": {
+    "1y": "-0.58",
+    "3y": "9.08",
+    "5y": "8.68",
+    "cat_avg_1y": "-1.77",
+    "cat_avg_3y": "9.07",
+    "cat_avg_5y": "8.41",
+    "cat_min_1y": "-19.71",
+    "cat_max_1y": "50.25",
+    "cat_min_3y": "0.16",
+    "cat_max_3y": "25.97",
+    "cat_min_5y": "4.38",
+    "cat_max_5y": "28.13",
+    "1y_color": {
+      "str": "Above Average",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "3y_color": {
+      "str": "Above Average",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "5y_color": {
+      "str": "Above Average",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "toolTipText": "It refers to the profit or loss generated on an investment over a specific period. It is the gain or loss expressed as a percentage of the initial investment."
+  },
+  "risk_std_dev": {
+    "1y": "12.52",
+    "3y": "14.61",
+    "5y": "13.80",
+    "cat_avg_1y": "16.86",
+    "cat_avg_3y": "14.69",
+    "cat_avg_5y": "13.94",
+    "cat_min_1y": "7.80",
+    "cat_max_1y": "25.09",
+    "cat_min_3y": "11.33",
+    "cat_max_3y": "20.03",
+    "cat_min_5y": "12.18",
+    "cat_max_5y": "18.76",
+    "1y_color": {
+      "str": "Low Volatility",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "3y_color": {
+      "str": "Low Volatility",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "5y_color": {
+      "str": "Low Volatility",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "toolTipText": "Risk as measured by standard deviation is a statistical measure that quantifies the amount of variation or dispersion in a set of data points relative to its mean (average)."
+  },
+  "sharpe_ratio": {
+    "1y": "0.05",
+    "3y": "0.37",
+    "5y": "0.31",
+    "cat_avg_1y": "-0.11",
+    "cat_avg_3y": "0.34",
+    "cat_avg_5y": "0.28",
+    "cat_min_1y": "-1.19",
+    "cat_max_1y": "2.43",
+    "cat_min_3y": "-0.34",
+    "cat_max_3y": "1.57",
+    "cat_min_5y": "-0.16",
+    "cat_max_5y": "1.17",
+    "1y_color": {
+      "str": "Good Risk Adjusted Returns",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "3y_color": {
+      "str": "Good Risk Adjusted Returns",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "5y_color": {
+      "str": "Good Risk Adjusted Returns",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "toolTipText": "Higher the value means that fund has been able to give better returns for the amount of risk taken. It helps investors understand the return of an investment compared to its risk, showing whether the returns are due to intelligent investing or simply taking on excess risk. <br/>It is calculated by subtracting the risk-free return, defined as an Indian Government Bond, from the fund's returns, and then dividing by the standard deviation of returns."
+  },
+  "sortino_ratio": {
+    "1y": "0.06",
+    "3y": "0.54",
+    "5y": "0.46",
+    "cat_avg_1y": "-0.11",
+    "cat_avg_3y": "0.50",
+    "cat_avg_5y": "0.42",
+    "cat_min_1y": "-1.19",
+    "cat_max_1y": "7.38",
+    "cat_min_3y": "-0.39",
+    "cat_max_3y": "3.33",
+    "cat_min_5y": "-0.19",
+    "cat_max_5y": "2.17",
+    "1y_color": {
+      "str": "Good Risk Adjusted Returns",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "3y_color": {
+      "str": "Good Risk Adjusted Returns",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "5y_color": {
+      "str": "Good Risk Adjusted Returns",
+      "color": {
+        "color1": "#9EC000",
+        "color2": "#01A120",
+        "strColor": "#53B210"
+      }
+    },
+    "toolTipText": "The Sortino Ratio is a financial metric used to measure the risk-adjusted return of an investment. It's a modification of the Sharpe Ratio but with a key difference; it only considers downside risk (the risk of negative returns), rather than total volatility. <br/>This means it focuses on how well an investment performs relative to the volatility that leads to losses, ignoring the volatility that results in gains. The idea is that investors are primarily concerned with minimizing losses, and positive volatility is generally seen as a good thing."
+  },
+  "beta": {
+    "1y": "1.05",
+    "3y": "1.01",
+    "5y": "1.00",
+    "cat_avg_1y": "1.00",
+    "cat_avg_3y": "1.00",
+    "cat_avg_5y": "0.99",
+    "cat_min_1y": "0.45",
+    "cat_max_1y": "1.24",
+    "cat_min_3y": "0.73",
+    "cat_max_3y": "1.29",
+    "cat_min_5y": "0.80",
+    "cat_max_5y": "1.24",
+    "1y_color": {
+      "str": "Poor Risk Adjusted Returns",
+      "color": {
+        "color1": "#FD8D10",
+        "color2": "#DB3635",
+        "strColor": "#E95B26"
+      }
+    },
+    "3y_color": {
+      "str": "Poor Risk Adjusted Returns",
+      "color": {
+        "color1": "#FD8D10",
+        "color2": "#DB3635",
+        "strColor": "#E95B26"
+      }
+    },
+    "5y_color": {
+      "str": "Poor Risk Adjusted Returns",
+      "color": {
+        "color1": "#FD8D10",
+        "color2": "#DB3635",
+        "strColor": "#E95B26"
+      }
+    },
+    "toolTipText": "This value gives idea about how volatile fund performance has been compared to similar funds in the market. Lower beta implies the fund gives more predictable performance compared to similar funds in the market."
+  }
+}

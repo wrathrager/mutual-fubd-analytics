@@ -1,0 +1,559 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "98.33",
+      "bond_alloc": "0.00",
+      "cash_alloc": "1.67",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 85.42,
+      "mid_cap": 9.11,
+      "small_cap": 4.25,
+      "others_cap": 1.22,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 83,
+      "avg_market_cap": "\u20b93,64,862.10 Cr",
+      "top_10_stk_wt": "47.73",
+      "top_5_stk_wt": "32.13",
+      "top_3_sector_wt": "57.24"
+    }
+  },
+  "holdings": [
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "",
+      "value": 34522996000.0,
+      "weighting": 8.91
+    },
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 33795886000.0,
+      "weighting": 8.73
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 21017375000.0,
+      "weighting": 5.43
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 20146705000.0,
+      "weighting": 5.2
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 14957265000.0,
+      "weighting": 3.86
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "",
+      "value": 13409611000.0,
+      "weighting": 3.46
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 13009864000.0,
+      "weighting": 3.36
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd",
+      "sector": "",
+      "value": 12078701000.0,
+      "weighting": 3.12
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "",
+      "value": 11749748000.0,
+      "weighting": 3.03
+    },
+    {
+      "name": "Eternal Ltd",
+      "sector": "",
+      "value": 10174729000.0,
+      "weighting": 2.63
+    },
+    {
+      "name": "Maruti Suzuki India Ltd",
+      "sector": "",
+      "value": 10089187000.0,
+      "weighting": 2.61
+    },
+    {
+      "name": "ITC Ltd",
+      "sector": "",
+      "value": 8927737000.0,
+      "weighting": 2.31
+    },
+    {
+      "name": "Tata Consultancy Services Ltd",
+      "sector": "",
+      "value": 8257583000.0,
+      "weighting": 2.13
+    },
+    {
+      "name": "Bajaj Finance Ltd",
+      "sector": "",
+      "value": 7609782000.0,
+      "weighting": 1.96
+    },
+    {
+      "name": "Shriram Finance Ltd",
+      "sector": "",
+      "value": 7083322000.0,
+      "weighting": 1.83
+    },
+    {
+      "name": "Britannia Industries Ltd",
+      "sector": "",
+      "value": 6118478000.0,
+      "weighting": 1.58
+    },
+    {
+      "name": "One97 Communications Ltd",
+      "sector": "",
+      "value": 6047538000.0,
+      "weighting": 1.56
+    },
+    {
+      "name": "Asian Paints Ltd",
+      "sector": "",
+      "value": 5945652000.0,
+      "weighting": 1.54
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd",
+      "sector": "",
+      "value": 5715398000.0,
+      "weighting": 1.48
+    },
+    {
+      "name": "Eicher Motors Ltd",
+      "sector": "",
+      "value": 5694210000.0,
+      "weighting": 1.47
+    },
+    {
+      "name": "Sun Pharmaceuticals Industries Ltd",
+      "sector": "",
+      "value": 5524830000.0,
+      "weighting": 1.43
+    },
+    {
+      "name": "Vedanta Aluminium Metal Ltd",
+      "sector": "",
+      "value": 5465164000.0,
+      "weighting": 1.41
+    },
+    {
+      "name": "Tata Steel Ltd",
+      "sector": "",
+      "value": 5257342000.0,
+      "weighting": 1.36
+    },
+    {
+      "name": "Net Receivables / (Payables)",
+      "sector": "",
+      "value": 4984977000.0,
+      "weighting": 1.29
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "sector": "",
+      "value": 4900402000.0,
+      "weighting": 1.27
+    },
+    {
+      "name": "HDFC Life Insurance Co Ltd",
+      "sector": "",
+      "value": 4850602000.0,
+      "weighting": 1.25
+    },
+    {
+      "name": "Bharat Petroleum Corp Ltd",
+      "sector": "",
+      "value": 4585453000.0,
+      "weighting": 1.18
+    },
+    {
+      "name": "Godrej Consumer Products Ltd",
+      "sector": "",
+      "value": 4383623000.0,
+      "weighting": 1.13
+    },
+    {
+      "name": "NTPC Ltd",
+      "sector": "",
+      "value": 4253011000.0,
+      "weighting": 1.1
+    },
+    {
+      "name": "JSW Energy Ltd",
+      "sector": "",
+      "value": 3680629000.0,
+      "weighting": 0.95
+    },
+    {
+      "name": "Jindal Steel Ltd",
+      "sector": "",
+      "value": 3619157000.0,
+      "weighting": 0.93
+    },
+    {
+      "name": "Trent Ltd",
+      "sector": "",
+      "value": 3603184000.0,
+      "weighting": 0.93
+    },
+    {
+      "name": "Ambuja Cements Ltd",
+      "sector": "",
+      "value": 3582728000.0,
+      "weighting": 0.93
+    },
+    {
+      "name": "SBI Life Insurance Co Ltd",
+      "sector": "",
+      "value": 3566241000.0,
+      "weighting": 0.92
+    },
+    {
+      "name": "Varun Beverages Ltd",
+      "sector": "",
+      "value": 3437289000.0,
+      "weighting": 0.89
+    },
+    {
+      "name": "Indian Hotels Co Ltd",
+      "sector": "",
+      "value": 3057697000.0,
+      "weighting": 0.79
+    },
+    {
+      "name": "Siemens Energy India Ltd",
+      "sector": "",
+      "value": 3053655000.0,
+      "weighting": 0.79
+    },
+    {
+      "name": "Titan Co Ltd",
+      "sector": "",
+      "value": 3030220000.0,
+      "weighting": 0.78
+    },
+    {
+      "name": "Sona BLW Precision Forgings Ltd",
+      "sector": "",
+      "value": 2895271000.0,
+      "weighting": 0.75
+    },
+    {
+      "name": "IndusInd Bank Ltd",
+      "sector": "",
+      "value": 2685075000.0,
+      "weighting": 0.69
+    },
+    {
+      "name": "Adani Ports & Special Economic Zone Ltd",
+      "sector": "",
+      "value": 2664784000.0,
+      "weighting": 0.69
+    },
+    {
+      "name": "Siemens Ltd",
+      "sector": "",
+      "value": 2656023000.0,
+      "weighting": 0.69
+    },
+    {
+      "name": "Pidilite Industries Ltd",
+      "sector": "",
+      "value": 2635696000.0,
+      "weighting": 0.68
+    },
+    {
+      "name": "Power Finance Corp Ltd",
+      "sector": "",
+      "value": 2546051000.0,
+      "weighting": 0.66
+    },
+    {
+      "name": "Gland Pharma Ltd",
+      "sector": "",
+      "value": 2244926000.0,
+      "weighting": 0.58
+    },
+    {
+      "name": "Kalpataru Projects International Ltd",
+      "sector": "",
+      "value": 2242491000.0,
+      "weighting": 0.58
+    },
+    {
+      "name": "Dr Reddy's Laboratories Ltd",
+      "sector": "",
+      "value": 2067839000.0,
+      "weighting": 0.53
+    },
+    {
+      "name": "PB Fintech Ltd",
+      "sector": "",
+      "value": 2009926000.0,
+      "weighting": 0.52
+    },
+    {
+      "name": "Bharat Electronics Ltd",
+      "sector": "",
+      "value": 2008105000.0,
+      "weighting": 0.52
+    },
+    {
+      "name": "FSN E-Commerce Ventures Ltd",
+      "sector": "",
+      "value": 1939600000.0,
+      "weighting": 0.5
+    },
+    {
+      "name": "Swiggy Ltd",
+      "sector": "",
+      "value": 1833013000.0,
+      "weighting": 0.47
+    },
+    {
+      "name": "Gujarat Fluorochemicals Ltd Ordinary Shares",
+      "sector": "",
+      "value": 1832851000.0,
+      "weighting": 0.47
+    },
+    {
+      "name": "InterGlobe Aviation Ltd",
+      "sector": "",
+      "value": 1818087000.0,
+      "weighting": 0.47
+    },
+    {
+      "name": "Lodha Developers Ltd",
+      "sector": "",
+      "value": 1739399000.0,
+      "weighting": 0.45
+    },
+    {
+      "name": "Avenue Supermarts Ltd",
+      "sector": "",
+      "value": 1688139000.0,
+      "weighting": 0.44
+    },
+    {
+      "name": "Crompton Greaves Consumer Electricals Ltd",
+      "sector": "",
+      "value": 1619417000.0,
+      "weighting": 0.42
+    },
+    {
+      "name": "Mphasis Ltd",
+      "sector": "",
+      "value": 1466734000.0,
+      "weighting": 0.38
+    },
+    {
+      "name": "Billionbrains Garage Ventures Ltd",
+      "sector": "",
+      "value": 1393311000.0,
+      "weighting": 0.36
+    },
+    {
+      "name": "Timken India Ltd",
+      "sector": "",
+      "value": 1304105000.0,
+      "weighting": 0.34
+    },
+    {
+      "name": "GAIL (India) Ltd",
+      "sector": "",
+      "value": 1296910000.0,
+      "weighting": 0.33
+    },
+    {
+      "name": "EPL Ltd Ordinary Shares",
+      "sector": "",
+      "value": 1229580000.0,
+      "weighting": 0.32
+    },
+    {
+      "name": "Treps",
+      "sector": "",
+      "value": 1182264000.0,
+      "weighting": 0.31
+    },
+    {
+      "name": "SKF India (Industrial) Ltd",
+      "sector": "",
+      "value": 1153079000.0,
+      "weighting": 0.3
+    },
+    {
+      "name": "Titagarh Rail Systems Ltd",
+      "sector": "",
+      "value": 1086578000.0,
+      "weighting": 0.28
+    },
+    {
+      "name": "Indian Energy Exchange Ltd",
+      "sector": "",
+      "value": 1031877000.0,
+      "weighting": 0.27
+    },
+    {
+      "name": "DLF Ltd",
+      "sector": "",
+      "value": 1031858000.0,
+      "weighting": 0.27
+    },
+    {
+      "name": "Multi Commodity Exchange of India Ltd",
+      "sector": "",
+      "value": 978561000.0,
+      "weighting": 0.25
+    },
+    {
+      "name": "Sobha Ltd",
+      "sector": "",
+      "value": 916026000.0,
+      "weighting": 0.24
+    },
+    {
+      "name": "KPIT Technologies Ltd",
+      "sector": "",
+      "value": 761587000.0,
+      "weighting": 0.2
+    },
+    {
+      "name": "Oil & Natural Gas Corp Ltd",
+      "sector": "",
+      "value": 708392000.0,
+      "weighting": 0.18
+    },
+    {
+      "name": "Mirae Asset Liquid Dir Gr",
+      "sector": "",
+      "value": 642087000.0,
+      "weighting": 0.17
+    },
+    {
+      "name": "Lodha Developers Ltd.",
+      "sector": "",
+      "value": 352402500.0,
+      "weighting": 0.09
+    },
+    {
+      "name": "Cash Offset For Derivatives",
+      "sector": "",
+      "value": -352402500.0,
+      "weighting": 0.09
+    },
+    {
+      "name": "Juniper Green Energy Ltd",
+      "sector": "",
+      "value": 298589000.0,
+      "weighting": 0.08
+    },
+    {
+      "name": "Gujarat Energy Ltd",
+      "sector": "",
+      "value": 237306000.0,
+      "weighting": 0.06
+    },
+    {
+      "name": "Chemplast Sanmar Ltd",
+      "sector": "",
+      "value": 182397000.0,
+      "weighting": 0.05
+    },
+    {
+      "name": "Gspl Transmission Ltd. A**",
+      "sector": "",
+      "value": 64425000.0,
+      "weighting": 0.02
+    },
+    {
+      "name": "Cipla Ltd",
+      "sector": "",
+      "value": 4054000.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "ABB India Ltd",
+      "sector": "",
+      "value": 3904000.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Lenskart Solutions Ltd",
+      "sector": "",
+      "value": 397000.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "L&T Finance Ltd",
+      "sector": "",
+      "value": 265000.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "UltraTech Cement Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Solar Industries India Ltd",
+      "sector": "",
+      "value": 18000.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Vedanta Power Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd",
+      "sector": "",
+      "value": 5000.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Hindustan Unilever Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Restaurant Brands Asia Ltd Ordinary Shares",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    }
+  ]
+}
