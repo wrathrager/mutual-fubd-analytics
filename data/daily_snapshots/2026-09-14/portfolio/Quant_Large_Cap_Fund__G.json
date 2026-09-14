@@ -1,0 +1,205 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "96.66",
+      "bond_alloc": "0.00",
+      "cash_alloc": "3.34",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 83.91,
+      "mid_cap": 6.04,
+      "small_cap": 8.32,
+      "others_cap": 1.73,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 34,
+      "avg_market_cap": "\u20b92,91,854.32 Cr",
+      "top_10_stk_wt": "59.47",
+      "top_5_stk_wt": "38.72",
+      "top_3_sector_wt": "46.53"
+    }
+  },
+  "holdings": [
+    {
+      "name": "Nca-Net Current Assets",
+      "sector": "",
+      "value": -9940799000.0,
+      "weighting": 27.69
+    },
+    {
+      "name": "Treps 03-Aug-2026 Depo 10",
+      "sector": "",
+      "value": 8635682000.0,
+      "weighting": 24.05
+    },
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 3196432000.0,
+      "weighting": 8.9
+    },
+    {
+      "name": "Adani Enterprises Ltd",
+      "sector": "",
+      "value": 3105043000.0,
+      "weighting": 8.65
+    },
+    {
+      "name": "Adani Green Energy Ltd",
+      "sector": "",
+      "value": 3020661000.0,
+      "weighting": 8.41
+    },
+    {
+      "name": "Future on Tata Consultancy Services Ltd",
+      "sector": "",
+      "value": 2970418000.0,
+      "weighting": 8.27
+    },
+    {
+      "name": "India (Republic of)",
+      "sector": "",
+      "value": 2503943000.0,
+      "weighting": 6.97
+    },
+    {
+      "name": "Capri Global Capital Ltd",
+      "sector": "",
+      "value": 2411090000.0,
+      "weighting": 6.71
+    },
+    {
+      "name": "LG Electronics India Ltd",
+      "sector": "",
+      "value": 2168676000.0,
+      "weighting": 6.04
+    },
+    {
+      "name": "Future on Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 2081888000.0,
+      "weighting": 5.8
+    },
+    {
+      "name": "Future on Bharti Airtel Ltd",
+      "sector": "",
+      "value": 1984702000.0,
+      "weighting": 5.53
+    },
+    {
+      "name": "Tech Mahindra Ltd",
+      "sector": "",
+      "value": 1979996000.0,
+      "weighting": 5.51
+    },
+    {
+      "name": "Future on DLF Ltd",
+      "sector": "",
+      "value": 1741274000.0,
+      "weighting": 4.85
+    },
+    {
+      "name": "Adani Energy Solutions Ltd",
+      "sector": "",
+      "value": 1668508000.0,
+      "weighting": 4.65
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 1322058000.0,
+      "weighting": 3.68
+    },
+    {
+      "name": "Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 1282523000.0,
+      "weighting": 3.57
+    },
+    {
+      "name": "ICICI Prudential Asset Management Co Ltd",
+      "sector": "",
+      "value": 1199294000.0,
+      "weighting": 3.34
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd",
+      "sector": "",
+      "value": 1146448000.0,
+      "weighting": 3.19
+    },
+    {
+      "name": "Future on HCL Technologies Ltd",
+      "sector": "",
+      "value": 1081234000.0,
+      "weighting": 3.01
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 1062231000.0,
+      "weighting": 2.96
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 773017000.0,
+      "weighting": 2.15
+    },
+    {
+      "name": "Future on Wipro Ltd",
+      "sector": "",
+      "value": 511787000.0,
+      "weighting": 1.43
+    },
+    {
+      "name": "Varun Beverages Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Max Healthcare Institute Ltd Ordinary Shares",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Oil & Natural Gas Corp Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Day Tbill",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Hyundai Motor India Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    }
+  ]
+}
