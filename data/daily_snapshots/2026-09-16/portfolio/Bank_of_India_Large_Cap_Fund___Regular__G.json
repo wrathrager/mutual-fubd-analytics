@@ -1,0 +1,385 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "97.83",
+      "bond_alloc": "0.02",
+      "cash_alloc": "2.15",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 80.22,
+      "mid_cap": 4.2,
+      "small_cap": 9.86,
+      "others_cap": 5.72,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 56,
+      "avg_market_cap": "\u20b92,18,516.11 Cr",
+      "top_10_stk_wt": "40.84",
+      "top_5_stk_wt": "25.56",
+      "top_3_sector_wt": "64.91"
+    }
+  },
+  "holdings": [
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "",
+      "value": 162708000.0,
+      "weighting": 7.04
+    },
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 143946000.0,
+      "weighting": 6.23
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "",
+      "value": 114890000.0,
+      "weighting": 4.97
+    },
+    {
+      "name": "Adani Ports & Special Economic Zone Ltd",
+      "sector": "",
+      "value": 91125000.0,
+      "weighting": 3.94
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 77897000.0,
+      "weighting": 3.37
+    },
+    {
+      "name": "ICICI Prudential Asset Management Co Ltd",
+      "sector": "",
+      "value": 77700000.0,
+      "weighting": 3.36
+    },
+    {
+      "name": "Tech Mahindra Ltd",
+      "sector": "",
+      "value": 73423000.0,
+      "weighting": 3.18
+    },
+    {
+      "name": "Shriram Finance Ltd",
+      "sector": "",
+      "value": 72144000.0,
+      "weighting": 3.12
+    },
+    {
+      "name": "Quality Power Electrical Equipments Ltd",
+      "sector": "",
+      "value": 71072000.0,
+      "weighting": 3.08
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 58651000.0,
+      "weighting": 2.54
+    },
+    {
+      "name": "Vedanta Aluminium Metal Ltd",
+      "sector": "",
+      "value": 58310000.0,
+      "weighting": 2.52
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd",
+      "sector": "",
+      "value": 53497000.0,
+      "weighting": 2.32
+    },
+    {
+      "name": "Bank of Baroda",
+      "sector": "",
+      "value": 53327000.0,
+      "weighting": 2.31
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd",
+      "sector": "",
+      "value": 50351000.0,
+      "weighting": 2.18
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "",
+      "value": 47840000.0,
+      "weighting": 2.07
+    },
+    {
+      "name": "Coforge Ltd",
+      "sector": "",
+      "value": 45662000.0,
+      "weighting": 1.98
+    },
+    {
+      "name": "Titan Co Ltd",
+      "sector": "",
+      "value": 43881000.0,
+      "weighting": 1.9
+    },
+    {
+      "name": "Treps",
+      "sector": "",
+      "value": 43400000.0,
+      "weighting": 1.88
+    },
+    {
+      "name": "Bharat Electronics Ltd",
+      "sector": "",
+      "value": 41445000.0,
+      "weighting": 1.79
+    },
+    {
+      "name": "Tata Motors Ltd",
+      "sector": "",
+      "value": 41268000.0,
+      "weighting": 1.79
+    },
+    {
+      "name": "UltraTech Cement Ltd",
+      "sector": "",
+      "value": 40075000.0,
+      "weighting": 1.73
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 39862000.0,
+      "weighting": 1.73
+    },
+    {
+      "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+      "sector": "",
+      "value": 39853000.0,
+      "weighting": 1.72
+    },
+    {
+      "name": "Solar Industries India Ltd",
+      "sector": "",
+      "value": 37602000.0,
+      "weighting": 1.63
+    },
+    {
+      "name": "Bajaj Auto Ltd",
+      "sector": "",
+      "value": 37130000.0,
+      "weighting": 1.61
+    },
+    {
+      "name": "Asian Paints Ltd",
+      "sector": "",
+      "value": 36885000.0,
+      "weighting": 1.6
+    },
+    {
+      "name": "Tata Steel Ltd",
+      "sector": "",
+      "value": 35027000.0,
+      "weighting": 1.52
+    },
+    {
+      "name": "JSW Steel Ltd",
+      "sector": "",
+      "value": 34916000.0,
+      "weighting": 1.51
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "sector": "",
+      "value": 33814000.0,
+      "weighting": 1.46
+    },
+    {
+      "name": "CreditAccess Grameen Ltd Ordinary Shares",
+      "sector": "",
+      "value": 33651000.0,
+      "weighting": 1.46
+    },
+    {
+      "name": "HDFC Asset Management Co Ltd",
+      "sector": "",
+      "value": 33301000.0,
+      "weighting": 1.44
+    },
+    {
+      "name": "Britannia Industries Ltd",
+      "sector": "",
+      "value": 32288000.0,
+      "weighting": 1.4
+    },
+    {
+      "name": "Power Grid Corp Of India Ltd",
+      "sector": "",
+      "value": 30018000.0,
+      "weighting": 1.3
+    },
+    {
+      "name": "Hindustan Unilever Ltd",
+      "sector": "",
+      "value": 28724000.0,
+      "weighting": 1.24
+    },
+    {
+      "name": "Balrampur Chini Mills Ltd",
+      "sector": "",
+      "value": 27740000.0,
+      "weighting": 1.2
+    },
+    {
+      "name": "Mankind Pharma Ltd",
+      "sector": "",
+      "value": 26611000.0,
+      "weighting": 1.15
+    },
+    {
+      "name": "Lalithaa Jewellery Mart Ltd",
+      "sector": "",
+      "value": 25649000.0,
+      "weighting": 1.11
+    },
+    {
+      "name": "TD Power Systems Ltd",
+      "sector": "",
+      "value": 25641000.0,
+      "weighting": 1.11
+    },
+    {
+      "name": "ITC Ltd",
+      "sector": "",
+      "value": 25550000.0,
+      "weighting": 1.11
+    },
+    {
+      "name": "Adani Power Ltd",
+      "sector": "",
+      "value": 25344000.0,
+      "weighting": 1.1
+    },
+    {
+      "name": "Mazagon Dock Shipbuilders Ltd",
+      "sector": "",
+      "value": 24800000.0,
+      "weighting": 1.07
+    },
+    {
+      "name": "Canara Bank",
+      "sector": "",
+      "value": 22208000.0,
+      "weighting": 0.96
+    },
+    {
+      "name": "Stylam Industries Ltd",
+      "sector": "",
+      "value": 22131000.0,
+      "weighting": 0.96
+    },
+    {
+      "name": "OnEMI Technology Solutions Ltd",
+      "sector": "",
+      "value": 21553000.0,
+      "weighting": 0.93
+    },
+    {
+      "name": "SBI Life Insurance Co Ltd",
+      "sector": "",
+      "value": 21161000.0,
+      "weighting": 0.92
+    },
+    {
+      "name": "Sky Gold and Diamonds Ltd",
+      "sector": "",
+      "value": 20621000.0,
+      "weighting": 0.89
+    },
+    {
+      "name": "TVS Srichakra Ltd",
+      "sector": "",
+      "value": 16581000.0,
+      "weighting": 0.72
+    },
+    {
+      "name": "BSE Ltd",
+      "sector": "",
+      "value": 16410000.0,
+      "weighting": 0.71
+    },
+    {
+      "name": "Cemindia Projects Ltd",
+      "sector": "",
+      "value": 15320000.0,
+      "weighting": 0.66
+    },
+    {
+      "name": "Vedanta Ltd",
+      "sector": "",
+      "value": 15092000.0,
+      "weighting": 0.65
+    },
+    {
+      "name": "Entero Healthcare Solutions Ltd",
+      "sector": "",
+      "value": 14805000.0,
+      "weighting": 0.64
+    },
+    {
+      "name": "Triveni Engineering & Industries Ltd",
+      "sector": "",
+      "value": 14523000.0,
+      "weighting": 0.63
+    },
+    {
+      "name": "Net Receivables / (Payables)",
+      "sector": "",
+      "value": 6283000.0,
+      "weighting": 0.27
+    },
+    {
+      "name": "Pidilite Industries Ltd",
+      "sector": "",
+      "value": 5907000.0,
+      "weighting": 0.26
+    },
+    {
+      "name": "Vedanta Iron and Steel Ltd",
+      "sector": "",
+      "value": 516000.0,
+      "weighting": 0.02
+    },
+    {
+      "name": "Tbill",
+      "sector": "",
+      "value": 490000.0,
+      "weighting": 0.02
+    },
+    {
+      "name": "NTPC Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Power Finance Corp Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    }
+  ]
+}
