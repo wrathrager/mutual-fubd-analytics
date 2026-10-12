@@ -1,0 +1,331 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "96.49",
+      "bond_alloc": "0.00",
+      "cash_alloc": "3.51",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 86.16,
+      "mid_cap": 4.13,
+      "small_cap": 0,
+      "others_cap": 9.71,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 45,
+      "avg_market_cap": "\u20b92,16,250.64 Cr",
+      "top_10_stk_wt": "41.98",
+      "top_5_stk_wt": "22.87",
+      "top_3_sector_wt": "48.37"
+    }
+  },
+  "holdings": [
+    {
+      "name": "Clearing Corporation Of India Ltd",
+      "sector": "",
+      "value": 147000000.0,
+      "weighting": 15.73
+    },
+    {
+      "name": "Net Receivables / (Payables)",
+      "sector": "",
+      "value": -114211000.0,
+      "weighting": 12.23
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd",
+      "sector": "",
+      "value": 46341000.0,
+      "weighting": 4.96
+    },
+    {
+      "name": "ABB India Ltd",
+      "sector": "",
+      "value": 45128000.0,
+      "weighting": 4.83
+    },
+    {
+      "name": "Adani Power Ltd",
+      "sector": "",
+      "value": 41380000.0,
+      "weighting": 4.43
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd",
+      "sector": "",
+      "value": 40477000.0,
+      "weighting": 4.33
+    },
+    {
+      "name": "Solar Industries India Ltd",
+      "sector": "",
+      "value": 40357000.0,
+      "weighting": 4.32
+    },
+    {
+      "name": "Bajaj Auto Ltd",
+      "sector": "",
+      "value": 39083000.0,
+      "weighting": 4.18
+    },
+    {
+      "name": "Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 38161000.0,
+      "weighting": 4.08
+    },
+    {
+      "name": "Adani Energy Solutions Ltd",
+      "sector": "",
+      "value": 38139000.0,
+      "weighting": 4.08
+    },
+    {
+      "name": "Eicher Motors Ltd",
+      "sector": "",
+      "value": 31941000.0,
+      "weighting": 3.42
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "sector": "",
+      "value": 31163000.0,
+      "weighting": 3.34
+    },
+    {
+      "name": "Titan Co Ltd",
+      "sector": "",
+      "value": 31043000.0,
+      "weighting": 3.32
+    },
+    {
+      "name": "Zydus Lifesciences Ltd",
+      "sector": "",
+      "value": 30133000.0,
+      "weighting": 3.23
+    },
+    {
+      "name": "TVS Motor Co Ltd",
+      "sector": "",
+      "value": 28930000.0,
+      "weighting": 3.1
+    },
+    {
+      "name": "Hindalco Industries Ltd",
+      "sector": "",
+      "value": 28064000.0,
+      "weighting": 3.0
+    },
+    {
+      "name": "CG Power & Industrial Solutions Ltd",
+      "sector": "",
+      "value": 27873000.0,
+      "weighting": 2.98
+    },
+    {
+      "name": "Adani Green Energy Ltd",
+      "sector": "",
+      "value": 26113000.0,
+      "weighting": 2.8
+    },
+    {
+      "name": "Adani Ports & Special Economic Zone Ltd",
+      "sector": "",
+      "value": 25972000.0,
+      "weighting": 2.78
+    },
+    {
+      "name": "Nestle India Ltd",
+      "sector": "",
+      "value": 24821000.0,
+      "weighting": 2.66
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "",
+      "value": 23615000.0,
+      "weighting": 2.53
+    },
+    {
+      "name": "Cenergy Holdings SA Future Sept 26",
+      "sector": "",
+      "value": 22225000.0,
+      "weighting": 2.38
+    },
+    {
+      "name": "Cummins India Ltd",
+      "sector": "",
+      "value": 22028000.0,
+      "weighting": 2.36
+    },
+    {
+      "name": "Future on Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 20354000.0,
+      "weighting": 2.18
+    },
+    {
+      "name": "Vedanta Ltd",
+      "sector": "",
+      "value": 20055000.0,
+      "weighting": 2.15
+    },
+    {
+      "name": "Grasim Industries Ltd",
+      "sector": "",
+      "value": 19383000.0,
+      "weighting": 2.07
+    },
+    {
+      "name": "JSW Steel Ltd",
+      "sector": "",
+      "value": 18768000.0,
+      "weighting": 2.01
+    },
+    {
+      "name": "Future on Cummins India Ltd",
+      "sector": "",
+      "value": 15494000.0,
+      "weighting": 1.66
+    },
+    {
+      "name": "Nestle Future Sept 26",
+      "sector": "",
+      "value": 15315000.0,
+      "weighting": 1.64
+    },
+    {
+      "name": "Future on Titan Co Ltd",
+      "sector": "",
+      "value": 12642000.0,
+      "weighting": 1.35
+    },
+    {
+      "name": "Future on Apollo Hospitals Enterprise Ltd",
+      "sector": "",
+      "value": 12250000.0,
+      "weighting": 1.31
+    },
+    {
+      "name": "Future on Vedanta Ltd",
+      "sector": "",
+      "value": 11621000.0,
+      "weighting": 1.24
+    },
+    {
+      "name": "Future on Grasim Industries Ltd",
+      "sector": "",
+      "value": 10008000.0,
+      "weighting": 1.07
+    },
+    {
+      "name": "Future on CG Power & Industrial Solutions Ltd",
+      "sector": "",
+      "value": 9848000.0,
+      "weighting": 1.05
+    },
+    {
+      "name": "Future on Zydus Lifesciences Ltd",
+      "sector": "",
+      "value": 8441000.0,
+      "weighting": 0.9
+    },
+    {
+      "name": "Tata Motors Passenger Vehicles Ltd",
+      "sector": "",
+      "value": 7959000.0,
+      "weighting": 0.85
+    },
+    {
+      "name": "Future on TVS Motor Co Ltd",
+      "sector": "",
+      "value": 7602000.0,
+      "weighting": 0.81
+    },
+    {
+      "name": "Future on JSW Steel Ltd",
+      "sector": "",
+      "value": 6265000.0,
+      "weighting": 0.67
+    },
+    {
+      "name": "Future on Solar Industries India Ltd",
+      "sector": "",
+      "value": 6094000.0,
+      "weighting": 0.65
+    },
+    {
+      "name": "Future on Bajaj Auto Ltd",
+      "sector": "",
+      "value": 3627000.0,
+      "weighting": 0.39
+    },
+    {
+      "name": "Future on Tata Motors",
+      "sector": "",
+      "value": 3573000.0,
+      "weighting": 0.38
+    },
+    {
+      "name": "Future on Torrent Pharmaceuticals Ltd",
+      "sector": "",
+      "value": 3091000.0,
+      "weighting": 0.33
+    },
+    {
+      "name": "Future on Hindalco Industries Ltd",
+      "sector": "",
+      "value": 2873000.0,
+      "weighting": 0.31
+    },
+    {
+      "name": "Future on Eicher Motors Ltd",
+      "sector": "",
+      "value": 2410000.0,
+      "weighting": 0.26
+    },
+    {
+      "name": "Future on Adani Ports & Special Economic Zone Ltd",
+      "sector": "",
+      "value": 785000.0,
+      "weighting": 0.08
+    },
+    {
+      "name": "Coal India Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Power Finance Corp Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Pidilite Industries Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "NTPC Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    }
+  ]
+}
