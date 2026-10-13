@@ -1,0 +1,313 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "97.98",
+      "bond_alloc": "0.00",
+      "cash_alloc": "2.02",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 88.48,
+      "mid_cap": 9.51,
+      "small_cap": 2.04,
+      "others_cap": null,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 38,
+      "avg_market_cap": "\u20b93,56,908.73 Cr",
+      "top_10_stk_wt": "52.62",
+      "top_5_stk_wt": "31.10",
+      "top_3_sector_wt": "66.93"
+    }
+  },
+  "holdings": [
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 7324317078.0,
+      "weighting": 9.78
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd",
+      "sector": "",
+      "value": 4452233202.0,
+      "weighting": 5.94
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd",
+      "sector": "",
+      "value": 3911848231.0,
+      "weighting": 5.22
+    },
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "",
+      "value": 3851406403.0,
+      "weighting": 5.14
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 3756142679.0,
+      "weighting": 5.01
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "",
+      "value": 3599646580.0,
+      "weighting": 4.81
+    },
+    {
+      "name": "Bajaj Finserv Ltd",
+      "sector": "",
+      "value": 3346555711.0,
+      "weighting": 4.47
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 3174036818.0,
+      "weighting": 4.24
+    },
+    {
+      "name": "Eternal Ltd",
+      "sector": "",
+      "value": 3012026901.0,
+      "weighting": 4.02
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd",
+      "sector": "",
+      "value": 2990069718.0,
+      "weighting": 3.99
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 2914016948.0,
+      "weighting": 3.89
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 2790356802.0,
+      "weighting": 3.73
+    },
+    {
+      "name": "SBI Life Insurance Co Ltd",
+      "sector": "",
+      "value": 2736264417.0,
+      "weighting": 3.65
+    },
+    {
+      "name": "InterGlobe Aviation Ltd",
+      "sector": "",
+      "value": 2308905824.0,
+      "weighting": 3.08
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "sector": "",
+      "value": 2303341131.0,
+      "weighting": 3.08
+    },
+    {
+      "name": "Hindalco Industries Ltd",
+      "sector": "",
+      "value": 2158074958.0,
+      "weighting": 2.88
+    },
+    {
+      "name": "Tata Motors Ltd",
+      "sector": "",
+      "value": 1592872956.0,
+      "weighting": 2.13
+    },
+    {
+      "name": "Tata Consumer Products Ltd",
+      "sector": "",
+      "value": 1454792875.0,
+      "weighting": 1.94
+    },
+    {
+      "name": "Call, Cash & Other Assets",
+      "sector": "",
+      "value": 1410817690.0,
+      "weighting": 1.88
+    },
+    {
+      "name": "PB Fintech Ltd",
+      "sector": "",
+      "value": 1373000625.0,
+      "weighting": 1.83
+    },
+    {
+      "name": "Life Insurance Corporation of India",
+      "sector": "",
+      "value": 1331475464.0,
+      "weighting": 1.78
+    },
+    {
+      "name": "Vishal Mega Mart Ltd",
+      "sector": "",
+      "value": 1286052364.0,
+      "weighting": 1.72
+    },
+    {
+      "name": "UltraTech Cement Ltd",
+      "sector": "",
+      "value": 1242336450.0,
+      "weighting": 1.66
+    },
+    {
+      "name": "Polycab India Ltd",
+      "sector": "",
+      "value": 1176091400.0,
+      "weighting": 1.57
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "",
+      "value": 1162441800.0,
+      "weighting": 1.55
+    },
+    {
+      "name": "Billionbrains Garage Ventures Ltd",
+      "sector": "",
+      "value": 1032765967.0,
+      "weighting": 1.38
+    },
+    {
+      "name": "Marico Ltd",
+      "sector": "",
+      "value": 899778620.0,
+      "weighting": 1.2
+    },
+    {
+      "name": "ABB India Ltd",
+      "sector": "",
+      "value": 833062448.0,
+      "weighting": 1.11
+    },
+    {
+      "name": "United Spirits Ltd",
+      "sector": "",
+      "value": 811725180.0,
+      "weighting": 1.08
+    },
+    {
+      "name": "Tata Power Co Ltd",
+      "sector": "",
+      "value": 786566067.0,
+      "weighting": 1.05
+    },
+    {
+      "name": "JSW Infrastructure Ltd",
+      "sector": "",
+      "value": 775563120.0,
+      "weighting": 1.04
+    },
+    {
+      "name": "Oberoi Realty Ltd",
+      "sector": "",
+      "value": 716613368.0,
+      "weighting": 0.96
+    },
+    {
+      "name": "Trent Ltd",
+      "sector": "",
+      "value": 711672248.0,
+      "weighting": 0.95
+    },
+    {
+      "name": "Coforge Ltd",
+      "sector": "",
+      "value": 701458108.0,
+      "weighting": 0.94
+    },
+    {
+      "name": "Swiggy Ltd",
+      "sector": "",
+      "value": 555798268.0,
+      "weighting": 0.74
+    },
+    {
+      "name": "HCL Technologies Ltd",
+      "sector": "",
+      "value": 186762802.0,
+      "weighting": 0.25
+    },
+    {
+      "name": "DLF Ltd",
+      "sector": "",
+      "value": 134754750.0,
+      "weighting": 0.18
+    },
+    {
+      "name": "India (Republic of)",
+      "sector": "",
+      "value": 98874300.0,
+      "weighting": 0.13
+    },
+    {
+      "name": "Cholamandalam Investment and Finance Co Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Max Healthcare Institute Ltd Ordinary Shares",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Hindustan Unilever Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "HDFC Life Insurance Co Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Endurance Technologies Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Cognizant Technology Solutions Corp Class A",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "LG Electronics India Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    }
+  ]
+}
