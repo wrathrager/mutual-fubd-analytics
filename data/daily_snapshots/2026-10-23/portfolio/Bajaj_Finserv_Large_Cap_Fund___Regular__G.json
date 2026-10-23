@@ -1,0 +1,247 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "97.52",
+      "bond_alloc": "0.00",
+      "cash_alloc": "2.48",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 89.82,
+      "mid_cap": 7.47,
+      "small_cap": 0,
+      "others_cap": 2.71,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 35,
+      "avg_market_cap": "\u20b93,46,595.58 Cr",
+      "top_10_stk_wt": "51.30",
+      "top_5_stk_wt": "32.77",
+      "top_3_sector_wt": "60.90"
+    }
+  },
+  "holdings": [
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "",
+      "value": 1422093010.0,
+      "weighting": 9.11
+    },
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 1315793320.0,
+      "weighting": 8.43
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 883365400.0,
+      "weighting": 5.66
+    },
+    {
+      "name": "Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 846883060.0,
+      "weighting": 5.43
+    },
+    {
+      "name": "Grasim Industries Ltd",
+      "sector": "",
+      "value": 644689170.0,
+      "weighting": 4.13
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 621482530.0,
+      "weighting": 3.98
+    },
+    {
+      "name": "LG Electronics India Ltd",
+      "sector": "",
+      "value": 589397360.0,
+      "weighting": 3.78
+    },
+    {
+      "name": "DLF Ltd",
+      "sector": "",
+      "value": 574859320.0,
+      "weighting": 3.68
+    },
+    {
+      "name": "Tata Steel Ltd",
+      "sector": "",
+      "value": 565859050.0,
+      "weighting": 3.63
+    },
+    {
+      "name": "SBI Life Insurance Co Ltd",
+      "sector": "",
+      "value": 539243150.0,
+      "weighting": 3.46
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "",
+      "value": 536188750.0,
+      "weighting": 3.44
+    },
+    {
+      "name": "Vedanta Aluminium Metal Ltd",
+      "sector": "",
+      "value": 519976530.0,
+      "weighting": 3.33
+    },
+    {
+      "name": "Bajaj Finance Ltd",
+      "sector": "",
+      "value": 470479210.0,
+      "weighting": 3.02
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 448327360.0,
+      "weighting": 2.87
+    },
+    {
+      "name": "Apollo Hospitals Enterprise Ltd",
+      "sector": "",
+      "value": 437989250.0,
+      "weighting": 2.81
+    },
+    {
+      "name": "Canara Bank",
+      "sector": "",
+      "value": 384916060.0,
+      "weighting": 2.47
+    },
+    {
+      "name": "Bajaj Auto Ltd",
+      "sector": "",
+      "value": 381046710.0,
+      "weighting": 2.44
+    },
+    {
+      "name": "Asian Paints Ltd",
+      "sector": "",
+      "value": 380314760.0,
+      "weighting": 2.44
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd",
+      "sector": "",
+      "value": 372758010.0,
+      "weighting": 2.39
+    },
+    {
+      "name": "Jio Financial Services Ltd",
+      "sector": "",
+      "value": 358520210.0,
+      "weighting": 2.3
+    },
+    {
+      "name": "Tech Mahindra Ltd",
+      "sector": "",
+      "value": 342753700.0,
+      "weighting": 2.2
+    },
+    {
+      "name": "Titan Co Ltd",
+      "sector": "",
+      "value": 330264000.0,
+      "weighting": 2.12
+    },
+    {
+      "name": "Trent Ltd",
+      "sector": "",
+      "value": 325683990.0,
+      "weighting": 2.09
+    },
+    {
+      "name": "TVS Motor Co Ltd",
+      "sector": "",
+      "value": 319225080.0,
+      "weighting": 2.05
+    },
+    {
+      "name": "Eternal Ltd",
+      "sector": "",
+      "value": 311903040.0,
+      "weighting": 2.0
+    },
+    {
+      "name": "United Spirits Ltd",
+      "sector": "",
+      "value": 307517770.0,
+      "weighting": 1.97
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 301219260.0,
+      "weighting": 1.93
+    },
+    {
+      "name": "Indian Hotels Co Ltd",
+      "sector": "",
+      "value": 268594960.0,
+      "weighting": 1.72
+    },
+    {
+      "name": "Net Receivables / (Payables)",
+      "sector": "",
+      "value": 244649240.0,
+      "weighting": 1.57
+    },
+    {
+      "name": "Sun Pharmaceuticals Industries Ltd",
+      "sector": "",
+      "value": 151241030.0,
+      "weighting": 0.97
+    },
+    {
+      "name": "Clearing Corporation Of India Ltd",
+      "sector": "",
+      "value": 142629380.0,
+      "weighting": 0.91
+    },
+    {
+      "name": "Nestle India Ltd",
+      "sector": "",
+      "value": 125148230.0,
+      "weighting": 0.8
+    },
+    {
+      "name": "Shriram Finance Ltd",
+      "sector": "",
+      "value": 54048500.0,
+      "weighting": 0.35
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd",
+      "sector": "",
+      "value": 48000000.0,
+      "weighting": 0.31
+    },
+    {
+      "name": "Nifty 23000 Put October 2026 Option",
+      "sector": "",
+      "value": 35934600.0,
+      "weighting": 0.23
+    }
+  ]
+}
