@@ -1,0 +1,295 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "97.99",
+      "bond_alloc": "0.00",
+      "cash_alloc": "2.01",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 90.28,
+      "mid_cap": 7.71,
+      "small_cap": 5.95,
+      "others_cap": null,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 43,
+      "avg_market_cap": "\u20b93,75,329.97 Cr",
+      "top_10_stk_wt": "56.41",
+      "top_5_stk_wt": "36.59",
+      "top_3_sector_wt": "57.97"
+    }
+  },
+  "holdings": [
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "",
+      "value": 6697970000.0,
+      "weighting": 10.08
+    },
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 6455262000.0,
+      "weighting": 9.72
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 4012102000.0,
+      "weighting": 6.04
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "",
+      "value": 3922375000.0,
+      "weighting": 5.91
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd",
+      "sector": "",
+      "value": 3214234000.0,
+      "weighting": 4.84
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 3145714000.0,
+      "weighting": 4.74
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 2693876000.0,
+      "weighting": 4.06
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 2648136000.0,
+      "weighting": 3.99
+    },
+    {
+      "name": "ITC Ltd",
+      "sector": "",
+      "value": 2638445000.0,
+      "weighting": 3.97
+    },
+    {
+      "name": "NTPC Ltd",
+      "sector": "",
+      "value": 2043326000.0,
+      "weighting": 3.08
+    },
+    {
+      "name": "SBI Life Insurance Co Ltd",
+      "sector": "",
+      "value": 1846832000.0,
+      "weighting": 2.78
+    },
+    {
+      "name": "Cipla Ltd",
+      "sector": "",
+      "value": 1834415000.0,
+      "weighting": 2.76
+    },
+    {
+      "name": "HDFC Life Insurance Co Ltd",
+      "sector": "",
+      "value": 1821999000.0,
+      "weighting": 2.74
+    },
+    {
+      "name": "UltraTech Cement Ltd",
+      "sector": "",
+      "value": 1812100000.0,
+      "weighting": 2.73
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd",
+      "sector": "",
+      "value": 1663519000.0,
+      "weighting": 2.5
+    },
+    {
+      "name": "Maruti Suzuki India Ltd",
+      "sector": "",
+      "value": 1583222000.0,
+      "weighting": 2.38
+    },
+    {
+      "name": "Asian Paints Ltd",
+      "sector": "",
+      "value": 1539415000.0,
+      "weighting": 2.32
+    },
+    {
+      "name": "DLF Ltd",
+      "sector": "",
+      "value": 1456736000.0,
+      "weighting": 2.19
+    },
+    {
+      "name": "Hero MotoCorp Ltd",
+      "sector": "",
+      "value": 1411391000.0,
+      "weighting": 2.12
+    },
+    {
+      "name": "Hyundai Motor India Ltd",
+      "sector": "",
+      "value": 1186325000.0,
+      "weighting": 1.79
+    },
+    {
+      "name": "Treps / Reverse Repo Investments",
+      "sector": "",
+      "value": 1135956000.0,
+      "weighting": 1.71
+    },
+    {
+      "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+      "sector": "",
+      "value": 1084787000.0,
+      "weighting": 1.63
+    },
+    {
+      "name": "Oil & Natural Gas Corp Ltd",
+      "sector": "",
+      "value": 932107000.0,
+      "weighting": 1.4
+    },
+    {
+      "name": "Petronet LNG Ltd",
+      "sector": "",
+      "value": 920951000.0,
+      "weighting": 1.39
+    },
+    {
+      "name": "GAIL (India) Ltd",
+      "sector": "",
+      "value": 860366000.0,
+      "weighting": 1.3
+    },
+    {
+      "name": "Power Grid Corp Of India Ltd",
+      "sector": "",
+      "value": 781500000.0,
+      "weighting": 1.18
+    },
+    {
+      "name": "Bharat Petroleum Corp Ltd",
+      "sector": "",
+      "value": 710945000.0,
+      "weighting": 1.07
+    },
+    {
+      "name": "Life Insurance Corporation of India",
+      "sector": "",
+      "value": 700004000.0,
+      "weighting": 1.05
+    },
+    {
+      "name": "Info Edge (India) Ltd",
+      "sector": "",
+      "value": 615074000.0,
+      "weighting": 0.93
+    },
+    {
+      "name": "InterGlobe Aviation Ltd",
+      "sector": "",
+      "value": 602097000.0,
+      "weighting": 0.91
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "",
+      "value": 527467000.0,
+      "weighting": 0.79
+    },
+    {
+      "name": "Page Industries Ltd",
+      "sector": "",
+      "value": 506625000.0,
+      "weighting": 0.76
+    },
+    {
+      "name": "United Spirits Ltd",
+      "sector": "",
+      "value": 500061000.0,
+      "weighting": 0.75
+    },
+    {
+      "name": "Shree Cement Ltd",
+      "sector": "",
+      "value": 483993000.0,
+      "weighting": 0.73
+    },
+    {
+      "name": "Tata Motors Ltd",
+      "sector": "",
+      "value": 405506000.0,
+      "weighting": 0.61
+    },
+    {
+      "name": "Trent Ltd",
+      "sector": "",
+      "value": 351567000.0,
+      "weighting": 0.53
+    },
+    {
+      "name": "ICICI Life Insurance Ltd",
+      "sector": "",
+      "value": 323906000.0,
+      "weighting": 0.49
+    },
+    {
+      "name": "Indus Towers Ltd Ordinary Shares",
+      "sector": "",
+      "value": 320524000.0,
+      "weighting": 0.48
+    },
+    {
+      "name": "Indian Oil Corp Ltd",
+      "sector": "",
+      "value": 251524000.0,
+      "weighting": 0.38
+    },
+    {
+      "name": "Bank of Baroda",
+      "sector": "",
+      "value": 222919000.0,
+      "weighting": 0.34
+    },
+    {
+      "name": "Procter & Gamble Hygiene and Health Care Ltd",
+      "sector": "",
+      "value": 203955000.0,
+      "weighting": 0.31
+    },
+    {
+      "name": "Net Receivables/Payables",
+      "sector": "",
+      "value": 196886000.0,
+      "weighting": 0.3
+    },
+    {
+      "name": "Hindustan Petroleum Corp Ltd",
+      "sector": "",
+      "value": 157658000.0,
+      "weighting": 0.24
+    }
+  ]
+}

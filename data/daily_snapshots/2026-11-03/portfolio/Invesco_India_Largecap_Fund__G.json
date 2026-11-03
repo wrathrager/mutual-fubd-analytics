@@ -1,0 +1,379 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "99.11",
+      "bond_alloc": "0.00",
+      "cash_alloc": "0.89",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 80.41,
+      "mid_cap": 9.44,
+      "small_cap": 7.73,
+      "others_cap": 2.42,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 57,
+      "avg_market_cap": "\u20b92,15,725.71 Cr",
+      "top_10_stk_wt": "40.08",
+      "top_5_stk_wt": "23.91",
+      "top_3_sector_wt": "68.48"
+    }
+  },
+  "holdings": [
+    {
+      "name": "ICICI Bank Ltd",
+      "sector": "",
+      "value": 1600370000.0,
+      "weighting": 8.31
+    },
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "",
+      "value": 799652000.0,
+      "weighting": 4.15
+    },
+    {
+      "name": "ICICI Prudential Asset Management Co Ltd",
+      "sector": "",
+      "value": 764734000.0,
+      "weighting": 3.97
+    },
+    {
+      "name": "Eternal Ltd",
+      "sector": "",
+      "value": 736859000.0,
+      "weighting": 3.83
+    },
+    {
+      "name": "InterGlobe Aviation Ltd",
+      "sector": "",
+      "value": 700496000.0,
+      "weighting": 3.64
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 686906000.0,
+      "weighting": 3.57
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "",
+      "value": 680297000.0,
+      "weighting": 3.53
+    },
+    {
+      "name": "Bajaj Finance Ltd",
+      "sector": "",
+      "value": 618516000.0,
+      "weighting": 3.21
+    },
+    {
+      "name": "Tech Mahindra Ltd",
+      "sector": "",
+      "value": 564762000.0,
+      "weighting": 2.93
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 562950000.0,
+      "weighting": 2.92
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "",
+      "value": 530192000.0,
+      "weighting": 2.75
+    },
+    {
+      "name": "Indian Bank",
+      "sector": "",
+      "value": 508505000.0,
+      "weighting": 2.64
+    },
+    {
+      "name": "Torrent Pharmaceuticals Ltd",
+      "sector": "",
+      "value": 480782000.0,
+      "weighting": 2.5
+    },
+    {
+      "name": "Coforge Ltd",
+      "sector": "",
+      "value": 474959000.0,
+      "weighting": 2.47
+    },
+    {
+      "name": "Titan Co Ltd",
+      "sector": "",
+      "value": 460686000.0,
+      "weighting": 2.39
+    },
+    {
+      "name": "Mahindra & Mahindra Ltd",
+      "sector": "",
+      "value": 435246000.0,
+      "weighting": 2.26
+    },
+    {
+      "name": "Eicher Motors Ltd",
+      "sector": "",
+      "value": 429000000.0,
+      "weighting": 2.23
+    },
+    {
+      "name": "Cholamandalam Investment and Finance Co Ltd",
+      "sector": "",
+      "value": 405280000.0,
+      "weighting": 2.11
+    },
+    {
+      "name": "UltraTech Cement Ltd",
+      "sector": "",
+      "value": 393682000.0,
+      "weighting": 2.04
+    },
+    {
+      "name": "BSE Ltd",
+      "sector": "",
+      "value": 367070000.0,
+      "weighting": 1.91
+    },
+    {
+      "name": "Max Healthcare Institute Ltd Ordinary Shares",
+      "sector": "",
+      "value": 351225000.0,
+      "weighting": 1.82
+    },
+    {
+      "name": "CG Power & Industrial Solutions Ltd",
+      "sector": "",
+      "value": 350222000.0,
+      "weighting": 1.82
+    },
+    {
+      "name": "ABB India Ltd",
+      "sector": "",
+      "value": 348469000.0,
+      "weighting": 1.81
+    },
+    {
+      "name": "Avenue Supermarts Ltd",
+      "sector": "",
+      "value": 342042000.0,
+      "weighting": 1.78
+    },
+    {
+      "name": "Bajaj Auto Ltd",
+      "sector": "",
+      "value": 321359000.0,
+      "weighting": 1.67
+    },
+    {
+      "name": "Poly Medicure Ltd",
+      "sector": "",
+      "value": 290572000.0,
+      "weighting": 1.51
+    },
+    {
+      "name": "Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 278745000.0,
+      "weighting": 1.45
+    },
+    {
+      "name": "Bank of Baroda",
+      "sector": "",
+      "value": 235411000.0,
+      "weighting": 1.22
+    },
+    {
+      "name": "Tata Steel Ltd",
+      "sector": "",
+      "value": 224538000.0,
+      "weighting": 1.17
+    },
+    {
+      "name": "Asian Paints Ltd",
+      "sector": "",
+      "value": 222796000.0,
+      "weighting": 1.16
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd",
+      "sector": "",
+      "value": 220930000.0,
+      "weighting": 1.15
+    },
+    {
+      "name": "Multi Commodity Exchange of India Ltd",
+      "sector": "",
+      "value": 217226000.0,
+      "weighting": 1.13
+    },
+    {
+      "name": "Global Health Ltd",
+      "sector": "",
+      "value": 209633000.0,
+      "weighting": 1.09
+    },
+    {
+      "name": "Shriram Finance Ltd",
+      "sector": "",
+      "value": 204805000.0,
+      "weighting": 1.06
+    },
+    {
+      "name": "Trent Ltd",
+      "sector": "",
+      "value": 203279000.0,
+      "weighting": 1.06
+    },
+    {
+      "name": "Hindustan Aeronautics Ltd Ordinary Shares",
+      "sector": "",
+      "value": 198329000.0,
+      "weighting": 1.03
+    },
+    {
+      "name": "Triparty Repo",
+      "sector": "",
+      "value": 197030000.0,
+      "weighting": 1.02
+    },
+    {
+      "name": "Prestige Estates Projects Ltd",
+      "sector": "",
+      "value": 185042000.0,
+      "weighting": 0.96
+    },
+    {
+      "name": "Hindalco Industries Ltd",
+      "sector": "",
+      "value": 169524000.0,
+      "weighting": 0.88
+    },
+    {
+      "name": "Dhoot Transmission Ltd",
+      "sector": "",
+      "value": 169283000.0,
+      "weighting": 0.88
+    },
+    {
+      "name": "Ather Energy Ltd",
+      "sector": "",
+      "value": 167086000.0,
+      "weighting": 0.87
+    },
+    {
+      "name": "PTC Industries Ltd",
+      "sector": "",
+      "value": 162608000.0,
+      "weighting": 0.84
+    },
+    {
+      "name": "Home First Finance Co India Ltd",
+      "sector": "",
+      "value": 161398000.0,
+      "weighting": 0.84
+    },
+    {
+      "name": "Polycab India Ltd",
+      "sector": "",
+      "value": 160335000.0,
+      "weighting": 0.83
+    },
+    {
+      "name": "Delhivery Ltd",
+      "sector": "",
+      "value": 157620000.0,
+      "weighting": 0.82
+    },
+    {
+      "name": "Vishal Mega Mart Ltd",
+      "sector": "",
+      "value": 151500000.0,
+      "weighting": 0.79
+    },
+    {
+      "name": "SRF Ltd",
+      "sector": "",
+      "value": 148350000.0,
+      "weighting": 0.77
+    },
+    {
+      "name": "Bharat Electronics Ltd",
+      "sector": "",
+      "value": 137601000.0,
+      "weighting": 0.71
+    },
+    {
+      "name": "DLF Ltd",
+      "sector": "",
+      "value": 134712000.0,
+      "weighting": 0.7
+    },
+    {
+      "name": "Jyoti CNC Automation Ltd",
+      "sector": "",
+      "value": 134576000.0,
+      "weighting": 0.7
+    },
+    {
+      "name": "Aditya Infotech Ltd",
+      "sector": "",
+      "value": 117218000.0,
+      "weighting": 0.61
+    },
+    {
+      "name": "Sai Life Sciences Ltd",
+      "sector": "",
+      "value": 115408000.0,
+      "weighting": 0.6
+    },
+    {
+      "name": "Dixon Technologies (India) Ltd",
+      "sector": "",
+      "value": 115123000.0,
+      "weighting": 0.6
+    },
+    {
+      "name": "Honeywell Automation India Ltd",
+      "sector": "",
+      "value": 99008000.0,
+      "weighting": 0.51
+    },
+    {
+      "name": "NTPC Green Energy Ltd",
+      "sector": "",
+      "value": 93370000.0,
+      "weighting": 0.48
+    },
+    {
+      "name": "PB Fintech Ltd",
+      "sector": "",
+      "value": 80719000.0,
+      "weighting": 0.42
+    },
+    {
+      "name": "Net Receivables / (Payables)",
+      "sector": "",
+      "value": -26588000.0,
+      "weighting": 0.14
+    }
+  ]
+}
