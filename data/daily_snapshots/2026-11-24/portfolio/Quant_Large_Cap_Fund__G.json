@@ -1,0 +1,217 @@
+{
+  "summary": {
+    "asset_alloc": {
+      "equity_alloc": "96.55",
+      "bond_alloc": "0.00",
+      "cash_alloc": "3.45",
+      "other_alloc": "0.00",
+      "colorCodes": {
+        "equity_alloc": "#007BCC",
+        "bond_alloc": "#04BA71",
+        "cash_alloc": "#00008B",
+        "other_alloc": "#C966D8"
+      }
+    },
+    "market_cap_weightage": {
+      "large_cap": 71.13,
+      "mid_cap": 9.91,
+      "small_cap": 8.32,
+      "others_cap": 10.64,
+      "colorCodes": {
+        "large_cap": "#007BCC",
+        "mid_cap": "#04BA71",
+        "small_cap": "#00008B",
+        "others_cap": "#C966D8"
+      }
+    },
+    "concentration": {
+      "number_of_holding": 30,
+      "avg_market_cap": "\u20b92,58,767.42 Cr",
+      "top_10_stk_wt": "73.89",
+      "top_5_stk_wt": "43.01",
+      "top_3_sector_wt": "46.30"
+    }
+  },
+  "holdings": [
+    {
+      "name": "Nca-Net Current Assets",
+      "sector": "",
+      "value": -4139471000.0,
+      "weighting": 11.07
+    },
+    {
+      "name": "Treps 02-Nov-2026 Depo 10",
+      "sector": "",
+      "value": 3614194000.0,
+      "weighting": 9.67
+    },
+    {
+      "name": "Jio Platforms Ltd",
+      "sector": "",
+      "value": 3494682000.0,
+      "weighting": 9.35
+    },
+    {
+      "name": "ITC Ltd",
+      "sector": "",
+      "value": 3417139000.0,
+      "weighting": 9.14
+    },
+    {
+      "name": "Adani Green Energy Ltd",
+      "sector": "",
+      "value": 3160367000.0,
+      "weighting": 8.45
+    },
+    {
+      "name": "ICICI Prudential Asset Management Co Ltd",
+      "sector": "",
+      "value": 3134593000.0,
+      "weighting": 8.39
+    },
+    {
+      "name": "Divi's Laboratories Ltd",
+      "sector": "",
+      "value": 2870186000.0,
+      "weighting": 7.68
+    },
+    {
+      "name": "Adani Enterprises Ltd",
+      "sector": "",
+      "value": 2661288000.0,
+      "weighting": 7.12
+    },
+    {
+      "name": "LG Electronics India Ltd",
+      "sector": "",
+      "value": 2614909000.0,
+      "weighting": 7.0
+    },
+    {
+      "name": "Bharti Airtel Ltd",
+      "sector": "",
+      "value": 2481152000.0,
+      "weighting": 6.64
+    },
+    {
+      "name": "Adani Energy Solutions Ltd",
+      "sector": "",
+      "value": 2194564000.0,
+      "weighting": 5.87
+    },
+    {
+      "name": "Samvardhana Motherson International Ltd",
+      "sector": "",
+      "value": 1592209000.0,
+      "weighting": 4.26
+    },
+    {
+      "name": "Adani Energy Solutions Ltd.",
+      "sector": "",
+      "value": 1397236000.0,
+      "weighting": 3.74
+    },
+    {
+      "name": "Capri Global Capital Ltd",
+      "sector": "",
+      "value": 1352806000.0,
+      "weighting": 3.62
+    },
+    {
+      "name": "Bharti Airtel Ltd.",
+      "sector": "",
+      "value": 1232760000.0,
+      "weighting": 3.3
+    },
+    {
+      "name": "Zydus Lifesciences Ltd",
+      "sector": "",
+      "value": 1090684000.0,
+      "weighting": 2.92
+    },
+    {
+      "name": "JSW Steel Ltd.",
+      "sector": "",
+      "value": 963568000.0,
+      "weighting": 2.58
+    },
+    {
+      "name": "HFCL Ltd",
+      "sector": "",
+      "value": 951373000.0,
+      "weighting": 2.55
+    },
+    {
+      "name": "India (Republic of)",
+      "sector": "",
+      "value": 922193000.0,
+      "weighting": 2.47
+    },
+    {
+      "name": "Divi's Laboratories Ltd.",
+      "sector": "",
+      "value": 775668000.0,
+      "weighting": 2.08
+    },
+    {
+      "name": "Life Insurance Corporation of India",
+      "sector": "",
+      "value": 405389000.0,
+      "weighting": 1.08
+    },
+    {
+      "name": "Indus Towers Ltd.",
+      "sector": "",
+      "value": 300515000.0,
+      "weighting": 0.8
+    },
+    {
+      "name": "India (Rep Of)",
+      "sector": "",
+      "value": 248200000.0,
+      "weighting": 0.66
+    },
+    {
+      "name": "91 Days Treasury Bill 24-Dec-2026",
+      "sector": "",
+      "value": 247928000.0,
+      "weighting": 0.66
+    },
+    {
+      "name": "91 Days Treasury Bill 10-Dec-2026",
+      "sector": "",
+      "value": 198780000.0,
+      "weighting": 0.53
+    },
+    {
+      "name": "91 Days Treasury Bill 28-Jan-2027",
+      "sector": "",
+      "value": 147873000.0,
+      "weighting": 0.4
+    },
+    {
+      "name": "91 Days Treasury Bill 14-Jan-2027",
+      "sector": "",
+      "value": 49407000.0,
+      "weighting": 0.13
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Coal India Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    },
+    {
+      "name": "Infosys Ltd",
+      "sector": "",
+      "value": 0.0,
+      "weighting": 0.0
+    }
+  ]
+}
